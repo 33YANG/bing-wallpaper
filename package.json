@@ -1,0 +1,12 @@
+{
+  "name": "crawl-wallpaper",
+  "version": "1.0.0",
+  "description": "crawl bing wallpaper nodejs script",
+  "main": "main.js",
+  "author": "33YANG",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
