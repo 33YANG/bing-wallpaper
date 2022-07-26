@@ -1,10 +1,10 @@
 name: Daily Run NodeJS Script
 on:
-  push:
-    branches:
-      - test
+  # push:
+  #   branches:
+  #     - test
   schedule:
-    - cron: '40 7,15 * * *'
+    - cron: '0 8,16 * * *'
 
 jobs:
   Run-Script:
