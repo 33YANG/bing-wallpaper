@@ -4,7 +4,8 @@ on:
     branches:
       - test
   schedule:
-    - cron: '0 8,16 * * *'
+    # Daily UTC Time 08:00
+    - cron: '30 0,8 * * *'
 
 jobs:
   Run-Script:
@@ -18,6 +19,7 @@ jobs:
         with:
           node-version: 16.x
           yarn: true
+          yarn-cache: true
 
       - name: Install dependencies
         run: yarn install
@@ -28,7 +30,7 @@ jobs:
       - name: Commit files
         run: |
           git config --local user.email "yangyata@qq.com"
-          git config --local user.name "yangyata"
+          git config --local user.name "33YANG"
           git pull
           git status
           git add ./
