@@ -3,25 +3,37 @@ on:
   push:
     branches:
       - test
+  schedule:
+    - cron: '0 9 * * *'
+
 jobs:
   Run-Script:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - uses: actions/checkout@v3
 
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - name: Set up NodeJS environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
 
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Run NodeJS Script
+        run: node main.js
 
-      - name: Check out repository code
-        uses: actions/checkout@v3
-
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-
-      - name: List files in the repository
+      - name: Commit files
         run: |
-          ls ${{ github.workspace }}
+          git config --local user.email "yangyata@qq.com"
+          git config --local user.name "yangyata"
+          git pull
+          git status
+          git add ./
+          git commit -m "feat: daily run nodejs script"
 
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: test
+          # force: true
+          message: 'feat: daily run nodejs script'
+          author: 'yangyata <yangyata@qq.com>'
