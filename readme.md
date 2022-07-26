@@ -5,19 +5,19 @@
 
 ## Last Week's Bing Wallpaper Preview
 
-- 20220719 -「 “巴伐利亚海”中的岛屿 」 
-  ![“巴伐利亚海”中的岛屿](https://cn.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220718 -「 海上阿尔卑斯山 」 
-  ![海上阿尔卑斯山](https://cn.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220717 -「 乘风破浪 」 
-  ![乘风破浪](https://cn.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220716 -「 “薯片鸟” 」 
-  ![“薯片鸟”](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220715 -「 时光倒流...... 」 
-  ![时光倒流......](https://cn.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220714 -「 自由自在的柠檬鲨 」 
-  ![自由自在的柠檬鲨](https://cn.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220713 -「 巨石中的巨石 」 
-  ![巨石中的巨石](https://cn.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220712 -「 螺旋上升…… 」 
-  ![螺旋上升……](https://cn.bing.com/th?id=OHR.SpiralHill_ZH-CN3829252235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220727 -「 Saviors of the shoreline 」 
+  ![Saviors of the shoreline](https://cn.bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220726 -「 Boardwalk nostalgia 」 
+  ![Boardwalk nostalgia](https://cn.bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220725 -「 Her legend and mystery endure 」 
+  ![Her legend and mystery endure](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220724 -「 Stealthy pollinator 」 
+  ![Stealthy pollinator](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220723 -「 An island made from a vow 」 
+  ![An island made from a vow](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220722 -「 Stunning symmetry 」 
+  ![Stunning symmetry](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220721 -「 One giant leap for mankind 」 
+  ![One giant leap for mankind](https://cn.bing.com/th?id=OHR.MoonPhases_EN-US3514261526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20220720 -「 Oh, give me a home 」 
+  ![Oh, give me a home](https://cn.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
