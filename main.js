@@ -4,8 +4,7 @@ const axios = require('axios')
 const path = require('path')
 
 const BING_URL_PREFIX = 'https://bing.com'
-const BING_WALLPAPER_CN_URL =
-  'https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160'
+const BING_WALLPAPER_CN_URL = 'https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160'
 const READ_ME_CONTENT = `
 # Bing Daily Wallpaper By NodeJS Script
 
