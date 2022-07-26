@@ -32,7 +32,7 @@ jobs:
           git pull
           git status
           git add ./
-          git commit -m "feat: daily run nodejs script"
+          git commit -m "feat: daily run script update wallpaper"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
