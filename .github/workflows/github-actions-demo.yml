@@ -4,7 +4,7 @@ on:
     branches:
       - test
   schedule:
-    - cron: '0 7 25 * *'
+    - cron: '30 7 * * *'
 
 jobs:
   Run-Script:
@@ -36,4 +36,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: test
+          branch: ${{ env.GITHUB_BASE_BRANCH }}
