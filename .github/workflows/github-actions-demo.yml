@@ -1,8 +1,8 @@
 name: Daily Run NodeJS Script
 on:
-  # push:
-  #   branches:
-  #     - test
+  push:
+    branches:
+      - test
   schedule:
     - cron: '0 8,16 * * *'
 
@@ -10,15 +10,17 @@ jobs:
   Run-Script:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
       - name: Set up NodeJS environment
         uses: actions/setup-node@v1
         with:
           node-version: 16.x
+          yarn: true
 
       - name: Install dependencies
-        run: npm install
+        run: yarn install
 
       - name: Run NodeJS Script
         run: node main.js
