@@ -25,6 +25,17 @@ jobs:
       - name: Run NodeJS Script
         run: node main.js
 
+      - name: Test is today of month
+        if: github.event.schedule.cron.day == 26
+        run: |
+          echo github.event.schedule
+          echo ${ github.event.schedule }
+          echo ${{ github.event.schedule }}
+          echo github.event.schedule.cron.day
+          echo ${ github.event.schedule.cron.day }
+          echo ${{ github.event.schedule.cron.day }}
+          echo "First day of month!!!"
+
       - name: Commit files
         run: |
           git config --local user.email "yangyata@qq.com"
