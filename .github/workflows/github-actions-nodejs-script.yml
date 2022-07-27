@@ -1,11 +1,7 @@
 name: Daily Run NodeJS Script
 on:
-  push:
-    branches:
-      - test
   schedule:
-    # Daily UTC Time 08:00
-    - cron: '30 0,8 * * *'
+    - cron: '40 11 * * *'
 
 jobs:
   Run-Script:
@@ -38,6 +34,12 @@ jobs:
 
       - name: Commit files
         run: |
+          echo github.event.schedule
+          echo ${ github.event.schedule }
+          echo ${{ github.event.schedule }}
+          echo github.event.schedule.cron.day
+          echo ${ github.event.schedule.cron.day }
+          echo ${{ github.event.schedule.cron.day }}
           git config --local user.email "yangyata@qq.com"
           git config --local user.name "33YANG"
           git pull
