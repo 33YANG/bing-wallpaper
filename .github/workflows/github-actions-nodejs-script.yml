@@ -1,0 +1,54 @@
+name: Daily Run NodeJS Script
+on:
+  schedule:
+    - cron: '40 11 * * *'
+
+jobs:
+  Run-Script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up NodeJS environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Run NodeJS Script
+        run: node ./src/index.js
+
+      - name: Test is today of month
+        if: github.event.schedule.cron.day == 27
+        run: |
+          echo github.event.schedule
+          echo ${ github.event.schedule }
+          echo ${{ github.event.schedule }}
+          echo github.event.schedule.cron.day
+          echo ${ github.event.schedule.cron.day }
+          echo ${{ github.event.schedule.cron.day }}
+          echo "First day of month!!!"
+
+      - name: Commit files
+        run: |
+          echo github.event.schedule
+          echo ${ github.event.schedule }
+          echo ${{ github.event.schedule }}
+          echo github.event.schedule.cron.day
+          echo ${ github.event.schedule.cron.day }
+          echo ${{ github.event.schedule.cron.day }}
+          git config --local user.email "yangyata@qq.com"
+          git config --local user.name "33YANG"
+          git pull
+          git status
+          git add ./
+          git commit -m "feat: daily run script update wallpaper"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: test
