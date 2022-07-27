@@ -23,10 +23,10 @@ jobs:
         run: yarn install
 
       - name: Run NodeJS Script
-        run: node main.js
+        run: node ./src/index.js
 
       - name: Test is today of month
-        if: github.event.schedule.cron.day == 26
+        if: github.event.schedule.cron.day == 27
         run: |
           echo github.event.schedule
           echo ${ github.event.schedule }
