@@ -58,7 +58,7 @@ async function downLoadWallpaper({ url, title }) {
 
   await fsp.writeFile(`${curMonthFolder}/${getCurDate(true)}.jpg`, imageBuffer)
 
-  console.log(`[ ${new Date().toLocaleString()} ] [ ${getCurDate(true)} ${title} Wallpaper Saved ]`)
+  console.log(`[ ${new Date().toLocaleString()} ] [ ${getCurDate(true)} ${title} Wallpaper Saved successfully ]`)
 }
 
 /**

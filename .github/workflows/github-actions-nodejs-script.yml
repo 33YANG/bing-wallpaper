@@ -1,7 +1,7 @@
 name: Daily Run NodeJS Script
 on:
   schedule:
-    - cron: '45 11 * * *'
+    - cron: '50 11,19 * * *'
 
 jobs:
   Run-Script:
@@ -51,4 +51,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: test
+          branch: main

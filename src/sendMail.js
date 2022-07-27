@@ -19,7 +19,7 @@ function zipDirectory(dirPath, zipPath) {
     })
 
     archive.on('error', err => {
-      console.log(`[ ${new Date().toLocaleString()} ] Error while archiving: `, err)
+      console.log(`[ ${new Date().toLocaleString()} ] Error while archiving:`, err)
       reject(err)
     })
 

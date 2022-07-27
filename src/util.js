@@ -20,7 +20,7 @@ const EMAIL_FROM_EMAIL = 'yangyata@qq.com'
 const EMAIL_FROM_PASS = 'mcswhujfuaqqcbbb'
 const EMAIL_ADDRESS_LIST = ['yangyata@foxmail.com', 'yangteike@gmail.com']
 
-// utils fn
+// utils functions
 
 /**
  * resolve path to absolute path
