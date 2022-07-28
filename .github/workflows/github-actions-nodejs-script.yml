@@ -1,7 +1,7 @@
 name: Daily Run NodeJS Script
 on:
   schedule:
-    - cron: '20/20 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   Run-Script:
@@ -21,7 +21,7 @@ jobs:
       - name: Run Main NodeJS Script
         run: node ./src/index.js
 
-      - name: Run SendMail Script
+      - name: Run SendMail NodeJS Script
         run: |
           echo github.event.schedule ${{ github.event.schedule }}
           node ./src/sendMail.js email=${{ secrets.EMAIL_ADDRESS }} email_pass=${{ secrets.EMAIL_PASS }} email_to=${{ secrets.EMAIL_TO }}
