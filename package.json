@@ -14,6 +14,6 @@
   },
   "scripts": {
     "start": "node ./src/index.js",
-    "send": "node ./src/sendMail.js email=yangyata@qq.com email_pass=mcswhujfuaqqcbbb"
+    "send": "node ./src/sendMail.js"
   }
 }
