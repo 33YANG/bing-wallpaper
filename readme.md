@@ -1,10 +1,24 @@
-
 # Bing Daily Wallpaper By NodeJS Script
 
 > This project is only for learning and communication, please do not spread or use it for illegal purposes
 
+This is a project that uses nodejs script to get wallpapers through bing wallpaper api and github actions, and automatically compress the entire month wallpaper and send it to the mailbox
+
+Use: **NodeJS** + **Bing Wallpaper API** + **GitHub Actions**
+
+Main function:
+
+- Get bing daily wallpaper by bing API
+- Automatically compress all wallpapers of the previous month on the 1st of each month
+- Send the compressed package to the specified mailbox
+- All above function base on github actions schedule
+
+---
+
 ## Last Week's Bing Wallpaper Preview
 
+- 20220729 -「 Purple mountain majesties 」 
+  ![Purple mountain majesties](https://bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220728 -「 The lonely castle 」 
   ![The lonely castle](https://bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220727 -「 Saviors of the shoreline 」 
@@ -19,5 +33,3 @@
   ![An island made from a vow](https://bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220722 -「 Stunning symmetry 」 
   ![Stunning symmetry](https://bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220721 -「 One giant leap for mankind 」 
-  ![One giant leap for mankind](https://bing.com/th?id=OHR.MoonPhases_EN-US3514261526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)

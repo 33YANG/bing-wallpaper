@@ -1,3 +1,5 @@
+'use strict'
+
 const path = require('path')
 const axios = require('axios')
 
@@ -7,20 +9,7 @@ const BING_URL_PREFIX = 'https://bing.com'
 
 const BING_WALLPAPER_CN_URL = 'https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160'
 
-const READ_ME_CONTENT = `
-# Bing Daily Wallpaper By NodeJS Script
-
-> This project is only for learning and communication, please do not spread or use it for illegal purposes
-
-## Last Week's Bing Wallpaper Preview
-`
-
-const EMAIL_FROM_USER = 'yangyata'
-const EMAIL_FROM_EMAIL = 'yangyata@qq.com'
-const EMAIL_FROM_PASS = 'mcswhujfuaqqcbbb'
-const EMAIL_ADDRESS_LIST = ['yangyata@foxmail.com', 'yangteike@gmail.com']
-
-// utils fn
+// utils functions
 
 /**
  * resolve path to absolute path
@@ -64,11 +53,6 @@ const getLatestWallpaper = async () => {
 module.exports = {
   BING_URL_PREFIX,
   BING_WALLPAPER_CN_URL,
-  READ_ME_CONTENT,
-  EMAIL_FROM_USER,
-  EMAIL_FROM_EMAIL,
-  EMAIL_FROM_PASS,
-  EMAIL_ADDRESS_LIST,
   resolvePath,
   makeDirectory,
   getCurDate,

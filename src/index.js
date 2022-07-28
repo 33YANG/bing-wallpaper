@@ -1,15 +1,19 @@
+'use strict'
+
 const fs = require('fs')
 const fsp = require('fs').promises
 const axios = require('axios')
-const { BING_URL_PREFIX, BING_WALLPAPER_CN_URL, READ_ME_CONTENT, resolvePath, makeDirectory, getCurDate } = require('./util')
+const { BING_URL_PREFIX, BING_WALLPAPER_CN_URL, resolvePath, makeDirectory, getCurDate } = require('./util')
 
 /**
  * write readme file
  * @param {*} imageData wallpaper data
  */
 async function writeReadMe(imageData) {
+  // read readme.md static info
+  const readMeStaticContent = await fsp.readFile(resolvePath('../readme_info.md'), 'utf8')
   // rewrite readme.md
-  await fsp.writeFile(resolvePath('../readme.md'), READ_ME_CONTENT, { flag: 'w' })
+  await fsp.writeFile(resolvePath('../readme.md'), readMeStaticContent, { flag: 'w' })
 
   // append wallpaper image data
   for (const item of imageData) {
@@ -58,7 +62,7 @@ async function downLoadWallpaper({ url, title }) {
 
   await fsp.writeFile(`${curMonthFolder}/${getCurDate(true)}.jpg`, imageBuffer)
 
-  console.log(`[ ${new Date().toLocaleString()} ] [ ${getCurDate(true)} ${title} Wallpaper Saved ]`)
+  console.log(`[ ${new Date().toLocaleString()} ] [ ${getCurDate(true)} ${title} Wallpaper Saved successfully ]`)
 }
 
 /**

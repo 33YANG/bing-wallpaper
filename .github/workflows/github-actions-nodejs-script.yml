@@ -1,7 +1,7 @@
 name: Daily Run NodeJS Script
 on:
   schedule:
-    - cron: '40 11 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   Run-Script:
@@ -18,30 +18,18 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Run NodeJS Script
+      - name: Run Main NodeJS Script
         run: node ./src/index.js
 
-      - name: Test is today of month
-        if: github.event.schedule.cron.day == 27
+      - name: Run SendMail NodeJS Script
         run: |
-          echo github.event.schedule
-          echo ${ github.event.schedule }
-          echo ${{ github.event.schedule }}
-          echo github.event.schedule.cron.day
-          echo ${ github.event.schedule.cron.day }
-          echo ${{ github.event.schedule.cron.day }}
-          echo "First day of month!!!"
+          echo github.event.schedule ${{ github.event.schedule }}
+          node ./src/sendMail.js email=${{ secrets.EMAIL_ADDRESS }} email_pass=${{ secrets.EMAIL_PASS }} email_to=${{ secrets.EMAIL_TO }}
 
       - name: Commit files
         run: |
-          echo github.event.schedule
-          echo ${ github.event.schedule }
-          echo ${{ github.event.schedule }}
-          echo github.event.schedule.cron.day
-          echo ${ github.event.schedule.cron.day }
-          echo ${{ github.event.schedule.cron.day }}
-          git config --local user.email "yangyata@qq.com"
-          git config --local user.name "33YANG"
+          git config --local user.email "${{ secrets.MY_GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.MY_GIT_USERNAME }}"
           git pull
           git status
           git add ./
@@ -51,4 +39,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
-          branch: test
+          branch: main

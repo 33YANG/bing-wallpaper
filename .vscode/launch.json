@@ -7,7 +7,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch NodeJS Script",
+      "name": "Launch NodeJS Script VSCode configuration",
       "program": "${file}"
     }
   ]
