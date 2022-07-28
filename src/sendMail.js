@@ -1,10 +1,17 @@
 'use strict'
 
+require('dotenv').config()
 const fs = require('fs')
 const fsp = require('fs').promises
 const archiver = require('archiver')
 const nodemailer = require('nodemailer')
-const { BING_URL_PREFIX, EMAIL_FROM_USER, EMAIL_FROM_EMAIL, EMAIL_FROM_PASS, EMAIL_ADDRESS_LIST, resolvePath, getLatestWallpaper } = require('./util')
+const { BING_URL_PREFIX, resolvePath, getLatestWallpaper } = require('./util')
+
+const commandLineParams = process.argv.slice(2)
+const EMAIL_FROM_EMAIL = process.env.EMAIL_FROM_EMAIL || commandLineParams[0].split('=')[1]
+const EMAIL_FROM_PASS = process.env.EMAIL_FROM_PASS || commandLineParams[1].split('=')[1]
+const EMAIL_FROM_USER = EMAIL_FROM_EMAIL.split('@')[0]
+const EMAIL_ADDRESS_LIST = ['yangteike@gmail.com']
 
 /**
  * compress directory use archiver
