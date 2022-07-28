@@ -1,7 +1,7 @@
 name: Daily Run NodeJS Script
 on:
   schedule:
-    - cron: '/20 * * * *'
+    - cron: '20/20 * * * *'
 
 jobs:
   Run-Script:
@@ -22,13 +22,11 @@ jobs:
         run: node ./src/index.js
 
       - name: Test is today of month
-        if: github.event.schedule.cron.day == 27
+        if: github.event.schedule.cron.day == 28
         run: |
           echo github.event.schedule
-          echo ${ github.event.schedule }
           echo ${{ github.event.schedule }}
           echo github.event.schedule.cron.day
-          echo ${ github.event.schedule.cron.day }
           echo ${{ github.event.schedule.cron.day }}
           echo "First day of month!!!"
 
