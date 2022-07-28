@@ -11,7 +11,7 @@ const commandLineParams = process.argv.slice(2)
 const EMAIL_FROM_EMAIL = process.env.EMAIL_FROM_EMAIL || commandLineParams[0].split('=')[1]
 const EMAIL_FROM_PASS = process.env.EMAIL_FROM_PASS || commandLineParams[1].split('=')[1]
 const EMAIL_FROM_USER = EMAIL_FROM_EMAIL.split('@')[0]
-const EMAIL_ADDRESS_LIST = ['yangteike@gmail.com']
+const EMAIL_ADDRESS_LIST = process.env.EMAIL_ADDRESS_LIST || commandLineParams[2].split('=')[1]
 
 /**
  * compress directory use archiver
@@ -79,7 +79,7 @@ async function sendMail(zipPath) {
     if (error) {
       console.log(`[ ${new Date().toLocaleString()} ] Error while sending mail: `, error)
     } else {
-      console.log(`[ ${new Date().toLocaleString()} ] Mail from ${EMAIL_FROM_EMAIL} sent to ${EMAIL_ADDRESS_LIST.join(', ')} done:`, info.response)
+      console.log(`[ ${new Date().toLocaleString()} ] Mail from ${EMAIL_FROM_EMAIL} sent to ${EMAIL_ADDRESS_LIST} done:`, info.response)
     }
   })
 }
