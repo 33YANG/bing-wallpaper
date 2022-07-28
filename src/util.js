@@ -1,3 +1,4 @@
+require('dotenv').config()
 const path = require('path')
 const axios = require('axios')
 
@@ -14,11 +15,12 @@ const READ_ME_CONTENT = `
 
 ## Last Week's Bing Wallpaper Preview
 `
+const EMAIL_ADDRESS_LIST = ['yangteike@gmail.com']
 
-const EMAIL_FROM_USER = 'yangyata'
-const EMAIL_FROM_EMAIL = 'yangyata@qq.com'
-const EMAIL_FROM_PASS = 'mcswhujfuaqqcbbb'
-const EMAIL_ADDRESS_LIST = ['yangyata@foxmail.com', 'yangteike@gmail.com']
+const commandLineParams = process.argv.slice(2)
+const EMAIL_FROM_EMAIL = process.env.EMAIL_FROM_EMAIL || commandLineParams[0].split('=')[1]
+const EMAIL_FROM_PASS = process.env.EMAIL_FROM_PASS || commandLineParams[1].split('=')[1]
+const EMAIL_FROM_USER = EMAIL_FROM_EMAIL.split('@')[0]
 
 // utils functions
 

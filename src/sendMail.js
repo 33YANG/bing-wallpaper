@@ -35,7 +35,7 @@ function zipDirectory(dirPath, zipPath) {
 }
 
 /**
- *
+ *  send wallpaper zip by nodemailer
  * @param {*} zipPath
  */
 async function sendMail(zipPath) {
@@ -72,7 +72,7 @@ async function sendMail(zipPath) {
     if (error) {
       console.log(`[ ${new Date().toLocaleString()} ] Error while sending mail: `, error)
     } else {
-      console.log(`[ ${new Date().toLocaleString()} ] Mail sent to ${EMAIL_ADDRESS_LIST.join(', ')} done:`, info.response)
+      console.log(`[ ${new Date().toLocaleString()} ] Mail from ${EMAIL_FROM_EMAIL} sent to ${EMAIL_ADDRESS_LIST.join(', ')} done:`, info.response)
     }
   })
 }
@@ -81,7 +81,7 @@ async function compressFolderSendMail() {
   try {
     const curDay = new Date().getDate()
     // per 1st day of month handle send wallpaper
-    if (curDay === 1 || true) {
+    if (curDay === 1) {
       // handle previous month data, compress to zip and remove folder
       const preMonthWallpaperDir = resolvePath(`../wallpaper/${new Date().getFullYear()}-${new Date().getMonth()}`)
       const preMonthWallpaperZip = resolvePath(`${preMonthWallpaperDir}.zip`)

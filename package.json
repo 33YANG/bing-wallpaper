@@ -9,6 +9,11 @@
   "dependencies": {
     "archiver": "^5.3.1",
     "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
     "nodemailer": "^6.7.7"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "send": "node ./src/sendMail.js email=yangyata@qq.com email_pass=mcswhujfuaqqcbbb"
   }
 }

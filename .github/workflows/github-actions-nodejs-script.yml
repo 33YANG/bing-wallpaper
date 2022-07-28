@@ -18,24 +18,16 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Run NodeJS Script
+      - name: Run Main NodeJS Script
         run: node ./src/index.js
 
-      - name: Test is today of month
-        if: github.event.schedule.cron.day == 28
+      - name: Run SendMail Script
         run: |
-          echo github.event.schedule
-          echo ${{ github.event.schedule }}
-          echo github.event.schedule.cron.day
-          echo ${{ github.event.schedule.cron.day }}
-          echo "First day of month!!!"
+          echo github.event.schedule ${{ github.event.schedule }}
+          node ./src/sendMail.js email=${{ secrets.EMAIL_ADDRESS }} email_pass=${{ secrets.EMAIL_PASS }}
 
       - name: Commit files
         run: |
-          echo github.event.schedule
-          echo ${{ github.event.schedule }}
-          echo github.event.schedule.cron.day
-          echo ${{ github.event.schedule.cron.day }}
           git config --local user.email "yangyata@qq.com"
           git config --local user.name "33YANG"
           git pull
