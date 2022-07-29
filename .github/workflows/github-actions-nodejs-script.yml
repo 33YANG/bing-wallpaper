@@ -1,7 +1,7 @@
 name: Daily Run NodeJS Script
 on:
   schedule:
-    - cron: '20/20 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   Run-Script:
@@ -40,4 +40,3 @@ jobs:
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
           branch: main
-          pull_request: true
