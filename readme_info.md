@@ -6,7 +6,7 @@ This is a project that uses nodejs script to get wallpapers through bing wallpap
 
 Use: **NodeJS** + **Bing Wallpaper API** + **GitHub Actions**
 
-Main function:
+Main functions:
 
 - Get bing daily wallpaper by bing API
 - Automatically compress all wallpapers of the previous month on the 1st of each month
