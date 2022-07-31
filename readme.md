@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220731 -「 The 'eighth wonder'? 」 
+  ![The 'eighth wonder'?](https://bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220730 -「 One rare 'streak' 」 
   ![One rare 'streak'](https://bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220729 -「 Purple mountain majesties 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Her legend and mystery endure](https://bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220724 -「 Stealthy pollinator 」 
   ![Stealthy pollinator](https://bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220723 -「 An island made from a vow 」 
-  ![An island made from a vow](https://bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
