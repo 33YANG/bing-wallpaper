@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220801 -「 Noctilucent clouds 」 
+  ![Noctilucent clouds](https://bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220731 -「 The 'eighth wonder'? 」 
   ![The 'eighth wonder'?](https://bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220730 -「 One rare 'streak' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Boardwalk nostalgia](https://bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220725 -「 Her legend and mystery endure 」 
   ![Her legend and mystery endure](https://bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220724 -「 Stealthy pollinator 」 
-  ![Stealthy pollinator](https://bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
