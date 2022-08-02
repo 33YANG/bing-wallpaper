@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220802 -「 The most active volcano in the world 」 
+  ![The most active volcano in the world](https://bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220801 -「 Noctilucent clouds 」 
   ![Noctilucent clouds](https://bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220731 -「 The 'eighth wonder'? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Saviors of the shoreline](https://bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220726 -「 Boardwalk nostalgia 」 
   ![Boardwalk nostalgia](https://bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220725 -「 Her legend and mystery endure 」 
-  ![Her legend and mystery endure](https://bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
