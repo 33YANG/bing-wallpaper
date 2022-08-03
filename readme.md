@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220803 -「 Take the trail more traveled by 」 
+  ![Take the trail more traveled by](https://bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220802 -「 The most active volcano in the world 」 
   ![The most active volcano in the world](https://bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220801 -「 Noctilucent clouds 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The lonely castle](https://bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220727 -「 Saviors of the shoreline 」 
   ![Saviors of the shoreline](https://bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220726 -「 Boardwalk nostalgia 」 
-  ![Boardwalk nostalgia](https://bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
