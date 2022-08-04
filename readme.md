@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220804 -「 You might be a red-necked grebe if… 」 
+  ![You might be a red-necked grebe if…](https://bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220803 -「 Take the trail more traveled by 」 
   ![Take the trail more traveled by](https://bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220802 -「 The most active volcano in the world 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Purple mountain majesties](https://bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220728 -「 The lonely castle 」 
   ![The lonely castle](https://bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220727 -「 Saviors of the shoreline 」 
-  ![Saviors of the shoreline](https://bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
