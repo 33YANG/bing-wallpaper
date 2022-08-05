@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220805 -「 Pastel perfection 」 
+  ![Pastel perfection](https://bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220804 -「 You might be a red-necked grebe if… 」 
   ![You might be a red-necked grebe if…](https://bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220803 -「 Take the trail more traveled by 」 
@@ -31,5 +33,3 @@ Main functions:
   ![One rare 'streak'](https://bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220729 -「 Purple mountain majesties 」 
   ![Purple mountain majesties](https://bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220728 -「 The lonely castle 」 
-  ![The lonely castle](https://bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
