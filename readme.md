@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220806 -「 Festival fever 」 
+  ![Festival fever](https://bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220805 -「 Pastel perfection 」 
   ![Pastel perfection](https://bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220804 -「 You might be a red-necked grebe if… 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The 'eighth wonder'?](https://bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220730 -「 One rare 'streak' 」 
   ![One rare 'streak'](https://bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220729 -「 Purple mountain majesties 」 
-  ![Purple mountain majesties](https://bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
