@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220807 -「 A salty situation 」 
+  ![A salty situation](https://bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220806 -「 Festival fever 」 
   ![Festival fever](https://bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220805 -「 Pastel perfection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Noctilucent clouds](https://bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220731 -「 The 'eighth wonder'? 」 
   ![The 'eighth wonder'?](https://bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220730 -「 One rare 'streak' 」 
-  ![One rare 'streak'](https://bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
