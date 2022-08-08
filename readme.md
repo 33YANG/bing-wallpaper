@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220808 -「 A small but mighty guardian 」 
+  ![A small but mighty guardian](https://bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220807 -「 A salty situation 」 
   ![A salty situation](https://bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220806 -「 Festival fever 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The most active volcano in the world](https://bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220801 -「 Noctilucent clouds 」 
   ![Noctilucent clouds](https://bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220731 -「 The 'eighth wonder'? 」 
-  ![The 'eighth wonder'?](https://bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
