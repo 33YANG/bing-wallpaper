@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220810 -「 9,000-year-old handprints 」 
+  ![9,000-year-old handprints](https://bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220809 -「 Little island, big sea 」 
   ![Little island, big sea](https://bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220808 -「 A small but mighty guardian 」 
@@ -31,5 +33,3 @@ Main functions:
   ![You might be a red-necked grebe if…](https://bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220803 -「 Take the trail more traveled by 」 
   ![Take the trail more traveled by](https://bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220802 -「 The most active volcano in the world 」 
-  ![The most active volcano in the world](https://bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
