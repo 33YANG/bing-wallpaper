@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220811 -「 Desert daggers? 」 
+  ![Desert daggers?](https://bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220810 -「 9,000-year-old handprints 」 
   ![9,000-year-old handprints](https://bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220809 -「 Little island, big sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pastel perfection](https://bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220804 -「 You might be a red-necked grebe if… 」 
   ![You might be a red-necked grebe if…](https://bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220803 -「 Take the trail more traveled by 」 
-  ![Take the trail more traveled by](https://bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
