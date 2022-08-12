@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220812 -「 Go hug a mountain, if you can 」 
+  ![Go hug a mountain, if you can](https://bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220811 -「 Desert daggers? 」 
   ![Desert daggers?](https://bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220810 -「 9,000-year-old handprints 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Festival fever](https://bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220805 -「 Pastel perfection 」 
   ![Pastel perfection](https://bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220804 -「 You might be a red-necked grebe if… 」 
-  ![You might be a red-necked grebe if…](https://bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
