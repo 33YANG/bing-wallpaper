@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220813 -「 Family on parade 」 
+  ![Family on parade](https://bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220812 -「 Go hug a mountain, if you can 」 
   ![Go hug a mountain, if you can](https://bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220811 -「 Desert daggers? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A salty situation](https://bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220806 -「 Festival fever 」 
   ![Festival fever](https://bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220805 -「 Pastel perfection 」 
-  ![Pastel perfection](https://bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
