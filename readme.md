@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220814 -「 Canoeing in solitude 」 
+  ![Canoeing in solitude](https://bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220813 -「 Family on parade 」 
   ![Family on parade](https://bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220812 -「 Go hug a mountain, if you can 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A small but mighty guardian](https://bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220807 -「 A salty situation 」 
   ![A salty situation](https://bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220806 -「 Festival fever 」 
-  ![Festival fever](https://bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
