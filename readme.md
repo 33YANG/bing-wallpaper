@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220815 -「 Hide-and-go-seek world champion 」 
+  ![Hide-and-go-seek world champion](https://bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220814 -「 Canoeing in solitude 」 
   ![Canoeing in solitude](https://bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220813 -「 Family on parade 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Little island, big sea](https://bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220808 -「 A small but mighty guardian 」 
   ![A small but mighty guardian](https://bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220807 -「 A salty situation 」 
-  ![A salty situation](https://bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
