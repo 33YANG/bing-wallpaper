@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220817 -「 Thrill ride 」 
+  ![Thrill ride](https://bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220816 -「 On this day, a nation was born 」 
   ![On this day, a nation was born](https://bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220815 -「 Hide-and-go-seek world champion 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Desert daggers?](https://bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220810 -「 9,000-year-old handprints 」 
   ![9,000-year-old handprints](https://bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220809 -「 Little island, big sea 」 
-  ![Little island, big sea](https://bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
