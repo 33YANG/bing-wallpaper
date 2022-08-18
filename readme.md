@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220818 -「 So fresh, so clean 」 
+  ![So fresh, so clean](https://bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220817 -「 Thrill ride 」 
   ![Thrill ride](https://bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220816 -「 On this day, a nation was born 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Go hug a mountain, if you can](https://bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220811 -「 Desert daggers? 」 
   ![Desert daggers?](https://bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220810 -「 9,000-year-old handprints 」 
-  ![9,000-year-old handprints](https://bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
