@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220819 -「 Home of the world's worst-smelling food? 」 
+  ![Home of the world's worst-smelling food?](https://bing.com/th?id=OHR.SourHerring_EN-US2672490827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220818 -「 So fresh, so clean 」 
   ![So fresh, so clean](https://bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220817 -「 Thrill ride 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Family on parade](https://bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220812 -「 Go hug a mountain, if you can 」 
   ![Go hug a mountain, if you can](https://bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220811 -「 Desert daggers? 」 
-  ![Desert daggers?](https://bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
