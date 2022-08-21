@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220821 -「 Saving and celebrating honey bees 」 
+  ![Saving and celebrating honey bees](https://bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220820 -「 A flight to remember 」 
   ![A flight to remember](https://bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220819 -「 Home of the world's worst-smelling food? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hide-and-go-seek world champion](https://bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220814 -「 Canoeing in solitude 」 
   ![Canoeing in solitude](https://bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220813 -「 Family on parade 」 
-  ![Family on parade](https://bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
