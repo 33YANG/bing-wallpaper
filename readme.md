@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220822 -「 The Coast of Death 」 
+  ![The Coast of Death](https://bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220821 -「 Saving and celebrating honey bees 」 
   ![Saving and celebrating honey bees](https://bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220820 -「 A flight to remember 」 
@@ -31,5 +33,3 @@ Main functions:
   ![On this day, a nation was born](https://bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220815 -「 Hide-and-go-seek world champion 」 
   ![Hide-and-go-seek world champion](https://bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220814 -「 Canoeing in solitude 」 
-  ![Canoeing in solitude](https://bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
