@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220823 -「 Rebels of the owl world 」 
+  ![Rebels of the owl world](https://bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220822 -「 The Coast of Death 」 
   ![The Coast of Death](https://bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220821 -「 Saving and celebrating honey bees 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Thrill ride](https://bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220816 -「 On this day, a nation was born 」 
   ![On this day, a nation was born](https://bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220815 -「 Hide-and-go-seek world champion 」 
-  ![Hide-and-go-seek world champion](https://bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
