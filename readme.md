@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220824 -「 If given Menton, make lemonade 」 
+  ![If given Menton, make lemonade](https://bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220823 -「 Rebels of the owl world 」 
   ![Rebels of the owl world](https://bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220822 -「 The Coast of Death 」 
@@ -31,5 +33,3 @@ Main functions:
   ![So fresh, so clean](https://bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220817 -「 Thrill ride 」 
   ![Thrill ride](https://bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220816 -「 On this day, a nation was born 」 
-  ![On this day, a nation was born](https://bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
