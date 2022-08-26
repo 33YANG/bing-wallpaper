@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220826 -「 America's backyard 」 
+  ![America's backyard](https://bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220825 -「 Amber waves of grain 」 
   ![Amber waves of grain](https://bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220824 -「 If given Menton, make lemonade 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A flight to remember](https://bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220819 -「 Home of the world's worst-smelling food? 」 
   ![Home of the world's worst-smelling food?](https://bing.com/th?id=OHR.SourHerring_EN-US2672490827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220818 -「 So fresh, so clean 」 
-  ![So fresh, so clean](https://bing.com/th?id=OHR.AquarioNatural_EN-US2602910599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
