@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220828 -「 The recovery continues 」 
+  ![The recovery continues](https://bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220827 -「 Add wind, combine with water, and you'll get... 」 
   ![Add wind, combine with water, and you'll get...](https://bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220826 -「 America's backyard 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The Coast of Death](https://bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220821 -「 Saving and celebrating honey bees 」 
   ![Saving and celebrating honey bees](https://bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220820 -「 A flight to remember 」 
-  ![A flight to remember](https://bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
