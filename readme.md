@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220830 -「 The sea that acts like a lake 」 
+  ![The sea that acts like a lake](https://bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220829 -「 More of a mustache than a beard? 」 
   ![More of a mustache than a beard?](https://bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220828 -「 The recovery continues 」 
@@ -31,5 +33,3 @@ Main functions:
   ![If given Menton, make lemonade](https://bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220823 -「 Rebels of the owl world 」 
   ![Rebels of the owl world](https://bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220822 -「 The Coast of Death 」 
-  ![The Coast of Death](https://bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
