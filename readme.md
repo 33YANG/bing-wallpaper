@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220831 -「 There's more to Pisa than leaning towers 」 
+  ![There's more to Pisa than leaning towers](https://bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220830 -「 The sea that acts like a lake 」 
   ![The sea that acts like a lake](https://bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220829 -「 More of a mustache than a beard? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Amber waves of grain](https://bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220824 -「 If given Menton, make lemonade 」 
   ![If given Menton, make lemonade](https://bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220823 -「 Rebels of the owl world 」 
-  ![Rebels of the owl world](https://bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
