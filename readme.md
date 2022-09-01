@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220901 -「 How sweet to be a star, floating in the blue 」 
+  ![How sweet to be a star, floating in the blue](https://bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220831 -「 There's more to Pisa than leaning towers 」 
   ![There's more to Pisa than leaning towers](https://bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220830 -「 The sea that acts like a lake 」 
@@ -31,5 +33,3 @@ Main functions:
   ![America's backyard](https://bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220825 -「 Amber waves of grain 」 
   ![Amber waves of grain](https://bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220824 -「 If given Menton, make lemonade 」 
-  ![If given Menton, make lemonade](https://bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
