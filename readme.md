@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220902 -「 Who uses this grassy bridge? 」 
+  ![Who uses this grassy bridge?](https://bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220901 -「 How sweet to be a star, floating in the blue 」 
   ![How sweet to be a star, floating in the blue](https://bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220831 -「 There's more to Pisa than leaning towers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Add wind, combine with water, and you'll get...](https://bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220826 -「 America's backyard 」 
   ![America's backyard](https://bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220825 -「 Amber waves of grain 」 
-  ![Amber waves of grain](https://bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
