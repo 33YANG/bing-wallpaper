@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220903 -「 This magical beach is worth the hike 」 
+  ![This magical beach is worth the hike](https://bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220902 -「 Who uses this grassy bridge? 」 
   ![Who uses this grassy bridge?](https://bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220901 -「 How sweet to be a star, floating in the blue 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The recovery continues](https://bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220827 -「 Add wind, combine with water, and you'll get... 」 
   ![Add wind, combine with water, and you'll get...](https://bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220826 -「 America's backyard 」 
-  ![America's backyard](https://bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
