@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220904 -「 A pair of high achievers 」 
+  ![A pair of high achievers](https://bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220903 -「 This magical beach is worth the hike 」 
   ![This magical beach is worth the hike](https://bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220902 -「 Who uses this grassy bridge? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![More of a mustache than a beard?](https://bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220828 -「 The recovery continues 」 
   ![The recovery continues](https://bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220827 -「 Add wind, combine with water, and you'll get... 」 
-  ![Add wind, combine with water, and you'll get...](https://bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
