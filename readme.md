@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220905 -「 The Riviera of India 」 
+  ![The Riviera of India](https://bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220904 -「 A pair of high achievers 」 
   ![A pair of high achievers](https://bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220903 -「 This magical beach is worth the hike 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The sea that acts like a lake](https://bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220829 -「 More of a mustache than a beard? 」 
   ![More of a mustache than a beard?](https://bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220828 -「 The recovery continues 」 
-  ![The recovery continues](https://bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
