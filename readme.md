@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220906 -「 Celebrating workers' fights and rights 」 
+  ![Celebrating workers' fights and rights](https://bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220905 -「 The Riviera of India 」 
   ![The Riviera of India](https://bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220904 -「 A pair of high achievers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![There's more to Pisa than leaning towers](https://bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220830 -「 The sea that acts like a lake 」 
   ![The sea that acts like a lake](https://bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220829 -「 More of a mustache than a beard? 」 
-  ![More of a mustache than a beard?](https://bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
