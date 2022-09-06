@@ -33,13 +33,35 @@ const makeDirectory = async path => {
 }
 
 /**
- * get current date and format
+ * get current date and format if have month index
  * @param {*} withDay is with day
- * @returns current date like '2020-1-1'
+ * @param {*} monthIndex is month index, default: 0, -2: pre 2th month , 3: next 3th month
+ * @returns current date like '20200101'
  */
-const getCurDate = withDay => {
+const getCurDate = (withDay, monthIndex = 0) => {
   const date = new Date()
-  return withDay ? `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()}` : `${date.getFullYear()}-${date.getMonth() + 1}`
+  let curYear = date.getFullYear()
+
+  let curMonth = date.getMonth() + 1
+
+  if (monthIndex !== 0) {
+    curYear += monthIndex > 0 ? Math.floor(monthIndex / 12) : Math.ceil(monthIndex / 12)
+    monthIndex = monthIndex % 12
+    curMonth += monthIndex
+    if (curMonth > 12) {
+      curMonth = curMonth - 12
+      curYear += 1
+    } else if (curMonth <= 0) {
+      curMonth = curMonth + 12
+      curYear -= 1
+    }
+  }
+
+  curMonth = curMonth < 10 ? '0' + curMonth : curMonth
+
+  let curDate = date.getDate()
+  curDate = curDate < 10 ? '0' + curDate : curDate
+  return withDay ? `${curYear}${curMonth}${curDate}` : `${curYear}${curMonth}`
 }
 
 /**
@@ -51,6 +73,14 @@ const getLatestWallpaper = async () => {
   return data.images[0]
 }
 
+/**
+ * log any info with current date prefix
+ * @param  {...any} params all log infos
+ */
+const log = (...params) => {
+  console.log(`[${new Date().toLocaleString()}]`, ...params)
+}
+
 module.exports = {
   BING_URL_PREFIX,
   BING_WALLPAPER_CN_URL,
@@ -58,4 +88,5 @@ module.exports = {
   makeDirectory,
   getCurDate,
   getLatestWallpaper,
+  log,
 }

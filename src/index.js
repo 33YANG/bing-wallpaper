@@ -3,7 +3,7 @@
 const fs = require('fs')
 const fsp = require('fs').promises
 const axios = require('axios')
-const { BING_URL_PREFIX, BING_WALLPAPER_CN_URL, resolvePath, makeDirectory, getCurDate } = require('./util')
+const { BING_URL_PREFIX, BING_WALLPAPER_CN_URL, resolvePath, makeDirectory, getCurDate, log } = require('./util')
 
 /**
  * write readme file
@@ -19,7 +19,7 @@ async function writeReadMe(imageData) {
   for (const item of imageData) {
     const urlWithPrefix = `${BING_URL_PREFIX}${item.url}`
 
-    console.log(`[ ${new Date().toLocaleString()} ] [ Wallpaper Url ]`, urlWithPrefix)
+    log(`[ Wallpaper Url ]`, urlWithPrefix)
 
     await fsp.appendFile(resolvePath('../readme.md'), '\n\r')
     await fsp.appendFile(resolvePath('../readme.md'), `- ${item?.enddate} -「 ${item?.title} 」 \n\r`)
@@ -62,7 +62,7 @@ async function downLoadWallpaper({ url, title }) {
 
   await fsp.writeFile(`${curMonthFolder}/${getCurDate(true)}.jpg`, imageBuffer)
 
-  console.log(`[ ${new Date().toLocaleString()} ] [ ${getCurDate(true)} ${title} Wallpaper Saved successfully ]`)
+  log(`[ ${getCurDate(true)} ${title} Wallpaper Saved successfully ]`)
 }
 
 /**

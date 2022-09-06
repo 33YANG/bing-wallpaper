@@ -5,7 +5,7 @@ const fs = require('fs')
 const fsp = require('fs').promises
 const archiver = require('archiver')
 const nodemailer = require('nodemailer')
-const { BING_URL_PREFIX, resolvePath, getLatestWallpaper } = require('./util')
+const { BING_URL_PREFIX, resolvePath, getLatestWallpaper, getCurDate, log } = require('./util')
 
 const commandLineParams = process.argv.slice(2)
 const EMAIL_FROM_EMAIL = process.env.EMAIL_FROM_EMAIL || commandLineParams[0].split('=')[1]
@@ -26,7 +26,7 @@ function zipDirectory(dirPath, zipPath) {
     })
 
     archive.on('error', err => {
-      console.log(`[ ${new Date().toLocaleString()} ] Error while archiving:`, err)
+      log(`Error while archiving:`, err)
       reject(err)
     })
 
@@ -56,7 +56,7 @@ async function sendMail(zipPath) {
     },
   })
 
-  const curDate = `${new Date().getFullYear()}-${new Date().getMonth()}`
+  const curDate = getCurDate()
   const latestWallpaper = await getLatestWallpaper()
 
   const mailOption = {
@@ -77,9 +77,9 @@ async function sendMail(zipPath) {
 
   transporter.sendMail(mailOption, (error, info) => {
     if (error) {
-      console.log(`[ ${new Date().toLocaleString()} ] Error while sending mail: `, error)
+      log(`Error while sending mail: `, error)
     } else {
-      console.log(`[ ${new Date().toLocaleString()} ] Mail from ${EMAIL_FROM_EMAIL} sent to ${EMAIL_ADDRESS_LIST} done:`, info.response)
+      log(`Mail from ${EMAIL_FROM_EMAIL} sent to ${EMAIL_ADDRESS_LIST} done:`, info.response)
     }
   })
 }
@@ -90,37 +90,37 @@ async function compressFolderSendMail() {
     // per 1st day of month handle send wallpaper
     if (curDay === 1) {
       // handle previous month data, compress to zip and remove folder
-      const preMonthWallpaperDir = resolvePath(`../wallpaper/${new Date().getFullYear()}-${new Date().getMonth()}`)
+      const preMonthWallpaperDir = resolvePath(`../wallpaper/${getCurDate(false, -1)}`)
       const preMonthWallpaperZip = resolvePath(`${preMonthWallpaperDir}.zip`)
-      console.log(`[ ${new Date().toLocaleString()} ] Compressing ${preMonthWallpaperDir} to ${preMonthWallpaperZip}`)
+      log(`Compressing ${preMonthWallpaperDir} to ${preMonthWallpaperZip}`)
 
       if (fs.existsSync(preMonthWallpaperDir)) {
         await zipDirectory(preMonthWallpaperDir, preMonthWallpaperZip)
 
         await fsp.rm(preMonthWallpaperDir, { recursive: true })
-        console.log(`[ ${new Date().toLocaleString()} ] Remove ${preMonthWallpaperDir} successfully`)
+        log(`Remove ${preMonthWallpaperDir} successfully`)
 
         // delete previous previous month wallpaper zip if exists
-        const prePreMonthWallpaperZip = resolvePath(`../wallpaper/${new Date().getFullYear()}-${new Date().getMonth() - 1}.zip`)
+        const prePreMonthWallpaperZip = resolvePath(`../wallpaper/${getCurDate(false, -2)}.zip`)
         if (fs.existsSync(prePreMonthWallpaperZip)) {
           await fsp.rm(prePreMonthWallpaperZip)
-          console.log(`[ ${new Date().toLocaleString()} ] Delete ${prePreMonthWallpaperZip} success`)
+          log(`Delete ${prePreMonthWallpaperZip} success`)
         }
       } else {
-        console.log(`[ ${new Date().toLocaleString()} ] Folder ${preMonthWallpaperDir} doesn't exist`)
+        log(`Folder ${preMonthWallpaperDir} doesn't exist`)
       }
 
       if (fs.existsSync(preMonthWallpaperZip)) {
-        console.log(`[ ${new Date().toLocaleString()} ] Sending mail ${preMonthWallpaperZip}`)
+        log(`Sending mail ${preMonthWallpaperZip}`)
         await sendMail(preMonthWallpaperZip)
       } else {
-        console.log(`[ ${new Date().toLocaleString()} ] Zip ${preMonthWallpaperZip} doesn't exist`)
+        log(`Zip ${preMonthWallpaperZip} doesn't exist`)
       }
     } else {
-      console.log(`[ ${new Date().toLocaleString()} ] Not 1st day of month, skip`)
+      log(`Not 1st day of month, skip`)
     }
   } catch (error) {
-    console.log(`[ ${new Date().toLocaleString()} ] Compress folder or send email failed`, error)
+    log(`Compress folder or send email failed`, error)
   }
 }
 
