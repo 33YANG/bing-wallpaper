@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220907 -「 A real fun guy…er, squirrel 」 
+  ![A real fun guy…er, squirrel](https://bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220906 -「 Celebrating workers' fights and rights 」 
   ![Celebrating workers' fights and rights](https://bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220905 -「 The Riviera of India 」 
@@ -31,5 +33,3 @@ Main functions:
   ![How sweet to be a star, floating in the blue](https://bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220831 -「 There's more to Pisa than leaning towers 」 
   ![There's more to Pisa than leaning towers](https://bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220830 -「 The sea that acts like a lake 」 
-  ![The sea that acts like a lake](https://bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
