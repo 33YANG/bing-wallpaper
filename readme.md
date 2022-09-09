@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220909 -「 500th anniversary of the world getting smaller 」 
+  ![500th anniversary of the world getting smaller](https://bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220908 -「 Back to the future 」 
   ![Back to the future](https://bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220907 -「 A real fun guy…er, squirrel 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This magical beach is worth the hike](https://bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220902 -「 Who uses this grassy bridge? 」 
   ![Who uses this grassy bridge?](https://bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220901 -「 How sweet to be a star, floating in the blue 」 
-  ![How sweet to be a star, floating in the blue](https://bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
