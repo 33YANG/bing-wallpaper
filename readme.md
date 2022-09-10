@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220910 -「 The other great barrier reef 」 
+  ![The other great barrier reef](https://bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220909 -「 500th anniversary of the world getting smaller 」 
   ![500th anniversary of the world getting smaller](https://bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220908 -「 Back to the future 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A pair of high achievers](https://bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220903 -「 This magical beach is worth the hike 」 
   ![This magical beach is worth the hike](https://bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220902 -「 Who uses this grassy bridge? 」 
-  ![Who uses this grassy bridge?](https://bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
