@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220912 -「 America remembers 」 
+  ![America remembers](https://bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220911 -「 Looking starry-eyed at the moon 」 
   ![Looking starry-eyed at the moon](https://bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220910 -「 The other great barrier reef 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating workers' fights and rights](https://bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220905 -「 The Riviera of India 」 
   ![The Riviera of India](https://bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220904 -「 A pair of high achievers 」 
-  ![A pair of high achievers](https://bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
