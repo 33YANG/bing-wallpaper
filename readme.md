@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220913 -「 A different kind of toucan 」 
+  ![A different kind of toucan](https://bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220912 -「 America remembers 」 
   ![America remembers](https://bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220911 -「 Looking starry-eyed at the moon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A real fun guy…er, squirrel](https://bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220906 -「 Celebrating workers' fights and rights 」 
   ![Celebrating workers' fights and rights](https://bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220905 -「 The Riviera of India 」 
-  ![The Riviera of India](https://bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
