@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220914 -「 Like sands through the hourglass 」 
+  ![Like sands through the hourglass](https://bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220913 -「 A different kind of toucan 」 
   ![A different kind of toucan](https://bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220912 -「 America remembers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Back to the future](https://bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220907 -「 A real fun guy…er, squirrel 」 
   ![A real fun guy…er, squirrel](https://bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220906 -「 Celebrating workers' fights and rights 」 
-  ![Celebrating workers' fights and rights](https://bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
