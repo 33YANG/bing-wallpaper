@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220915 -「 Bridging the gap two ways 」 
+  ![Bridging the gap two ways](https://bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220914 -「 Like sands through the hourglass 」 
   ![Like sands through the hourglass](https://bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220913 -「 A different kind of toucan 」 
@@ -31,5 +33,3 @@ Main functions:
   ![500th anniversary of the world getting smaller](https://bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220908 -「 Back to the future 」 
   ![Back to the future](https://bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220907 -「 A real fun guy…er, squirrel 」 
-  ![A real fun guy…er, squirrel](https://bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
