@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220916 -「 Celebrating Hispanic Heritage Month 」 
+  ![Celebrating Hispanic Heritage Month](https://bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220915 -「 Bridging the gap two ways 」 
   ![Bridging the gap two ways](https://bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220914 -「 Like sands through the hourglass 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The other great barrier reef](https://bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220909 -「 500th anniversary of the world getting smaller 」 
   ![500th anniversary of the world getting smaller](https://bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220908 -「 Back to the future 」 
-  ![Back to the future](https://bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
