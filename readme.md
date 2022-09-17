@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220917 -「 Nimble and stealthy 」 
+  ![Nimble and stealthy](https://bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220916 -「 Celebrating Hispanic Heritage Month 」 
   ![Celebrating Hispanic Heritage Month](https://bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220915 -「 Bridging the gap two ways 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Looking starry-eyed at the moon](https://bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220910 -「 The other great barrier reef 」 
   ![The other great barrier reef](https://bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220909 -「 500th anniversary of the world getting smaller 」 
-  ![500th anniversary of the world getting smaller](https://bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
