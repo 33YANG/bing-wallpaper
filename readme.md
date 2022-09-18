@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220918 -「 Swinging over Munich 」 
+  ![Swinging over Munich](https://bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220917 -「 Nimble and stealthy 」 
   ![Nimble and stealthy](https://bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220916 -「 Celebrating Hispanic Heritage Month 」 
@@ -31,5 +33,3 @@ Main functions:
   ![America remembers](https://bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220911 -「 Looking starry-eyed at the moon 」 
   ![Looking starry-eyed at the moon](https://bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220910 -「 The other great barrier reef 」 
-  ![The other great barrier reef](https://bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
