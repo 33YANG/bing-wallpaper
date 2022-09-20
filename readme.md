@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220920 -「 Farewell, Ma'am 」 
+  ![Farewell, Ma'am](https://bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220919 -「 A grove glows green 」 
   ![A grove glows green](https://bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220918 -「 Swinging over Munich 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Like sands through the hourglass](https://bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220913 -「 A different kind of toucan 」 
   ![A different kind of toucan](https://bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220912 -「 America remembers 」 
-  ![America remembers](https://bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
