@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220921 -「 Teddy bears of the sea 」 
+  ![Teddy bears of the sea](https://bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220920 -「 Farewell, Ma'am 」 
   ![Farewell, Ma'am](https://bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220919 -「 A grove glows green 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bridging the gap two ways](https://bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220914 -「 Like sands through the hourglass 」 
   ![Like sands through the hourglass](https://bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220913 -「 A different kind of toucan 」 
-  ![A different kind of toucan](https://bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
