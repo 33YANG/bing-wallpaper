@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220922 -「 A dramatic celebration of peace 」 
+  ![A dramatic celebration of peace](https://bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220921 -「 Teddy bears of the sea 」 
   ![Teddy bears of the sea](https://bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220920 -「 Farewell, Ma'am 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating Hispanic Heritage Month](https://bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220915 -「 Bridging the gap two ways 」 
   ![Bridging the gap two ways](https://bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220914 -「 Like sands through the hourglass 」 
-  ![Like sands through the hourglass](https://bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
