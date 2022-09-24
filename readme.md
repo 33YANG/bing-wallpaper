@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220924 -「 In a world all their own 」 
+  ![In a world all their own](https://bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220923 -「 Quaking with autumn color 」 
   ![Quaking with autumn color](https://bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220922 -「 A dramatic celebration of peace 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Swinging over Munich](https://bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220917 -「 Nimble and stealthy 」 
   ![Nimble and stealthy](https://bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220916 -「 Celebrating Hispanic Heritage Month 」 
-  ![Celebrating Hispanic Heritage Month](https://bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
