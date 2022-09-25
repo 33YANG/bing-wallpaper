@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220925 -「 Starry, starry night 」 
+  ![Starry, starry night](https://bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220924 -「 In a world all their own 」 
   ![In a world all their own](https://bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220923 -「 Quaking with autumn color 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A grove glows green](https://bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220918 -「 Swinging over Munich 」 
   ![Swinging over Munich](https://bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220917 -「 Nimble and stealthy 」 
-  ![Nimble and stealthy](https://bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
