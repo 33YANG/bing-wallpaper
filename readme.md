@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220927 -「 Time to make an impression 」 
+  ![Time to make an impression](https://bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220926 -「 The rivers run through us 」 
   ![The rivers run through us](https://bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220925 -「 Starry, starry night 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Teddy bears of the sea](https://bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220920 -「 Farewell, Ma'am 」 
   ![Farewell, Ma'am](https://bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220919 -「 A grove glows green 」 
-  ![A grove glows green](https://bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
