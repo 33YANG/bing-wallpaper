@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220928 -「 Where fire and water meet 」 
+  ![Where fire and water meet](https://bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220927 -「 Time to make an impression 」 
   ![Time to make an impression](https://bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220926 -「 The rivers run through us 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A dramatic celebration of peace](https://bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220921 -「 Teddy bears of the sea 」 
   ![Teddy bears of the sea](https://bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220920 -「 Farewell, Ma'am 」 
-  ![Farewell, Ma'am](https://bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
