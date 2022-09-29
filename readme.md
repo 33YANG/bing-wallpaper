@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20220929 -「 A modern recreation 」 
+  ![A modern recreation](https://bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220928 -「 Where fire and water meet 」 
   ![Where fire and water meet](https://bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220927 -「 Time to make an impression 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Quaking with autumn color](https://bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220922 -「 A dramatic celebration of peace 」 
   ![A dramatic celebration of peace](https://bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220921 -「 Teddy bears of the sea 」 
-  ![Teddy bears of the sea](https://bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
