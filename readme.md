@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221002 -「 Spirit of the Puffing Wind 」 
+  ![Spirit of the Puffing Wind](https://bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221001 -「 Giants of the Southern Ocean 」 
   ![Giants of the Southern Ocean](https://bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220930 -「 Blurring the lines with wearable art 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The rivers run through us](https://bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220925 -「 Starry, starry night 」 
   ![Starry, starry night](https://bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220924 -「 In a world all their own 」 
-  ![In a world all their own](https://bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
