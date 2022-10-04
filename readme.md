@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221004 -「 A future built on the past 」 
+  ![A future built on the past](https://bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221003 -「 The oldest way to fly 」 
   ![The oldest way to fly](https://bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221002 -「 Spirit of the Puffing Wind 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where fire and water meet](https://bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220927 -「 Time to make an impression 」 
   ![Time to make an impression](https://bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220926 -「 The rivers run through us 」 
-  ![The rivers run through us](https://bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
