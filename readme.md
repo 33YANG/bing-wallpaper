@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221005 -「 Golden cliffs of deep space 」 
+  ![Golden cliffs of deep space](https://bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221004 -「 A future built on the past 」 
   ![A future built on the past](https://bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221003 -「 The oldest way to fly 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A modern recreation](https://bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220928 -「 Where fire and water meet 」 
   ![Where fire and water meet](https://bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220927 -「 Time to make an impression 」 
-  ![Time to make an impression](https://bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
