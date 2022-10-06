@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221006 -「 Single file, now! 」 
+  ![Single file, now!](https://bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221005 -「 Golden cliffs of deep space 」 
   ![Golden cliffs of deep space](https://bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221004 -「 A future built on the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Blurring the lines with wearable art](https://bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20220929 -「 A modern recreation 」 
   ![A modern recreation](https://bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20220928 -「 Where fire and water meet 」 
-  ![Where fire and water meet](https://bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
