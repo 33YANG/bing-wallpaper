@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221009 -「 See-through cephalopod 」 
+  ![See-through cephalopod](https://bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221008 -「 An old bridge in a new light 」 
   ![An old bridge in a new light](https://bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221007 -「 Dragon tails trail to the sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The oldest way to fly](https://bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221002 -「 Spirit of the Puffing Wind 」 
   ![Spirit of the Puffing Wind](https://bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221001 -「 Giants of the Southern Ocean 」 
-  ![Giants of the Southern Ocean](https://bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
