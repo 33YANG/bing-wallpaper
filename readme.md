@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221010 -「 What's blooming so brightly? 」 
+  ![What's blooming so brightly?](https://bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221009 -「 See-through cephalopod 」 
   ![See-through cephalopod](https://bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221008 -「 An old bridge in a new light 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A future built on the past](https://bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221003 -「 The oldest way to fly 」 
   ![The oldest way to fly](https://bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221002 -「 Spirit of the Puffing Wind 」 
-  ![Spirit of the Puffing Wind](https://bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
