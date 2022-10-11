@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221011 -「 'Circle of Sacred Smoke' 」 
+  !['Circle of Sacred Smoke'](https://bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221010 -「 What's blooming so brightly? 」 
   ![What's blooming so brightly?](https://bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221009 -「 See-through cephalopod 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Golden cliffs of deep space](https://bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221004 -「 A future built on the past 」 
   ![A future built on the past](https://bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221003 -「 The oldest way to fly 」 
-  ![The oldest way to fly](https://bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
