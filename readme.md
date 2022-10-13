@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221013 -「 Stepping back in time 」 
+  ![Stepping back in time](https://bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221012 -「 Magnified moss 」 
   ![Magnified moss](https://bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221011 -「 'Circle of Sacred Smoke' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Dragon tails trail to the sea](https://bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221006 -「 Single file, now! 」 
   ![Single file, now!](https://bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221005 -「 Golden cliffs of deep space 」 
-  ![Golden cliffs of deep space](https://bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
