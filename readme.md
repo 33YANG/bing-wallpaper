@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221015 -「 Gateway to Iberia 」 
+  ![Gateway to Iberia](https://bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221014 -「 When being in a rut is OK 」 
   ![When being in a rut is OK](https://bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221013 -「 Stepping back in time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![See-through cephalopod](https://bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221008 -「 An old bridge in a new light 」 
   ![An old bridge in a new light](https://bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221007 -「 Dragon tails trail to the sea 」 
-  ![Dragon tails trail to the sea](https://bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
