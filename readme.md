@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221016 -「 Final resting place of kings 」 
+  ![Final resting place of kings](https://bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221015 -「 Gateway to Iberia 」 
   ![Gateway to Iberia](https://bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221014 -「 When being in a rut is OK 」 
@@ -31,5 +33,3 @@ Main functions:
   ![What's blooming so brightly?](https://bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221009 -「 See-through cephalopod 」 
   ![See-through cephalopod](https://bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221008 -「 An old bridge in a new light 」 
-  ![An old bridge in a new light](https://bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
