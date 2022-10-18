@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221018 -「 Widespread and long-eared 」 
+  ![Widespread and long-eared](https://bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221017 -「 Southern tip of a northern isle 」 
   ![Southern tip of a northern isle](https://bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221016 -「 Final resting place of kings 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Magnified moss](https://bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221011 -「 'Circle of Sacred Smoke' 」 
   !['Circle of Sacred Smoke'](https://bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221010 -「 What's blooming so brightly? 」 
-  ![What's blooming so brightly?](https://bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
