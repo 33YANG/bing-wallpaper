@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221019 -「 Night outside the museum 」 
+  ![Night outside the museum](https://bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221018 -「 Widespread and long-eared 」 
   ![Widespread and long-eared](https://bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221017 -「 Southern tip of a northern isle 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stepping back in time](https://bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221012 -「 Magnified moss 」 
   ![Magnified moss](https://bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221011 -「 'Circle of Sacred Smoke' 」 
-  !['Circle of Sacred Smoke'](https://bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
