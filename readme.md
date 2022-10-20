@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221020 -「 'Wait, mountain—you shall bear my castle!' 」 
+  !['Wait, mountain—you shall bear my castle!'](https://bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221019 -「 Night outside the museum 」 
   ![Night outside the museum](https://bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221018 -「 Widespread and long-eared 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When being in a rut is OK](https://bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221013 -「 Stepping back in time 」 
   ![Stepping back in time](https://bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221012 -「 Magnified moss 」 
-  ![Magnified moss](https://bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
