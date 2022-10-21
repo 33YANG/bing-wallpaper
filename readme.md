@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221021 -「 Hangin' around 」 
+  ![Hangin' around](https://bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221020 -「 'Wait, mountain—you shall bear my castle!' 」 
   !['Wait, mountain—you shall bear my castle!'](https://bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221019 -「 Night outside the museum 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Gateway to Iberia](https://bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221014 -「 When being in a rut is OK 」 
   ![When being in a rut is OK](https://bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221013 -「 Stepping back in time 」 
-  ![Stepping back in time](https://bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
