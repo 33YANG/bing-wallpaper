@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221022 -「 Leaf-peeping, Southern style 」 
+  ![Leaf-peeping, Southern style](https://bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221021 -「 Hangin' around 」 
   ![Hangin' around](https://bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221020 -「 'Wait, mountain—you shall bear my castle!' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Final resting place of kings](https://bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221015 -「 Gateway to Iberia 」 
   ![Gateway to Iberia](https://bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221014 -「 When being in a rut is OK 」 
-  ![When being in a rut is OK](https://bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
