@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221023 -「 Misty mountain hop 」 
+  ![Misty mountain hop](https://bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221022 -「 Leaf-peeping, Southern style 」 
   ![Leaf-peeping, Southern style](https://bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221021 -「 Hangin' around 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Southern tip of a northern isle](https://bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221016 -「 Final resting place of kings 」 
   ![Final resting place of kings](https://bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221015 -「 Gateway to Iberia 」 
-  ![Gateway to Iberia](https://bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
