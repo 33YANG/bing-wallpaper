@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221025 -「 Lighting the world 」 
+  ![Lighting the world](https://bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221024 -「 An ugly duckling no more 」 
   ![An ugly duckling no more](https://bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221023 -「 Misty mountain hop 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Night outside the museum](https://bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221018 -「 Widespread and long-eared 」 
   ![Widespread and long-eared](https://bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221017 -「 Southern tip of a northern isle 」 
-  ![Southern tip of a northern isle](https://bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
