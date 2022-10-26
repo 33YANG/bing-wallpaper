@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221026 -「 Park of the Monsters 」 
+  ![Park of the Monsters](https://bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221025 -「 Lighting the world 」 
   ![Lighting the world](https://bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221024 -「 An ugly duckling no more 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Wait, mountain—you shall bear my castle!'](https://bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221019 -「 Night outside the museum 」 
   ![Night outside the museum](https://bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221018 -「 Widespread and long-eared 」 
-  ![Widespread and long-eared](https://bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
