@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221028 -「 A kiss and a sigh 」 
+  ![A kiss and a sigh](https://bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221027 -「 A ghost on the mountain 」 
   ![A ghost on the mountain](https://bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221026 -「 Park of the Monsters 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Leaf-peeping, Southern style](https://bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221021 -「 Hangin' around 」 
   ![Hangin' around](https://bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221020 -「 'Wait, mountain—you shall bear my castle!' 」 
-  !['Wait, mountain—you shall bear my castle!'](https://bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
