@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221029 -「 On a dark and stormy night... 」 
+  ![On a dark and stormy night...](https://bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221028 -「 A kiss and a sigh 」 
   ![A kiss and a sigh](https://bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221027 -「 A ghost on the mountain 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Misty mountain hop](https://bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221022 -「 Leaf-peeping, Southern style 」 
   ![Leaf-peeping, Southern style](https://bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221021 -「 Hangin' around 」 
-  ![Hangin' around](https://bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
