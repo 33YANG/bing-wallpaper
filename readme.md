@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221030 -「 Angel of the sea 」 
+  ![Angel of the sea](https://bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221029 -「 On a dark and stormy night... 」 
   ![On a dark and stormy night...](https://bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221028 -「 A kiss and a sigh 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An ugly duckling no more](https://bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221023 -「 Misty mountain hop 」 
   ![Misty mountain hop](https://bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221022 -「 Leaf-peeping, Southern style 」 
-  ![Leaf-peeping, Southern style](https://bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
