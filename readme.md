@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221031 -「 Hunters of the North 」 
+  ![Hunters of the North](https://bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221030 -「 Angel of the sea 」 
   ![Angel of the sea](https://bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221029 -「 On a dark and stormy night... 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Lighting the world](https://bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221024 -「 An ugly duckling no more 」 
   ![An ugly duckling no more](https://bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221023 -「 Misty mountain hop 」 
-  ![Misty mountain hop](https://bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
