@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221101 -「 Who's in this creepy copse? 」 
+  ![Who's in this creepy copse?](https://bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221031 -「 Hunters of the North 」 
   ![Hunters of the North](https://bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221030 -「 Angel of the sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Park of the Monsters](https://bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221025 -「 Lighting the world 」 
   ![Lighting the world](https://bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221024 -「 An ugly duckling no more 」 
-  ![An ugly duckling no more](https://bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
