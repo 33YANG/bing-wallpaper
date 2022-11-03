@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221103 -「 'If it's a failure, I'll probably leave this country' 」 
+  !['If it's a failure, I'll probably leave this country'](https://bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221102 -「 What are they celebrating? 」 
   ![What are they celebrating?](https://bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221101 -「 Who's in this creepy copse? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A kiss and a sigh](https://bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221027 -「 A ghost on the mountain 」 
   ![A ghost on the mountain](https://bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221026 -「 Park of the Monsters 」 
-  ![Park of the Monsters](https://bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
