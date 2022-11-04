@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221104 -「 An experiment in sustainability 」 
+  ![An experiment in sustainability](https://bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221103 -「 'If it's a failure, I'll probably leave this country' 」 
   !['If it's a failure, I'll probably leave this country'](https://bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221102 -「 What are they celebrating? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![On a dark and stormy night...](https://bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221028 -「 A kiss and a sigh 」 
   ![A kiss and a sigh](https://bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221027 -「 A ghost on the mountain 」 
-  ![A ghost on the mountain](https://bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
