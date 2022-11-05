@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221105 -「 Tomb of the Golden Pharaoh 」 
+  ![Tomb of the Golden Pharaoh](https://bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221104 -「 An experiment in sustainability 」 
   ![An experiment in sustainability](https://bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221103 -「 'If it's a failure, I'll probably leave this country' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Angel of the sea](https://bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221029 -「 On a dark and stormy night... 」 
   ![On a dark and stormy night...](https://bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221028 -「 A kiss and a sigh 」 
-  ![A kiss and a sigh](https://bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
