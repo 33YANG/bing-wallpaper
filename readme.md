@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221106 -「 Reflecting its stylish past today 」 
+  ![Reflecting its stylish past today](https://bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221105 -「 Tomb of the Golden Pharaoh 」 
   ![Tomb of the Golden Pharaoh](https://bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221104 -「 An experiment in sustainability 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hunters of the North](https://bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221030 -「 Angel of the sea 」 
   ![Angel of the sea](https://bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221029 -「 On a dark and stormy night... 」 
-  ![On a dark and stormy night...](https://bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
