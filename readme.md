@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221107 -「 Racing through the five boroughs 」 
+  ![Racing through the five boroughs](https://bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221106 -「 Reflecting its stylish past today 」 
   ![Reflecting its stylish past today](https://bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221105 -「 Tomb of the Golden Pharaoh 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Who's in this creepy copse?](https://bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221031 -「 Hunters of the North 」 
   ![Hunters of the North](https://bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221030 -「 Angel of the sea 」 
-  ![Angel of the sea](https://bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
