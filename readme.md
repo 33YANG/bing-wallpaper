@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221108 -「 Blood moon 」 
+  ![Blood moon](https://bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221107 -「 Racing through the five boroughs 」 
   ![Racing through the five boroughs](https://bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221106 -「 Reflecting its stylish past today 」 
@@ -31,5 +33,3 @@ Main functions:
   ![What are they celebrating?](https://bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221101 -「 Who's in this creepy copse? 」 
   ![Who's in this creepy copse?](https://bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221031 -「 Hunters of the North 」 
-  ![Hunters of the North](https://bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
