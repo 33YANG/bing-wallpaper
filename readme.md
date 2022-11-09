@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221109 -「 Launching hopes and prayers 」 
+  ![Launching hopes and prayers](https://bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221108 -「 Blood moon 」 
   ![Blood moon](https://bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221107 -「 Racing through the five boroughs 」 
@@ -31,5 +33,3 @@ Main functions:
   !['If it's a failure, I'll probably leave this country'](https://bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221102 -「 What are they celebrating? 」 
   ![What are they celebrating?](https://bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221101 -「 Who's in this creepy copse? 」 
-  ![Who's in this creepy copse?](https://bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
