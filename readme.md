@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221111 -「 Happy birthday, Badlands National Park 」 
+  ![Happy birthday, Badlands National Park](https://bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221110 -「 Look, but don't touch 」 
   ![Look, but don't touch](https://bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221109 -「 Launching hopes and prayers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tomb of the Golden Pharaoh](https://bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221104 -「 An experiment in sustainability 」 
   ![An experiment in sustainability](https://bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221103 -「 'If it's a failure, I'll probably leave this country' 」 
-  !['If it's a failure, I'll probably leave this country'](https://bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
