@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221113 -「 A convocation of eagles assembles 」 
+  ![A convocation of eagles assembles](https://bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221112 -「 Honoring those who served 」 
   ![Honoring those who served](https://bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221111 -「 Happy birthday, Badlands National Park 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Racing through the five boroughs](https://bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221106 -「 Reflecting its stylish past today 」 
   ![Reflecting its stylish past today](https://bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221105 -「 Tomb of the Golden Pharaoh 」 
-  ![Tomb of the Golden Pharaoh](https://bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
