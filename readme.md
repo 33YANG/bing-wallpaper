@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221115 -「 High above the Aegean Sea 」 
+  ![High above the Aegean Sea](https://bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221114 -「 Take a sip from the Punch Bowl 」 
   ![Take a sip from the Punch Bowl](https://bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221113 -「 A convocation of eagles assembles 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Launching hopes and prayers](https://bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221108 -「 Blood moon 」 
   ![Blood moon](https://bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221107 -「 Racing through the five boroughs 」 
-  ![Racing through the five boroughs](https://bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
