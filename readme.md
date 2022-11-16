@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221116 -「 You 'otter' check this out 」 
+  ![You 'otter' check this out](https://bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221115 -「 High above the Aegean Sea 」 
   ![High above the Aegean Sea](https://bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221114 -「 Take a sip from the Punch Bowl 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Look, but don't touch](https://bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221109 -「 Launching hopes and prayers 」 
   ![Launching hopes and prayers](https://bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221108 -「 Blood moon 」 
-  ![Blood moon](https://bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
