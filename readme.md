@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221117 -「 A 50-year balancing act 」 
+  ![A 50-year balancing act](https://bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221116 -「 You 'otter' check this out 」 
   ![You 'otter' check this out](https://bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221115 -「 High above the Aegean Sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy birthday, Badlands National Park](https://bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221110 -「 Look, but don't touch 」 
   ![Look, but don't touch](https://bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221109 -「 Launching hopes and prayers 」 
-  ![Launching hopes and prayers](https://bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
