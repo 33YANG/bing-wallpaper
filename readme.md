@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221118 -「 Take a hike! 」 
+  ![Take a hike!](https://bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221117 -「 A 50-year balancing act 」 
   ![A 50-year balancing act](https://bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221116 -「 You 'otter' check this out 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Honoring those who served](https://bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221111 -「 Happy birthday, Badlands National Park 」 
   ![Happy birthday, Badlands National Park](https://bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221110 -「 Look, but don't touch 」 
-  ![Look, but don't touch](https://bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
