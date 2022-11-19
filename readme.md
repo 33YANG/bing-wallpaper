@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221119 -「 Keyholes to the kingdom 」 
+  ![Keyholes to the kingdom](https://bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221118 -「 Take a hike! 」 
   ![Take a hike!](https://bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221117 -「 A 50-year balancing act 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A convocation of eagles assembles](https://bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221112 -「 Honoring those who served 」 
   ![Honoring those who served](https://bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221111 -「 Happy birthday, Badlands National Park 」 
-  ![Happy birthday, Badlands National Park](https://bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
