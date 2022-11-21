@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221121 -「 Creating a better world 」 
+  ![Creating a better world](https://bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221120 -「 103 years of Zion 」 
   ![103 years of Zion](https://bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221119 -「 Keyholes to the kingdom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![High above the Aegean Sea](https://bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221114 -「 Take a sip from the Punch Bowl 」 
   ![Take a sip from the Punch Bowl](https://bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221113 -「 A convocation of eagles assembles 」 
-  ![A convocation of eagles assembles](https://bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
