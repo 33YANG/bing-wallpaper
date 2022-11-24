@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221124 -「 Nature, art, and...math? 」 
+  ![Nature, art, and...math?](https://bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221123 -「 A fox in the dunes 」 
   ![A fox in the dunes](https://bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221122 -「 Kickoff in Qatar 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Take a hike!](https://bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221117 -「 A 50-year balancing act 」 
   ![A 50-year balancing act](https://bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221116 -「 You 'otter' check this out 」 
-  ![You 'otter' check this out](https://bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
