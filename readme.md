@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221126 -「 Pyramid built by Native Americans 」 
+  ![Pyramid built by Native Americans](https://bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221125 -「 A crimson quagmire 」 
   ![A crimson quagmire](https://bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221124 -「 Nature, art, and...math? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![103 years of Zion](https://bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221119 -「 Keyholes to the kingdom 」 
   ![Keyholes to the kingdom](https://bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221118 -「 Take a hike! 」 
-  ![Take a hike!](https://bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
