@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221128 -「 Unbe-leaf-able 」 
+  ![Unbe-leaf-able](https://bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221127 -「 A symbol of peace 」 
   ![A symbol of peace](https://bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221126 -「 Pyramid built by Native Americans 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Kickoff in Qatar](https://bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221121 -「 Creating a better world 」 
   ![Creating a better world](https://bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221120 -「 103 years of Zion 」 
-  ![103 years of Zion](https://bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
