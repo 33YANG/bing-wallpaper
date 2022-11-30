@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221130 -「 A day for giving 」 
+  ![A day for giving](https://bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221129 -「 Fourth rock from the sun 」 
   ![Fourth rock from the sun](https://bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221128 -「 Unbe-leaf-able 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature, art, and...math?](https://bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221123 -「 A fox in the dunes 」 
   ![A fox in the dunes](https://bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221122 -「 Kickoff in Qatar 」 
-  ![Kickoff in Qatar](https://bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
