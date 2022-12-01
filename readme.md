@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221201 -「 Jewel of the Adriatic 」 
+  ![Jewel of the Adriatic](https://bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221130 -「 A day for giving 」 
   ![A day for giving](https://bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221129 -「 Fourth rock from the sun 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A crimson quagmire](https://bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221124 -「 Nature, art, and...math? 」 
   ![Nature, art, and...math?](https://bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221123 -「 A fox in the dunes 」 
-  ![A fox in the dunes](https://bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
