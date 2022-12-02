@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221202 -「 The other continent down under 」 
+  ![The other continent down under](https://bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221201 -「 Jewel of the Adriatic 」 
   ![Jewel of the Adriatic](https://bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221130 -「 A day for giving 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pyramid built by Native Americans](https://bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221125 -「 A crimson quagmire 」 
   ![A crimson quagmire](https://bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221124 -「 Nature, art, and...math? 」 
-  ![Nature, art, and...math?](https://bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
