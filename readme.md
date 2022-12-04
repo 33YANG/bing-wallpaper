@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221204 -「 Chasing summer in the art world 」 
+  ![Chasing summer in the art world](https://bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221203 -「 Preserving Alaska's natural beauty 」 
   ![Preserving Alaska's natural beauty](https://bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221202 -「 The other continent down under 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Unbe-leaf-able](https://bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221127 -「 A symbol of peace 」 
   ![A symbol of peace](https://bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221126 -「 Pyramid built by Native Americans 」 
-  ![Pyramid built by Native Americans](https://bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
