@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221205 -「 Trunks packed for the road 」 
+  ![Trunks packed for the road](https://bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221204 -「 Chasing summer in the art world 」 
   ![Chasing summer in the art world](https://bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221203 -「 Preserving Alaska's natural beauty 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fourth rock from the sun](https://bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221128 -「 Unbe-leaf-able 」 
   ![Unbe-leaf-able](https://bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221127 -「 A symbol of peace 」 
-  ![A symbol of peace](https://bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
