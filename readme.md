@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221206 -「 Santa slalom 」 
+  ![Santa slalom](https://bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221205 -「 Trunks packed for the road 」 
   ![Trunks packed for the road](https://bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221204 -「 Chasing summer in the art world 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A day for giving](https://bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221129 -「 Fourth rock from the sun 」 
   ![Fourth rock from the sun](https://bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221128 -「 Unbe-leaf-able 」 
-  ![Unbe-leaf-able](https://bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
