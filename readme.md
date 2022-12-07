@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221207 -「 Stretching out in the Everglades 」 
+  ![Stretching out in the Everglades](https://bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221206 -「 Santa slalom 」 
   ![Santa slalom](https://bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221205 -「 Trunks packed for the road 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Jewel of the Adriatic](https://bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221130 -「 A day for giving 」 
   ![A day for giving](https://bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221129 -「 Fourth rock from the sun 」 
-  ![Fourth rock from the sun](https://bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
