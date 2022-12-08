@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221208 -「 Where the battle began 」 
+  ![Where the battle began](https://bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221207 -「 Stretching out in the Everglades 」 
   ![Stretching out in the Everglades](https://bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221206 -「 Santa slalom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The other continent down under](https://bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221201 -「 Jewel of the Adriatic 」 
   ![Jewel of the Adriatic](https://bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221130 -「 A day for giving 」 
-  ![A day for giving](https://bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
