@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221209 -「 Birthplace of the Renaissance 」 
+  ![Birthplace of the Renaissance](https://bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221208 -「 Where the battle began 」 
   ![Where the battle began](https://bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221207 -「 Stretching out in the Everglades 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Preserving Alaska's natural beauty](https://bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221202 -「 The other continent down under 」 
   ![The other continent down under](https://bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221201 -「 Jewel of the Adriatic 」 
-  ![Jewel of the Adriatic](https://bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
