@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221210 -「 What are these ancient animals? 」 
+  ![What are these ancient animals?](https://bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221209 -「 Birthplace of the Renaissance 」 
   ![Birthplace of the Renaissance](https://bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221208 -「 Where the battle began 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Chasing summer in the art world](https://bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221203 -「 Preserving Alaska's natural beauty 」 
   ![Preserving Alaska's natural beauty](https://bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221202 -「 The other continent down under 」 
-  ![The other continent down under](https://bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
