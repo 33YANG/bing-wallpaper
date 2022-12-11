@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221211 -「 When just a pinch of salt won't do 」 
+  ![When just a pinch of salt won't do](https://bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221210 -「 What are these ancient animals? 」 
   ![What are these ancient animals?](https://bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221209 -「 Birthplace of the Renaissance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Trunks packed for the road](https://bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221204 -「 Chasing summer in the art world 」 
   ![Chasing summer in the art world](https://bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221203 -「 Preserving Alaska's natural beauty 」 
-  ![Preserving Alaska's natural beauty](https://bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
