@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221212 -「 Rocky Mountain runoff 」 
+  ![Rocky Mountain runoff](https://bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221211 -「 When just a pinch of salt won't do 」 
   ![When just a pinch of salt won't do](https://bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221210 -「 What are these ancient animals? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Santa slalom](https://bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221205 -「 Trunks packed for the road 」 
   ![Trunks packed for the road](https://bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221204 -「 Chasing summer in the art world 」 
-  ![Chasing summer in the art world](https://bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
