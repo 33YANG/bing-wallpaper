@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221213 -「 Holiday hues 」 
+  ![Holiday hues](https://bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221212 -「 Rocky Mountain runoff 」 
   ![Rocky Mountain runoff](https://bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221211 -「 When just a pinch of salt won't do 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stretching out in the Everglades](https://bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221206 -「 Santa slalom 」 
   ![Santa slalom](https://bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221205 -「 Trunks packed for the road 」 
-  ![Trunks packed for the road](https://bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
