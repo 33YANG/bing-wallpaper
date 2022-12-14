@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221214 -「 A city so nice they made it twice 」 
+  ![A city so nice they made it twice](https://bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221213 -「 Holiday hues 」 
   ![Holiday hues](https://bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221212 -「 Rocky Mountain runoff 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the battle began](https://bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221207 -「 Stretching out in the Everglades 」 
   ![Stretching out in the Everglades](https://bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221206 -「 Santa slalom 」 
-  ![Santa slalom](https://bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
