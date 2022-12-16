@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221216 -「 Winter wonderland for your wallet 」 
+  ![Winter wonderland for your wallet](https://bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221215 -「 Counting crows...and every other bird 」 
   ![Counting crows...and every other bird](https://bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221214 -「 A city so nice they made it twice 」 
@@ -31,5 +33,3 @@ Main functions:
   ![What are these ancient animals?](https://bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221209 -「 Birthplace of the Renaissance 」 
   ![Birthplace of the Renaissance](https://bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221208 -「 Where the battle began 」 
-  ![Where the battle began](https://bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
