@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221219 -「 Gateway to Latin America 」 
+  ![Gateway to Latin America](https://bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221218 -「 As curious about you as you are about them 」 
   ![As curious about you as you are about them](https://bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221217 -「 Let there be lights! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Holiday hues](https://bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221212 -「 Rocky Mountain runoff 」 
   ![Rocky Mountain runoff](https://bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221211 -「 When just a pinch of salt won't do 」 
-  ![When just a pinch of salt won't do](https://bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
