@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221220 -「 A splash of color 」 
+  ![A splash of color](https://bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221219 -「 Gateway to Latin America 」 
   ![Gateway to Latin America](https://bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221218 -「 As curious about you as you are about them 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A city so nice they made it twice](https://bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221213 -「 Holiday hues 」 
   ![Holiday hues](https://bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221212 -「 Rocky Mountain runoff 」 
-  ![Rocky Mountain runoff](https://bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
