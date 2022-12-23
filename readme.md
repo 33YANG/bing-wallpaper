@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221223 -「 Season of light in the City of Light 」 
+  ![Season of light in the City of Light](https://bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221222 -「 Rainbow around the sun 」 
   ![Rainbow around the sun](https://bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221221 -「 Reflecting on Christmas 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Let there be lights!](https://bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221216 -「 Winter wonderland for your wallet 」 
   ![Winter wonderland for your wallet](https://bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221215 -「 Counting crows...and every other bird 」 
-  ![Counting crows...and every other bird](https://bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
