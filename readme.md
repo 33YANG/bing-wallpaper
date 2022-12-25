@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221225 -「 All is calm 」 
+  ![All is calm](https://bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221224 -「 'I've got a lot of problems with you penguins!' 」 
   !['I've got a lot of problems with you penguins!'](https://bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221223 -「 Season of light in the City of Light 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Gateway to Latin America](https://bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221218 -「 As curious about you as you are about them 」 
   ![As curious about you as you are about them](https://bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221217 -「 Let there be lights! 」 
-  ![Let there be lights!](https://bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
