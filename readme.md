@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221226 -「 Have a merry little Christmas 」 
+  ![Have a merry little Christmas](https://bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221225 -「 All is calm 」 
   ![All is calm](https://bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221224 -「 'I've got a lot of problems with you penguins!' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A splash of color](https://bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221219 -「 Gateway to Latin America 」 
   ![Gateway to Latin America](https://bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221218 -「 As curious about you as you are about them 」 
-  ![As curious about you as you are about them](https://bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
