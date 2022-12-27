@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221227 -「 Giddy family fun 」 
+  ![Giddy family fun](https://bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221226 -「 Have a merry little Christmas 」 
   ![Have a merry little Christmas](https://bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221225 -「 All is calm 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Reflecting on Christmas](https://bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221220 -「 A splash of color 」 
   ![A splash of color](https://bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221219 -「 Gateway to Latin America 」 
-  ![Gateway to Latin America](https://bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
