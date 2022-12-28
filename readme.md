@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221228 -「 The healing powers of wastewater 」 
+  ![The healing powers of wastewater](https://bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221227 -「 Giddy family fun 」 
   ![Giddy family fun](https://bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221226 -「 Have a merry little Christmas 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rainbow around the sun](https://bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221221 -「 Reflecting on Christmas 」 
   ![Reflecting on Christmas](https://bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221220 -「 A splash of color 」 
-  ![A splash of color](https://bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
