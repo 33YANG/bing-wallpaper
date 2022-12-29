@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221229 -「 A life-size snow globe 」 
+  ![A life-size snow globe](https://bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221228 -「 The healing powers of wastewater 」 
   ![The healing powers of wastewater](https://bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221227 -「 Giddy family fun 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Season of light in the City of Light](https://bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221222 -「 Rainbow around the sun 」 
   ![Rainbow around the sun](https://bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221221 -「 Reflecting on Christmas 」 
-  ![Reflecting on Christmas](https://bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
