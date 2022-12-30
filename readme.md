@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20221230 -「 The butterfly effect 」 
+  ![The butterfly effect](https://bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221229 -「 A life-size snow globe 」 
   ![A life-size snow globe](https://bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221228 -「 The healing powers of wastewater 」 
@@ -31,5 +33,3 @@ Main functions:
   !['I've got a lot of problems with you penguins!'](https://bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221223 -「 Season of light in the City of Light 」 
   ![Season of light in the City of Light](https://bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221222 -「 Rainbow around the sun 」 
-  ![Rainbow around the sun](https://bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
