@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230101 -「 Happy New Year's Eve from Down Under 」 
+  ![Happy New Year's Eve from Down Under](https://bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221231 -「 This snow will never melt 」 
   ![This snow will never melt](https://bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221230 -「 The butterfly effect 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Have a merry little Christmas](https://bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221225 -「 All is calm 」 
   ![All is calm](https://bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221224 -「 'I've got a lot of problems with you penguins!' 」 
-  !['I've got a lot of problems with you penguins!'](https://bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
