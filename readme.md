@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230104 -「 Who's snoozing? 」 
+  ![Who's snoozing?](https://bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230103 -「 Fit for a fairy tale 」 
   ![Fit for a fairy tale](https://bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230102 -「 Napping near the North Pole 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A life-size snow globe](https://bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221228 -「 The healing powers of wastewater 」 
   ![The healing powers of wastewater](https://bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221227 -「 Giddy family fun 」 
-  ![Giddy family fun](https://bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
