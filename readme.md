@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230105 -「 So close, yet so far 」 
+  ![So close, yet so far](https://bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230104 -「 Who's snoozing? 」 
   ![Who's snoozing?](https://bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230103 -「 Fit for a fairy tale 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The butterfly effect](https://bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221229 -「 A life-size snow globe 」 
   ![A life-size snow globe](https://bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221228 -「 The healing powers of wastewater 」 
-  ![The healing powers of wastewater](https://bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
