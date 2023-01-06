@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230106 -「 City of ice 」 
+  ![City of ice](https://bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230105 -「 So close, yet so far 」 
   ![So close, yet so far](https://bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230104 -「 Who's snoozing? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This snow will never melt](https://bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221230 -「 The butterfly effect 」 
   ![The butterfly effect](https://bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221229 -「 A life-size snow globe 」 
-  ![A life-size snow globe](https://bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
