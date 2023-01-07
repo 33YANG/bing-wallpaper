@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230107 -「 'The hills have a power to soothe and heal...' 」 
+  !['The hills have a power to soothe and heal...'](https://bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230106 -「 City of ice 」 
   ![City of ice](https://bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230105 -「 So close, yet so far 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy New Year's Eve from Down Under](https://bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20221231 -「 This snow will never melt 」 
   ![This snow will never melt](https://bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20221230 -「 The butterfly effect 」 
-  ![The butterfly effect](https://bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
