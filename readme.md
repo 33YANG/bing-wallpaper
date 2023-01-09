@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230109 -「 Where we go to play 」 
+  ![Where we go to play](https://bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230108 -「 What the heck is a distaff? 」 
   ![What the heck is a distaff?](https://bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230107 -「 'The hills have a power to soothe and heal...' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fit for a fairy tale](https://bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230102 -「 Napping near the North Pole 」 
   ![Napping near the North Pole](https://bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230101 -「 Happy New Year's Eve from Down Under 」 
-  ![Happy New Year's Eve from Down Under](https://bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
