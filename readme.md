@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230110 -「 Where buffalo roam 」 
+  ![Where buffalo roam](https://bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230109 -「 Where we go to play 」 
   ![Where we go to play](https://bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230108 -「 What the heck is a distaff? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Who's snoozing?](https://bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230103 -「 Fit for a fairy tale 」 
   ![Fit for a fairy tale](https://bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230102 -「 Napping near the North Pole 」 
-  ![Napping near the North Pole](https://bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
