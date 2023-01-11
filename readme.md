@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230111 -「 When ice imitates art 」 
+  ![When ice imitates art](https://bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230110 -「 Where buffalo roam 」 
   ![Where buffalo roam](https://bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230109 -「 Where we go to play 」 
@@ -31,5 +33,3 @@ Main functions:
   ![So close, yet so far](https://bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230104 -「 Who's snoozing? 」 
   ![Who's snoozing?](https://bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230103 -「 Fit for a fairy tale 」 
-  ![Fit for a fairy tale](https://bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
