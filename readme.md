@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230112 -「 Stairway to where? 」 
+  ![Stairway to where?](https://bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230111 -「 When ice imitates art 」 
   ![When ice imitates art](https://bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230110 -「 Where buffalo roam 」 
@@ -31,5 +33,3 @@ Main functions:
   ![City of ice](https://bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230105 -「 So close, yet so far 」 
   ![So close, yet so far](https://bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230104 -「 Who's snoozing? 」 
-  ![Who's snoozing?](https://bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
