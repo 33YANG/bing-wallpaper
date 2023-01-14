@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230114 -「 Sequoias of the sea 」 
+  ![Sequoias of the sea](https://bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230113 -「 Where two continents meet 」 
   ![Where two continents meet](https://bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230112 -「 Stairway to where? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![What the heck is a distaff?](https://bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230107 -「 'The hills have a power to soothe and heal...' 」 
   !['The hills have a power to soothe and heal...'](https://bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230106 -「 City of ice 」 
-  ![City of ice](https://bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
