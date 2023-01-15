@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230115 -「 A delightful day for donkeys 」 
+  ![A delightful day for donkeys](https://bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230114 -「 Sequoias of the sea 」 
   ![Sequoias of the sea](https://bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230113 -「 Where two continents meet 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where we go to play](https://bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230108 -「 What the heck is a distaff? 」 
   ![What the heck is a distaff?](https://bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230107 -「 'The hills have a power to soothe and heal...' 」 
-  !['The hills have a power to soothe and heal...'](https://bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
