@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230118 -「 From little acorns… 」 
+  ![From little acorns…](https://bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230117 -「 Words of wisdom 」 
   ![Words of wisdom](https://bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230116 -「 Frosty Finland 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stairway to where?](https://bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230111 -「 When ice imitates art 」 
   ![When ice imitates art](https://bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230110 -「 Where buffalo roam 」 
-  ![Where buffalo roam](https://bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
