@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230119 -「 Happy birthday, White Sands! 」 
+  ![Happy birthday, White Sands!](https://bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230118 -「 From little acorns… 」 
   ![From little acorns…](https://bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230117 -「 Words of wisdom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where two continents meet](https://bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230112 -「 Stairway to where? 」 
   ![Stairway to where?](https://bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230111 -「 When ice imitates art 」 
-  ![When ice imitates art](https://bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
