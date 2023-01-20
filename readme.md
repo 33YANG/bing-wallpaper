@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230120 -「 Clouds dance above Sundance 」 
+  ![Clouds dance above Sundance](https://bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230119 -「 Happy birthday, White Sands! 」 
   ![Happy birthday, White Sands!](https://bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230118 -「 From little acorns… 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sequoias of the sea](https://bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230113 -「 Where two continents meet 」 
   ![Where two continents meet](https://bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230112 -「 Stairway to where? 」 
-  ![Stairway to where?](https://bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
