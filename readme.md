@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230121 -「 'Come on, guys, this way!' 」 
+  !['Come on, guys, this way!'](https://bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230120 -「 Clouds dance above Sundance 」 
   ![Clouds dance above Sundance](https://bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230119 -「 Happy birthday, White Sands! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A delightful day for donkeys](https://bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230114 -「 Sequoias of the sea 」 
   ![Sequoias of the sea](https://bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230113 -「 Where two continents meet 」 
-  ![Where two continents meet](https://bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
