@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230122 -「 When only a hug will do 」 
+  ![When only a hug will do](https://bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230121 -「 'Come on, guys, this way!' 」 
   !['Come on, guys, this way!'](https://bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230120 -「 Clouds dance above Sundance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Frosty Finland](https://bing.com/th?id=OHR.Turku_EN-US1258814703_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230115 -「 A delightful day for donkeys 」 
   ![A delightful day for donkeys](https://bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230114 -「 Sequoias of the sea 」 
-  ![Sequoias of the sea](https://bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
