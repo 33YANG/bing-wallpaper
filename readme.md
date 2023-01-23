@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230123 -「 Hop into Lunar New Year 」 
+  ![Hop into Lunar New Year](https://bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230122 -「 When only a hug will do 」 
   ![When only a hug will do](https://bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230121 -「 'Come on, guys, this way!' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Words of wisdom](https://bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230116 -「 Frosty Finland 」 
   ![Frosty Finland](https://bing.com/th?id=OHR.Turku_EN-US1258814703_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230115 -「 A delightful day for donkeys 」 
-  ![A delightful day for donkeys](https://bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
