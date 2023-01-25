@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230125 -「 The envy of postcards and snow globes 」 
+  ![The envy of postcards and snow globes](https://bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230124 -「 Stony sentinels 」 
   ![Stony sentinels](https://bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230123 -「 Hop into Lunar New Year 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy birthday, White Sands!](https://bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230118 -「 From little acorns… 」 
   ![From little acorns…](https://bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230117 -「 Words of wisdom 」 
-  ![Words of wisdom](https://bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
