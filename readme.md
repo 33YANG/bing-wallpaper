@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230126 -「 Celebrating the Scottish Bard 」 
+  ![Celebrating the Scottish Bard](https://bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230125 -「 The envy of postcards and snow globes 」 
   ![The envy of postcards and snow globes](https://bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230124 -「 Stony sentinels 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Clouds dance above Sundance](https://bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230119 -「 Happy birthday, White Sands! 」 
   ![Happy birthday, White Sands!](https://bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230118 -「 From little acorns… 」 
-  ![From little acorns…](https://bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
