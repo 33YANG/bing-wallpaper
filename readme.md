@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230128 -「 All hail the mighty mangrove! 」 
+  ![All hail the mighty mangrove!](https://bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230127 -「 A heavenly view 」 
   ![A heavenly view](https://bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230126 -「 Celebrating the Scottish Bard 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When only a hug will do](https://bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230121 -「 'Come on, guys, this way!' 」 
   !['Come on, guys, this way!'](https://bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230120 -「 Clouds dance above Sundance 」 
-  ![Clouds dance above Sundance](https://bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
