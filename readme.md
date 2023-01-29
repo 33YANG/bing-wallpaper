@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230129 -「 When life imitates art 」 
+  ![When life imitates art](https://bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230128 -「 All hail the mighty mangrove! 」 
   ![All hail the mighty mangrove!](https://bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230127 -「 A heavenly view 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hop into Lunar New Year](https://bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230122 -「 When only a hug will do 」 
   ![When only a hug will do](https://bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230121 -「 'Come on, guys, this way!' 」 
-  !['Come on, guys, this way!'](https://bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
