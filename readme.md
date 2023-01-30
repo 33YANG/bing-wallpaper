@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230130 -「 Days of the blackbird 」 
+  ![Days of the blackbird](https://bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230129 -「 When life imitates art 」 
   ![When life imitates art](https://bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230128 -「 All hail the mighty mangrove! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stony sentinels](https://bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230123 -「 Hop into Lunar New Year 」 
   ![Hop into Lunar New Year](https://bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230122 -「 When only a hug will do 」 
-  ![When only a hug will do](https://bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
