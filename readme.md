@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230201 -「 A dazzling sight 」 
+  ![A dazzling sight](https://bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230131 -「 Wind-powered ice racing 」 
   ![Wind-powered ice racing](https://bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230130 -「 Days of the blackbird 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating the Scottish Bard](https://bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230125 -「 The envy of postcards and snow globes 」 
   ![The envy of postcards and snow globes](https://bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230124 -「 Stony sentinels 」 
-  ![Stony sentinels](https://bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
