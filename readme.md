@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230202 -「 Courage and conviction 」 
+  ![Courage and conviction](https://bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230201 -「 A dazzling sight 」 
   ![A dazzling sight](https://bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230131 -「 Wind-powered ice racing 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A heavenly view](https://bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230126 -「 Celebrating the Scottish Bard 」 
   ![Celebrating the Scottish Bard](https://bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230125 -「 The envy of postcards and snow globes 」 
-  ![The envy of postcards and snow globes](https://bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
