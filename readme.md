@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230203 -「 Signs of spring? 」 
+  ![Signs of spring?](https://bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230202 -「 Courage and conviction 」 
   ![Courage and conviction](https://bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230201 -「 A dazzling sight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All hail the mighty mangrove!](https://bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230127 -「 A heavenly view 」 
   ![A heavenly view](https://bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230126 -「 Celebrating the Scottish Bard 」 
-  ![Celebrating the Scottish Bard](https://bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
