@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230204 -「 Warmly embracing winter 」 
+  ![Warmly embracing winter](https://bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230203 -「 Signs of spring? 」 
   ![Signs of spring?](https://bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230202 -「 Courage and conviction 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When life imitates art](https://bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230128 -「 All hail the mighty mangrove! 」 
   ![All hail the mighty mangrove!](https://bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230127 -「 A heavenly view 」 
-  ![A heavenly view](https://bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
