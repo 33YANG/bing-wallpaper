@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230205 -「 Remembering Rosa Parks 」 
+  ![Remembering Rosa Parks](https://bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230204 -「 Warmly embracing winter 」 
   ![Warmly embracing winter](https://bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230203 -「 Signs of spring? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Days of the blackbird](https://bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230129 -「 When life imitates art 」 
   ![When life imitates art](https://bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230128 -「 All hail the mighty mangrove! 」 
-  ![All hail the mighty mangrove!](https://bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
