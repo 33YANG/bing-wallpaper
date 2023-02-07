@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230207 -「 Where fiords meet forests 」 
+  ![Where fiords meet forests](https://bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230206 -「 Migration of the monarchs 」 
   ![Migration of the monarchs](https://bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230205 -「 Remembering Rosa Parks 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A dazzling sight](https://bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230131 -「 Wind-powered ice racing 」 
   ![Wind-powered ice racing](https://bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230130 -「 Days of the blackbird 」 
-  ![Days of the blackbird](https://bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
