@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230208 -「 History on the hill 」 
+  ![History on the hill](https://bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230207 -「 Where fiords meet forests 」 
   ![Where fiords meet forests](https://bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230206 -「 Migration of the monarchs 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Courage and conviction](https://bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230201 -「 A dazzling sight 」 
   ![A dazzling sight](https://bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230131 -「 Wind-powered ice racing 」 
-  ![Wind-powered ice racing](https://bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
