@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230210 -「 Waves of stone 」 
+  ![Waves of stone](https://bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230209 -「 A place to pause 」 
   ![A place to pause](https://bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230208 -「 History on the hill 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Warmly embracing winter](https://bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230203 -「 Signs of spring? 」 
   ![Signs of spring?](https://bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230202 -「 Courage and conviction 」 
-  ![Courage and conviction](https://bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
