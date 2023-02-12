@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230212 -「 Death Valley's star appeal 」 
+  ![Death Valley's star appeal](https://bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230211 -「 Built to last 」 
   ![Built to last](https://bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230210 -「 Waves of stone 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Migration of the monarchs](https://bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230205 -「 Remembering Rosa Parks 」 
   ![Remembering Rosa Parks](https://bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230204 -「 Warmly embracing winter 」 
-  ![Warmly embracing winter](https://bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
