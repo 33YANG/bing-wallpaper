@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230215 -「 Love is in the snow 」 
+  ![Love is in the snow](https://bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230214 -「 In the Valley of the Moon 」 
   ![In the Valley of the Moon](https://bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230213 -「 Coming in for a smooth landing? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A place to pause](https://bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230208 -「 History on the hill 」 
   ![History on the hill](https://bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230207 -「 Where fiords meet forests 」 
-  ![Where fiords meet forests](https://bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
