@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230217 -「 Why is El Capitan ablaze? 」 
+  ![Why is El Capitan ablaze?](https://bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230216 -「 World Hippo Day, a giant celebration 」 
   ![World Hippo Day, a giant celebration](https://bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230215 -「 Love is in the snow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Built to last](https://bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230210 -「 Waves of stone 」 
   ![Waves of stone](https://bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230209 -「 A place to pause 」 
-  ![A place to pause](https://bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
