@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230218 -「 Let the Great Backyard Bird Count begin! 」 
+  ![Let the Great Backyard Bird Count begin!](https://bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230217 -「 Why is El Capitan ablaze? 」 
   ![Why is El Capitan ablaze?](https://bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230216 -「 World Hippo Day, a giant celebration 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Death Valley's star appeal](https://bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230211 -「 Built to last 」 
   ![Built to last](https://bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230210 -「 Waves of stone 」 
-  ![Waves of stone](https://bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
