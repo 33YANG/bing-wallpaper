@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230220 -「 Migrating giants 」 
+  ![Migrating giants](https://bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230219 -「 It's cold inside! 」 
   ![It's cold inside!](https://bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230218 -「 Let the Great Backyard Bird Count begin! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In the Valley of the Moon](https://bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230213 -「 Coming in for a smooth landing? 」 
   ![Coming in for a smooth landing?](https://bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230212 -「 Death Valley's star appeal 」 
-  ![Death Valley's star appeal](https://bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
