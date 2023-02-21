@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230221 -「 Happy Presidents Day! 」 
+  ![Happy Presidents Day!](https://bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230220 -「 Migrating giants 」 
   ![Migrating giants](https://bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230219 -「 It's cold inside! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Love is in the snow](https://bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230214 -「 In the Valley of the Moon 」 
   ![In the Valley of the Moon](https://bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230213 -「 Coming in for a smooth landing? 」 
-  ![Coming in for a smooth landing?](https://bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
