@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230222 -「 Happy Mardi Gras! 」 
+  ![Happy Mardi Gras!](https://bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230221 -「 Happy Presidents Day! 」 
   ![Happy Presidents Day!](https://bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230220 -「 Migrating giants 」 
@@ -31,5 +33,3 @@ Main functions:
   ![World Hippo Day, a giant celebration](https://bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230215 -「 Love is in the snow 」 
   ![Love is in the snow](https://bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230214 -「 In the Valley of the Moon 」 
-  ![In the Valley of the Moon](https://bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
