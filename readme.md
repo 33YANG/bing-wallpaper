@@ -17,10 +17,12 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230224 -「 Night falls on the City of Light 」 
+  ![Night falls on the City of Light](https://bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230223 -「 Milestone in Black history 」 
   ![Milestone in Black history](https://bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230222 -「 Happy Mardi Gras! 」 
-  ![Happy Mardi Gras!](https://bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Happy Mardi Gras!](https://bing.com/th?id=OHR.MardiGrasNOLA_EN-US1003373004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230221 -「 Happy Presidents Day! 」 
   ![Happy Presidents Day!](https://bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230220 -「 Migrating giants 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Let the Great Backyard Bird Count begin!](https://bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230217 -「 Why is El Capitan ablaze? 」 
   ![Why is El Capitan ablaze?](https://bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230216 -「 World Hippo Day, a giant celebration 」 
-  ![World Hippo Day, a giant celebration](https://bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
