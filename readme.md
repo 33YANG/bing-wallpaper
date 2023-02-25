@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230225 -「 Who’s this colorful character? 」 
+  ![Who’s this colorful character?](https://bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230224 -「 Night falls on the City of Light 」 
   ![Night falls on the City of Light](https://bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230223 -「 Milestone in Black history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![It's cold inside!](https://bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230218 -「 Let the Great Backyard Bird Count begin! 」 
   ![Let the Great Backyard Bird Count begin!](https://bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230217 -「 Why is El Capitan ablaze? 」 
-  ![Why is El Capitan ablaze?](https://bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
