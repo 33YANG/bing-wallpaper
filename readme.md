@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230226 -「 A huddle of hoodoos 」 
+  ![A huddle of hoodoos](https://bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230225 -「 Who’s this colorful character? 」 
   ![Who’s this colorful character?](https://bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230224 -「 Night falls on the City of Light 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Migrating giants](https://bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230219 -「 It's cold inside! 」 
   ![It's cold inside!](https://bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230218 -「 Let the Great Backyard Bird Count begin! 」 
-  ![Let the Great Backyard Bird Count begin!](https://bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
