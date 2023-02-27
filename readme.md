@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230227 -「 A walk in the trees 」 
+  ![A walk in the trees](https://bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230226 -「 A huddle of hoodoos 」 
   ![A huddle of hoodoos](https://bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230225 -「 Who’s this colorful character? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Presidents Day!](https://bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230220 -「 Migrating giants 」 
   ![Migrating giants](https://bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230219 -「 It's cold inside! 」 
-  ![It's cold inside!](https://bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
