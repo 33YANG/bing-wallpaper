@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230301 -「 Allure of the Amalfi Coast 」 
+  ![Allure of the Amalfi Coast](https://bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230228 -「 A warm hug in the icy North 」 
   ![A warm hug in the icy North](https://bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230227 -「 A walk in the trees 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Milestone in Black history](https://bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230222 -「 Happy Mardi Gras! 」 
   ![Happy Mardi Gras!](https://bing.com/th?id=OHR.MardiGrasNOLA_EN-US1003373004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230221 -「 Happy Presidents Day! 」 
-  ![Happy Presidents Day!](https://bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
