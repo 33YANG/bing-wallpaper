@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230302 -「 Women's History Month begins 」 
+  ![Women's History Month begins](https://bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230301 -「 Allure of the Amalfi Coast 」 
   ![Allure of the Amalfi Coast](https://bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230228 -「 A warm hug in the icy North 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Night falls on the City of Light](https://bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230223 -「 Milestone in Black history 」 
   ![Milestone in Black history](https://bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230222 -「 Happy Mardi Gras! 」 
-  ![Happy Mardi Gras!](https://bing.com/th?id=OHR.MardiGrasNOLA_EN-US1003373004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
