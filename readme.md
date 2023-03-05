@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230305 -「 The road less taken 」 
+  ![The road less taken](https://bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230304 -「 Pod predators 」 
   ![Pod predators](https://bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230303 -「 Glorious Granada 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A walk in the trees](https://bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230226 -「 A huddle of hoodoos 」 
   ![A huddle of hoodoos](https://bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230225 -「 Who’s this colorful character? 」 
-  ![Who’s this colorful character?](https://bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
