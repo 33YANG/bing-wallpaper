@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230307 -「 Norse horses 」 
+  ![Norse horses](https://bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230306 -「 Spring blossoms in Tokyo 」 
   ![Spring blossoms in Tokyo](https://bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230305 -「 The road less taken 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Allure of the Amalfi Coast](https://bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230228 -「 A warm hug in the icy North 」 
   ![A warm hug in the icy North](https://bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230227 -「 A walk in the trees 」 
-  ![A walk in the trees](https://bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
