@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230308 -「 Shining through the centuries 」 
+  ![Shining through the centuries](https://bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230307 -「 Norse horses 」 
   ![Norse horses](https://bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230306 -「 Spring blossoms in Tokyo 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Women's History Month begins](https://bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230301 -「 Allure of the Amalfi Coast 」 
   ![Allure of the Amalfi Coast](https://bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230228 -「 A warm hug in the icy North 」 
-  ![A warm hug in the icy North](https://bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
