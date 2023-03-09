@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230309 -「 Celebrating women 」 
+  ![Celebrating women](https://bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230308 -「 Shining through the centuries 」 
   ![Shining through the centuries](https://bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230307 -「 Norse horses 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Glorious Granada](https://bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230302 -「 Women's History Month begins 」 
   ![Women's History Month begins](https://bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230301 -「 Allure of the Amalfi Coast 」 
-  ![Allure of the Amalfi Coast](https://bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
