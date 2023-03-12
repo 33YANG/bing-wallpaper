@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230312 -「 Protecting shorelines 」 
+  ![Protecting shorelines](https://bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230311 -「 Up hill and down dale 」 
   ![Up hill and down dale](https://bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230310 -「 Under the rainbow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Spring blossoms in Tokyo](https://bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230305 -「 The road less taken 」 
   ![The road less taken](https://bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230304 -「 Pod predators 」 
-  ![Pod predators](https://bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
