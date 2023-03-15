@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230315 -「 A beautiful labyrinth 」 
+  ![A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230314 -「 Just 'lion' around 」 
   ![Just 'lion' around](https://bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230313 -「 A real showstopper 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating women](https://bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230308 -「 Shining through the centuries 」 
   ![Shining through the centuries](https://bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230307 -「 Norse horses 」 
-  ![Norse horses](https://bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
