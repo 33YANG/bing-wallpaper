@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230316 -「 A hidden gem 」 
+  ![A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230315 -「 A beautiful labyrinth 」 
   ![A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230314 -「 Just 'lion' around 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Under the rainbow](https://bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230309 -「 Celebrating women 」 
   ![Celebrating women](https://bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230308 -「 Shining through the centuries 」 
-  ![Shining through the centuries](https://bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
