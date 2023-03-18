@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230318 -「 Happy St. Patrick's Day! 」 
+  ![Happy St. Patrick's Day!](https://bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230317 -「 Happy Panda Day! 」 
   ![Happy Panda Day!](https://bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230316 -「 A hidden gem 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Protecting shorelines](https://bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230311 -「 Up hill and down dale 」 
   ![Up hill and down dale](https://bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230310 -「 Under the rainbow 」 
-  ![Under the rainbow](https://bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
