@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230320 -「 Whooo's the wisest of them all? 」 
+  ![Whooo's the wisest of them all?](https://bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230319 -「 Out of this world 」 
   ![Out of this world](https://bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230318 -「 Happy St. Patrick's Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Just 'lion' around](https://bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230313 -「 A real showstopper 」 
   ![A real showstopper](https://bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230312 -「 Protecting shorelines 」 
-  ![Protecting shorelines](https://bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
