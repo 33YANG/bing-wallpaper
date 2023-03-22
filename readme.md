@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230322 -「 What's your favorite color? 」 
+  ![What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230321 -「 Hello spring! 」 
   ![Hello spring!](https://bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230320 -「 Whooo's the wisest of them all? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230315 -「 A beautiful labyrinth 」 
   ![A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230314 -「 Just 'lion' around 」 
-  ![Just 'lion' around](https://bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
