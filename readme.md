@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230323 -「 World Water Day 」 
+  ![World Water Day](https://bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230322 -「 What's your favorite color? 」 
   ![What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230321 -「 Hello spring! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Panda Day!](https://bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230316 -「 A hidden gem 」 
   ![A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230315 -「 A beautiful labyrinth 」 
-  ![A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
