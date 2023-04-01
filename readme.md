@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230401 -「 The stunning Steyr 」 
+  ![The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230331 -「 Regal radiance 」 
   ![Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230330 -「 Snuggling sea cows 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230325 -「 Stop and smell the…garlic? 」 
   ![Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230324 -「 We've identified these 'flying objects' 」 
-  ![We've identified these 'flying objects'](https://bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
