@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230403 -「 Land of sand and fire 」 
+  ![Land of sand and fire](https://bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230402 -「 Hoppy National Frog Month! 」 
   ![Hoppy National Frog Month!](https://bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230401 -「 The stunning Steyr 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230327 -「 The desert in bloom 」 
   ![The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230326 -「 Winding down in style 」 
-  ![Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
