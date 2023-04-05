@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230405 -「 The historic heart of Córdoba 」 
+  ![The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230404 -「 Chasing rainbows 」 
   ![Chasing rainbows](https://bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230403 -「 Land of sand and fire 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230329 -「 Peak stargazing 」 
   ![Peak stargazing](https://bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230328 -「 Cloud City 」 
-  ![Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
