@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230406 -「 Ruffling feathers 」 
+  ![Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230405 -「 The historic heart of Córdoba 」 
   ![The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230404 -「 Chasing rainbows 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230330 -「 Snuggling sea cows 」 
   ![Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230329 -「 Peak stargazing 」 
-  ![Peak stargazing](https://bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
