@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230408 -「 Saluting beavers 」 
+  ![Saluting beavers](https://bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230407 -「 Pink moon rising 」 
   ![Pink moon rising](https://bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230406 -「 Ruffling feathers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hoppy National Frog Month!](https://bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230401 -「 The stunning Steyr 」 
   ![The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230331 -「 Regal radiance 」 
-  ![Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
