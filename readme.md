@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230409 -「 In the footsteps of giants 」 
+  ![In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230408 -「 Saluting beavers 」 
   ![Saluting beavers](https://bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230407 -「 Pink moon rising 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Land of sand and fire](https://bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230402 -「 Hoppy National Frog Month! 」 
   ![Hoppy National Frog Month!](https://bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230401 -「 The stunning Steyr 」 
-  ![The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
