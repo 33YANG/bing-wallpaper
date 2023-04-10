@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230410 -「 Happy Easter! 」 
+  ![Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230409 -「 In the footsteps of giants 」 
   ![In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230408 -「 Saluting beavers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Chasing rainbows](https://bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230403 -「 Land of sand and fire 」 
   ![Land of sand and fire](https://bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230402 -「 Hoppy National Frog Month! 」 
-  ![Hoppy National Frog Month!](https://bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
