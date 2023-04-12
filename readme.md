@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230412 -「 Where is this hidden waterfall? 」 
+  ![Where is this hidden waterfall?](https://bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230411 -「 Strong sibling bonds 」 
   ![Strong sibling bonds](https://bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230410 -「 Happy Easter! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230405 -「 The historic heart of Córdoba 」 
   ![The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230404 -「 Chasing rainbows 」 
-  ![Chasing rainbows](https://bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
