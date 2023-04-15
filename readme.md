@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230415 -「 Stars in daylight 」 
+  ![Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230414 -「 Pretty in pink 」 
   ![Pretty in pink](https://bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230413 -「 A view that's out of this world 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230408 -「 Saluting beavers 」 
   ![Saluting beavers](https://bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230407 -「 Pink moon rising 」 
-  ![Pink moon rising](https://bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
