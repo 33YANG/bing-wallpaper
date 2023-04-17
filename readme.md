@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230417 -「 Go fly a kite! 」 
+  ![Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230416 -「 When art imitates life 」 
   ![When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230415 -「 Stars in daylight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Strong sibling bonds](https://bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230410 -「 Happy Easter! 」 
   ![Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230409 -「 In the footsteps of giants 」 
-  ![In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
