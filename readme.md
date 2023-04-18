@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230418 -「 Poetry in suspense 」 
+  ![Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230417 -「 Go fly a kite! 」 
   ![Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230416 -「 When art imitates life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where is this hidden waterfall?](https://bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230411 -「 Strong sibling bonds 」 
   ![Strong sibling bonds](https://bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230410 -「 Happy Easter! 」 
-  ![Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
