@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230420 -「 Two's company 」 
+  ![Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230419 -「 A mountaintop marvel 」 
   ![A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230418 -「 Poetry in suspense 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pretty in pink](https://bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230413 -「 A view that's out of this world 」 
   ![A view that's out of this world](https://bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230412 -「 Where is this hidden waterfall? 」 
-  ![Where is this hidden waterfall?](https://bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
