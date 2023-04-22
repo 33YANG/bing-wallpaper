@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230422 -「 Sunset on Procida 」 
+  ![Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230421 -「 A subtropical soak 」 
   ![A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230420 -「 Two's company 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230415 -「 Stars in daylight 」 
   ![Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230414 -「 Pretty in pink 」 
-  ![Pretty in pink](https://bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
