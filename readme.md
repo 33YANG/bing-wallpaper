@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230423 -「 Back from the brink 」 
+  ![Back from the brink](https://bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230422 -「 Sunset on Procida 」 
   ![Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230421 -「 A subtropical soak 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230416 -「 When art imitates life 」 
   ![When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230415 -「 Stars in daylight 」 
-  ![Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
