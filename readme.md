@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230425 -「 Beneath the woods 」 
+  ![Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230424 -「 A book lover's paradise 」 
   ![A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230423 -「 Back from the brink 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230418 -「 Poetry in suspense 」 
   ![Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230417 -「 Go fly a kite! 」 
-  ![Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
