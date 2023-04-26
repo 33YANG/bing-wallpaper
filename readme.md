@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230426 -「 Chilling out on World Penguin Day 」 
+  ![Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230425 -「 Beneath the woods 」 
   ![Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230424 -「 A book lover's paradise 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230419 -「 A mountaintop marvel 」 
   ![A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230418 -「 Poetry in suspense 」 
-  ![Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
