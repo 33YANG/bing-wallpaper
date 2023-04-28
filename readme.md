@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230428 -「 An endless stretch of sky 」 
+  ![An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230427 -「 Destined for greatness 」 
   ![Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230426 -「 Chilling out on World Penguin Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230421 -「 A subtropical soak 」 
   ![A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230420 -「 Two's company 」 
-  ![Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
