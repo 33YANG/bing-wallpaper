@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230429 -「 The giants of Yosemite 」 
+  ![The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230428 -「 An endless stretch of sky 」 
   ![An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230427 -「 Destined for greatness 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Back from the brink](https://bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230422 -「 Sunset on Procida 」 
   ![Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230421 -「 A subtropical soak 」 
-  ![A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
