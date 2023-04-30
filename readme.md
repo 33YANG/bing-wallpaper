@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230430 -「 Gazing into infinity 」 
+  ![Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230429 -「 The giants of Yosemite 」 
   ![The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230428 -「 An endless stretch of sky 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230423 -「 Back from the brink 」 
   ![Back from the brink](https://bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230422 -「 Sunset on Procida 」 
-  ![Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
