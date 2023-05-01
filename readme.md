@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230501 -「 A day of swing and celebration 」 
+  ![A day of swing and celebration](https://bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230430 -「 Gazing into infinity 」 
   ![Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230429 -「 The giants of Yosemite 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230424 -「 A book lover's paradise 」 
   ![A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230423 -「 Back from the brink 」 
-  ![Back from the brink](https://bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
