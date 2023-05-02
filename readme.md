@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230502 -「 Asian American and Pacific Islander Heritage Month 」 
+  ![Asian American and Pacific Islander Heritage Month](https://bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230501 -「 A day of swing and celebration 」 
   ![A day of swing and celebration](https://bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230430 -「 Gazing into infinity 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230425 -「 Beneath the woods 」 
   ![Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230424 -「 A book lover's paradise 」 
-  ![A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
