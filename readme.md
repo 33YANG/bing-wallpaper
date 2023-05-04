@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230504 -「 The animal kingdom's great migration 」 
+  ![The animal kingdom's great migration](https://bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230503 -「 The height of Alpine beauty 」 
   ![The height of Alpine beauty](https://bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230502 -「 Asian American and Pacific Islander Heritage Month 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230427 -「 Destined for greatness 」 
   ![Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230426 -「 Chilling out on World Penguin Day 」 
-  ![Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
