@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230517 -「 Serene waters on a 'trembling earth' 」 
+  ![Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230516 -「 Aglow in the Atlantic 」 
   ![Aglow in the Atlantic](https://bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230515 -「 Happy Mother's Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![King of lighthouses](https://bing.com/th?id=OHR.CordouanLighthouse_EN-US1179388866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230510 -「 A castle fit for a count 」 
   ![A castle fit for a count](https://bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230509 -「 Delicate but enduring 」 
-  ![Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
