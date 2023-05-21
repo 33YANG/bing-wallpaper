@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230521 -「 The buzz about World Bee Day 」 
+  ![The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230520 -「 On the edge of extinction 」 
   ![On the edge of extinction](https://bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230519 -「 International Museum Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Mother's Day!](https://bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230514 -「 'Tis the season for travel 」 
   !['Tis the season for travel](https://bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230513 -「 A butterfly's best friend 」 
-  ![A butterfly's best friend](https://bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
