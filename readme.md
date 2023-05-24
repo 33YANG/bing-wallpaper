@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230524 -「 Turtle power! 」 
+  ![Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230523 -「 Life in the clouds 」 
   ![Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230522 -「 Spanning the Seine 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230517 -「 Serene waters on a 'trembling earth' 」 
   ![Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230516 -「 Aglow in the Atlantic 」 
-  ![Aglow in the Atlantic](https://bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
