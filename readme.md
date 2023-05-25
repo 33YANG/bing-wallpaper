@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230525 -「 Standing firm 」 
+  ![Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230524 -「 Turtle power! 」 
   ![Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230523 -「 Life in the clouds 」 
@@ -31,5 +33,3 @@ Main functions:
   ![International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230518 -「 Getting a bird's-eye view 」 
   ![Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230517 -「 Serene waters on a 'trembling earth' 」 
-  ![Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
