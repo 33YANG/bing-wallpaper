@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230527 -「 The splendors of Sukhothai 」 
+  ![The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230526 -「 Where the grass is greener 」 
   ![Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230525 -「 Standing firm 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230520 -「 On the edge of extinction 」 
   ![On the edge of extinction](https://bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230519 -「 International Museum Day 」 
-  ![International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
