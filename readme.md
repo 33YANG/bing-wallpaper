@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230529 -「 Farming in harmony with nature 」 
+  ![Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230528 -「 Stretching to the sky 」 
   ![Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230527 -「 The splendors of Sukhothai 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230522 -「 Spanning the Seine 」 
   ![Spanning the Seine](https://bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230521 -「 The buzz about World Bee Day 」 
-  ![The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
