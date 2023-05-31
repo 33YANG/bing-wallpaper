@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230531 -「 Secluded sands in Mexico 」 
+  ![Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230530 -「 Honoring the fallen 」 
   ![Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230529 -「 Farming in harmony with nature 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230524 -「 Turtle power! 」 
   ![Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230523 -「 Life in the clouds 」 
-  ![Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
