@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230601 -「 Otterly adorable 」 
+  ![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230531 -「 Secluded sands in Mexico 」 
   ![Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230530 -「 Honoring the fallen 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230525 -「 Standing firm 」 
   ![Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230524 -「 Turtle power! 」 
-  ![Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
