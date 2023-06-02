@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230602 -「 Blue as far as the eye can see 」 
+  ![Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230601 -「 Otterly adorable 」 
   ![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230531 -「 Secluded sands in Mexico 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230526 -「 Where the grass is greener 」 
   ![Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230525 -「 Standing firm 」 
-  ![Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
