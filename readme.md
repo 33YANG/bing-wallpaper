@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230604 -「 A glimpse of the grandest of canyons 」 
+  ![A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230603 -「 Hello? Anybody else out here? 」 
   ![Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230602 -「 Blue as far as the eye can see 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230528 -「 Stretching to the sky 」 
   ![Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230527 -「 The splendors of Sukhothai 」 
-  ![The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
