@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230605 -「 Maui's volcanic shores 」 
+  ![Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230604 -「 A glimpse of the grandest of canyons 」 
   ![A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230603 -「 Hello? Anybody else out here? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230529 -「 Farming in harmony with nature 」 
   ![Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230528 -「 Stretching to the sky 」 
-  ![Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
