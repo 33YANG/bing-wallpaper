@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230608 -「 If these walls could talk... 」 
+  ![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230607 -「 Remembering D-Day 」 
   ![Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230606 -「 Can we turn the tide on ocean plastic? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230601 -「 Otterly adorable 」 
   ![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230531 -「 Secluded sands in Mexico 」 
-  ![Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
