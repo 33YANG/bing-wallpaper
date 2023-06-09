@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230609 -「 Where the humpback whale sings 」 
+  ![Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230608 -「 If these walls could talk... 」 
   ![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230607 -「 Remembering D-Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230602 -「 Blue as far as the eye can see 」 
   ![Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230601 -「 Otterly adorable 」 
-  ![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
