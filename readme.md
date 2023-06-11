@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230611 -「 Blue hues and ceramic scenes of Porto 」 
+  ![Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230610 -「 Rising with the sun 」 
   ![Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230609 -「 Where the humpback whale sings 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230604 -「 A glimpse of the grandest of canyons 」 
   ![A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230603 -「 Hello? Anybody else out here? 」 
-  ![Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
