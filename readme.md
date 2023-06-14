@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230614 -「 Into the swamp 」 
+  ![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230613 -「 Happy birthday, Big Bend National Park! 」 
   ![Happy birthday, Big Bend National Park!](https://bing.com/th?id=OHR.BigBendAnniv_EN-US8613000977_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230612 -「 A huddled giant 」 
@@ -31,5 +33,3 @@ Main functions:
   ![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230607 -「 Remembering D-Day 」 
   ![Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230606 -「 Can we turn the tide on ocean plastic? 」 
-  ![Can we turn the tide on ocean plastic?](https://bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
