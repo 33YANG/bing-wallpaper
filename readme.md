@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230615 -「 Saluting the Stars and Stripes 」 
+  ![Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230614 -「 Into the swamp 」 
   ![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230613 -「 Happy birthday, Big Bend National Park! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230608 -「 If these walls could talk... 」 
   ![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230607 -「 Remembering D-Day 」 
-  ![Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
