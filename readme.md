@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230617 -「 Shell-ebrating sea turtles 」 
+  ![Shell-ebrating sea turtles](https://bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230616 -「 Twinkle, twinkle, little bugs 」 
   ![Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230615 -「 Saluting the Stars and Stripes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230610 -「 Rising with the sun 」 
   ![Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230609 -「 Where the humpback whale sings 」 
-  ![Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
