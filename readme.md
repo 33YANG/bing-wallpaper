@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230618 -「 Paddle power 」 
+  ![Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230617 -「 Shell-ebrating sea turtles 」 
   ![Shell-ebrating sea turtles](https://bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230616 -「 Twinkle, twinkle, little bugs 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230611 -「 Blue hues and ceramic scenes of Porto 」 
   ![Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230610 -「 Rising with the sun 」 
-  ![Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
