@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230620 -「 Happy Juneteenth! 」 
+  ![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230619 -「 Happy Father's Day! 」 
   ![Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230618 -「 Paddle power 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230613 -「 Happy birthday, Big Bend National Park! 」 
   ![Happy birthday, Big Bend National Park!](https://bing.com/th?id=OHR.BigBendAnniv_EN-US8613000977_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230612 -「 A huddled giant 」 
-  ![A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
