@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230621 -「 Celebrating an American icon 」 
+  ![Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230620 -「 Happy Juneteenth! 」 
   ![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230619 -「 Happy Father's Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230614 -「 Into the swamp 」 
   ![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230613 -「 Happy birthday, Big Bend National Park! 」 
-  ![Happy birthday, Big Bend National Park!](https://bing.com/th?id=OHR.BigBendAnniv_EN-US8613000977_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
