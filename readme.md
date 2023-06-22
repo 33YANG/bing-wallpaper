@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230622 -「 The mystery of Stonehenge 」 
+  ![The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230621 -「 Celebrating an American icon 」 
   ![Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230620 -「 Happy Juneteenth! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230615 -「 Saluting the Stars and Stripes 」 
   ![Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230614 -「 Into the swamp 」 
-  ![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
