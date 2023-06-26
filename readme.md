@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230626 -「 A temple to treasure 」 
+  ![A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230625 -「 Beauty by the bay 」 
   ![Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230624 -「 Butterfly, fly away 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230619 -「 Happy Father's Day! 」 
   ![Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230618 -「 Paddle power 」 
-  ![Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
