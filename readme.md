@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230628 -「 Red Rock Country 」 
+  ![Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230627 -「 A labyrinth of luxury 」 
   ![A labyrinth of luxury](https://bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230626 -「 A temple to treasure 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230621 -「 Celebrating an American icon 」 
   ![Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230620 -「 Happy Juneteenth! 」 
-  ![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
