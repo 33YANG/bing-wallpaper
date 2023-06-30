@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230630 -「 Celebrating the tropics 」 
+  ![Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230629 -「 The colors of Pride 」 
   ![The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230628 -「 Red Rock Country 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230623 -「 A world within a world 」 
   ![A world within a world](https://bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230622 -「 The mystery of Stonehenge 」 
-  ![The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
