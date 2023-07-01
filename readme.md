@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230701 -「 Where did you drop the fish, son? 」 
+  ![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230630 -「 Celebrating the tropics 」 
   ![Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230629 -「 The colors of Pride 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230624 -「 Butterfly, fly away 」 
   ![Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230623 -「 A world within a world 」 
-  ![A world within a world](https://bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
