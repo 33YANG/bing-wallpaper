@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230702 -「 Ready for the Grand Départ? 」 
+  ![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230701 -「 Where did you drop the fish, son? 」 
   ![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230630 -「 Celebrating the tropics 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230625 -「 Beauty by the bay 」 
   ![Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230624 -「 Butterfly, fly away 」 
-  ![Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
