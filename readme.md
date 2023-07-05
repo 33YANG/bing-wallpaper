@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230705 -「 Happy Independence Day! 」 
+  ![Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230704 -「 Hot enough to howl 」 
   ![Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230703 -「 We're halfway there 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230628 -「 Red Rock Country 」 
   ![Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230627 -「 A labyrinth of luxury 」 
-  ![A labyrinth of luxury](https://bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
