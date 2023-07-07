@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230707 -「 A peck between penguins 」 
+  ![A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230706 -「 Pick your paradise 」 
   ![Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230705 -「 Happy Independence Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230630 -「 Celebrating the tropics 」 
   ![Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230629 -「 The colors of Pride 」 
-  ![The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
