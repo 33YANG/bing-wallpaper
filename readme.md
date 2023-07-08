@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230708 -「 A chocolate lover's favorite fruit 」 
+  ![A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230707 -「 A peck between penguins 」 
   ![A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230706 -「 Pick your paradise 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230701 -「 Where did you drop the fish, son? 」 
   ![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230630 -「 Celebrating the tropics 」 
-  ![Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
