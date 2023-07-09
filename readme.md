@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230709 -「 Sanctuary among the trees 」 
+  ![Sanctuary among the trees](https://bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230708 -「 A chocolate lover's favorite fruit 」 
   ![A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230707 -「 A peck between penguins 」 
@@ -31,5 +33,3 @@ Main functions:
   ![We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230702 -「 Ready for the Grand Départ? 」 
   ![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230701 -「 Where did you drop the fish, son? 」 
-  ![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
