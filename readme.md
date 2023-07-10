@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230710 -「 In the loop 」 
+  ![In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230709 -「 Sanctuary among the trees 」 
   ![Sanctuary among the trees](https://bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230708 -「 A chocolate lover's favorite fruit 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230703 -「 We're halfway there 」 
   ![We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230702 -「 Ready for the Grand Départ? 」 
-  ![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
