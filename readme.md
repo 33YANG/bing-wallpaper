@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230711 -「 A scented sea of purple 」 
+  ![A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230710 -「 In the loop 」 
   ![In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230709 -「 Sanctuary among the trees 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230704 -「 Hot enough to howl 」 
   ![Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230703 -「 We're halfway there 」 
-  ![We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
