@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230713 -「 The world's most exclusive beach? 」 
+  ![The world's most exclusive beach?](https://bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230712 -「 A sea of humanity 」 
   ![A sea of humanity](https://bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230711 -「 A scented sea of purple 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230706 -「 Pick your paradise 」 
   ![Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230705 -「 Happy Independence Day! 」 
-  ![Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
