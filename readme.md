@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230716 -「 A postcard-perfect landscape 」 
+  ![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230715 -「 A shiver of sharks on the hunt 」 
   ![A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230714 -「 Walking a rocky rainbow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230709 -「 Sanctuary among the trees 」 
   ![Sanctuary among the trees](https://bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230708 -「 A chocolate lover's favorite fruit 」 
-  ![A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
