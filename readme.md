@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230718 -「 No moat required 」 
+  ![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230717 -「 Babbling on and on 」 
   ![Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230716 -「 A postcard-perfect landscape 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A sea of humanity](https://bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230711 -「 A scented sea of purple 」 
   ![A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230710 -「 In the loop 」 
-  ![In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
