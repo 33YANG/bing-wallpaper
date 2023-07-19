@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230719 -「 This bird is peak beak 」 
+  ![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230718 -「 No moat required 」 
   ![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230717 -「 Babbling on and on 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The world's most exclusive beach?](https://bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230712 -「 A sea of humanity 」 
   ![A sea of humanity](https://bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230711 -「 A scented sea of purple 」 
-  ![A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
