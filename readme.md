@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230722 -「 Connecting the dots 」 
+  ![Connecting the dots](https://bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230721 -「 Celebrating our lunar neighbor 」 
   ![Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230720 -「 This oasis is no mirage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230715 -「 A shiver of sharks on the hunt 」 
   ![A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230714 -「 Walking a rocky rainbow 」 
-  ![Walking a rocky rainbow](https://bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
