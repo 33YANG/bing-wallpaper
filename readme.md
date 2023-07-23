@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230723 -「 Want to hang out? 」 
+  ![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230722 -「 Connecting the dots 」 
   ![Connecting the dots](https://bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230721 -「 Celebrating our lunar neighbor 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230716 -「 A postcard-perfect landscape 」 
   ![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230715 -「 A shiver of sharks on the hunt 」 
-  ![A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
