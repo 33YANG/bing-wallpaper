@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230724 -「 Hello, is it 'tea' you’re looking for? 」 
+  ![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230723 -「 Want to hang out? 」 
   ![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230722 -「 Connecting the dots 」 
@@ -31,5 +33,3 @@ Main functions:
   ![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230717 -「 Babbling on and on 」 
   ![Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230716 -「 A postcard-perfect landscape 」 
-  ![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
