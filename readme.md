@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230725 -「 A day for cousins of every stripe 」 
+  ![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230724 -「 Hello, is it 'tea' you’re looking for? 」 
   ![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230723 -「 Want to hang out? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230718 -「 No moat required 」 
   ![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230717 -「 Babbling on and on 」 
-  ![Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
