@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230726 -「 Pretty in pink 」 
+  ![Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230725 -「 A day for cousins of every stripe 」 
   ![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230724 -「 Hello, is it 'tea' you’re looking for? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230719 -「 This bird is peak beak 」 
   ![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230718 -「 No moat required 」 
-  ![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
