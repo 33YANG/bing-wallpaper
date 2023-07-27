@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230727 -「 Say hello to these halophytes! 」 
+  ![Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230726 -「 Pretty in pink 」 
   ![Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230725 -「 A day for cousins of every stripe 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230720 -「 This oasis is no mirage 」 
   ![This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230719 -「 This bird is peak beak 」 
-  ![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
