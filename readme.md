@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230729 -「 A blue-tiful island 」 
+  ![A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230728 -「 Another Arc de Triomphe? 」 
   ![Another Arc de Triomphe?](https://bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230727 -「 Say hello to these halophytes! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230722 -「 Connecting the dots 」 
   ![Connecting the dots](https://bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230721 -「 Celebrating our lunar neighbor 」 
-  ![Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
