@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230730 -「 Eyes of the tiger 」 
+  ![Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230729 -「 A blue-tiful island 」 
   ![A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230728 -「 Another Arc de Triomphe? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230723 -「 Want to hang out? 」 
   ![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230722 -「 Connecting the dots 」 
-  ![Connecting the dots](https://bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
