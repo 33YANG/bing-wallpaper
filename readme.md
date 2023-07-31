@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230731 -「 Perfect, pastoral Palouse 」 
+  ![Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230730 -「 Eyes of the tiger 」 
   ![Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230729 -「 A blue-tiful island 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230724 -「 Hello, is it 'tea' you’re looking for? 」 
   ![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230723 -「 Want to hang out? 」 
-  ![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
