@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230802 -「 There's no denying the power of Denali 」 
+  ![There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230801 -「 Home of stone 」 
   ![Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230731 -「 Perfect, pastoral Palouse 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230726 -「 Pretty in pink 」 
   ![Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230725 -「 A day for cousins of every stripe 」 
-  ![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
