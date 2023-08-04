@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230804 -「 A lake that never freezes 」 
+  ![A lake that never freezes](https://bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230803 -「 Sandstone butte-iful 」 
   ![Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230802 -「 There's no denying the power of Denali 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230728 -「 Another Arc de Triomphe? 」 
   ![Another Arc de Triomphe?](https://bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230727 -「 Say hello to these halophytes! 」 
-  ![Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
