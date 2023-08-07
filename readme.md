@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230807 -「 A peaceful place for self-reflection 」 
+  ![A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230806 -「 It's puffling season! 」 
   ![It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230805 -「 A window on the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230731 -「 Perfect, pastoral Palouse 」 
   ![Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230730 -「 Eyes of the tiger 」 
-  ![Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
