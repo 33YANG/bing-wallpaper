@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230808 -「 Sentinels of the sea 」 
+  ![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230807 -「 A peaceful place for self-reflection 」 
   ![A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230806 -「 It's puffling season! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230801 -「 Home of stone 」 
   ![Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230731 -「 Perfect, pastoral Palouse 」 
-  ![Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
