@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230809 -「 To the infinite and back 」 
+  ![To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230808 -「 Sentinels of the sea 」 
   ![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230807 -「 A peaceful place for self-reflection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230802 -「 There's no denying the power of Denali 」 
   ![There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230801 -「 Home of stone 」 
-  ![Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
