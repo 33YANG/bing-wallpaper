@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230811 -「 'King of the jungle'? 」 
+  !['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230810 -「 Celebrating Indigenous peoples 」 
   ![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230809 -「 To the infinite and back 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A window on the past](https://bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230804 -「 A lake that never freezes 」 
   ![A lake that never freezes](https://bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230803 -「 Sandstone butte-iful 」 
-  ![Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
