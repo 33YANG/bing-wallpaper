@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230814 -「 Look up, incoming… 」 
+  ![Look up, incoming…](https://bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230813 -「 Protecting the gentle giants 」 
   ![Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230812 -「 A splash of color 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230807 -「 A peaceful place for self-reflection 」 
   ![A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230806 -「 It's puffling season! 」 
-  ![It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
