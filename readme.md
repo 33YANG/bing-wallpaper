@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230816 -「 The Pearl of the Ionian Sea 」 
+  ![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230815 -「 Peek-a-boo, I see you! 」 
   ![Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230814 -「 Look up, incoming… 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230809 -「 To the infinite and back 」 
   ![To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230808 -「 Sentinels of the sea 」 
-  ![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
