@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230817 -「 On the open ocean road 」 
+  ![On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230816 -「 The Pearl of the Ionian Sea 」 
   ![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230815 -「 Peek-a-boo, I see you! 」 
@@ -31,5 +33,3 @@ Main functions:
   !['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230810 -「 Celebrating Indigenous peoples 」 
   ![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230809 -「 To the infinite and back 」 
-  ![To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
