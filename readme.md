@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230818 -「 Things are looking up 」 
+  ![Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230817 -「 On the open ocean road 」 
   ![On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230816 -「 The Pearl of the Ionian Sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230811 -「 'King of the jungle'? 」 
   !['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230810 -「 Celebrating Indigenous peoples 」 
-  ![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
