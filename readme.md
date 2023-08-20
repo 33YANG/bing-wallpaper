@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230820 -「 Ready for my close-up 」 
+  ![Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230819 -「 Inspiring spires of stone 」 
   ![Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230818 -「 Things are looking up 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Look up, incoming…](https://bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230813 -「 Protecting the gentle giants 」 
   ![Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230812 -「 A splash of color 」 
-  ![A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
