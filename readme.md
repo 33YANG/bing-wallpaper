@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230822 -「 A day for discovery 」 
+  ![A day for discovery](https://bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230821 -「 Celebrating lighthouses 」 
   ![Celebrating lighthouses](https://bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230820 -「 Ready for my close-up 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230815 -「 Peek-a-boo, I see you! 」 
   ![Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230814 -「 Look up, incoming… 」 
-  ![Look up, incoming…](https://bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
