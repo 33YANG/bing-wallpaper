@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230824 -「 Making a splash 」 
+  ![Making a splash](https://bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230823 -「 A 'standing ovation' to Roman architecture 」 
   ![A 'standing ovation' to Roman architecture](https://bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230822 -「 A day for discovery 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230817 -「 On the open ocean road 」 
   ![On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230816 -「 The Pearl of the Ionian Sea 」 
-  ![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
