@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230828 -「 A 'tuff'-tastic crater 」 
+  ![A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230827 -「 A night at the museums 」 
   ![A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230826 -「 This land is your land 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A day for discovery](https://bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230821 -「 Celebrating lighthouses 」 
   ![Celebrating lighthouses](https://bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230820 -「 Ready for my close-up 」 
-  ![Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
