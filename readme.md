@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230904 -「 So high they touch the sky 」 
+  ![So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230903 -「 Stopping for a blossom beverage 」 
   ![Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230902 -「 Wanna hang with a fungi? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230828 -「 A 'tuff'-tastic crater 」 
   ![A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230827 -「 A night at the museums 」 
-  ![A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
