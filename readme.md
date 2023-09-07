@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230907 -「 Ready to drop anchor? 」 
+  ![Ready to drop anchor?](https://bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230906 -「 A digital creation? Nor-way! 」 
   ![A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230905 -「 Time to clock out 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230831 -「 A diver's big buddy 」 
   ![A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230830 -「 Our national mammal 」 
-  ![Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
