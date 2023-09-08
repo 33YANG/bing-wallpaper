@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230908 -「 Ships of the desert, ahoy! 」 
+  ![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230907 -「 Ready to drop anchor? 」 
   ![Ready to drop anchor?](https://bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230906 -「 A digital creation? Nor-way! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230901 -「 'Saguaro' you today? 」 
   !['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230831 -「 A diver's big buddy 」 
-  ![A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
