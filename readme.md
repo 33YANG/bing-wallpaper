@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230909 -「 Jane Austen's literary circle 」 
+  ![Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230908 -「 Ships of the desert, ahoy! 」 
   ![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230907 -「 Ready to drop anchor? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230902 -「 Wanna hang with a fungi? 」 
   ![Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230901 -「 'Saguaro' you today? 」 
-  !['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
