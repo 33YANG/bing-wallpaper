@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230910 -「 Ruins of a royal temple 」 
+  ![Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230909 -「 Jane Austen's literary circle 」 
   ![Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230908 -「 Ships of the desert, ahoy! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230903 -「 Stopping for a blossom beverage 」 
   ![Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230902 -「 Wanna hang with a fungi? 」 
-  ![Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
