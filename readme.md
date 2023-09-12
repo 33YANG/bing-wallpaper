@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230912 -「 A 'Tribute in Light' 」 
+  ![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230911 -「 Whiskery wisdom 」 
   ![Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230910 -「 Ruins of a royal temple 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230905 -「 Time to clock out 」 
   ![Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230904 -「 So high they touch the sky 」 
-  ![So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
