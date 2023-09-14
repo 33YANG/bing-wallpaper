@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230914 -「 Whispers of the past 」 
+  ![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230913 -「 Next stop, the horizon 」 
   ![Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230912 -「 A 'Tribute in Light' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230907 -「 Ready to drop anchor? 」 
   ![Ready to drop anchor?](https://bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230906 -「 A digital creation? Nor-way! 」 
-  ![A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
