@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230916 -「 Celebrating Hispanic heritage 」 
+  ![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230915 -「 Just two pals horsin' around 」 
   ![Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230914 -「 Whispers of the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230909 -「 Jane Austen's literary circle 」 
   ![Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230908 -「 Ships of the desert, ahoy! 」 
-  ![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
