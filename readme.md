@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230918 -「 Can you answer the call? 」 
+  ![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230917 -「 Prost to you and yours! 」 
   ![Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230916 -「 Celebrating Hispanic heritage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230911 -「 Whiskery wisdom 」 
   ![Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230910 -「 Ruins of a royal temple 」 
-  ![Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
