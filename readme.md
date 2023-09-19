@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230919 -「 A rainbow's nocturnal cousin 」 
+  ![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230918 -「 Can you answer the call? 」 
   ![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230917 -「 Prost to you and yours! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230912 -「 A 'Tribute in Light' 」 
   ![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230911 -「 Whiskery wisdom 」 
-  ![Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
