@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230920 -「 Fasten your seatbelts! 」 
+  ![Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230919 -「 A rainbow's nocturnal cousin 」 
   ![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230918 -「 Can you answer the call? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230913 -「 Next stop, the horizon 」 
   ![Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230912 -「 A 'Tribute in Light' 」 
-  ![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
