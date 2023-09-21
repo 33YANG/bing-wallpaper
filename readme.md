@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230921 -「 Water under and over the bridge 」 
+  ![Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230920 -「 Fasten your seatbelts! 」 
   ![Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230919 -「 A rainbow's nocturnal cousin 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230914 -「 Whispers of the past 」 
   ![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230913 -「 Next stop, the horizon 」 
-  ![Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
