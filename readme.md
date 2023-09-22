@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230922 -「 Recognizing champions of peace 」 
+  ![Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230921 -「 Water under and over the bridge 」 
   ![Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230920 -「 Fasten your seatbelts! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230915 -「 Just two pals horsin' around 」 
   ![Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230914 -「 Whispers of the past 」 
-  ![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
