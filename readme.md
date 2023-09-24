@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230924 -「 Awash in autumn hues 」 
+  ![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230923 -「 Sorry to crash your party 」 
   ![Sorry to crash your party](https://bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230922 -「 Recognizing champions of peace 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230917 -「 Prost to you and yours! 」 
   ![Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230916 -「 Celebrating Hispanic heritage 」 
-  ![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
