@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230925 -「 Trickle, babble, or roar 」 
+  ![Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230924 -「 Awash in autumn hues 」 
   ![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230923 -「 Sorry to crash your party 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230918 -「 Can you answer the call? 」 
   ![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230917 -「 Prost to you and yours! 」 
-  ![Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
