@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230927 -「 Waves for wheels 」 
+  ![Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230926 -「 Kick back, snack, and relax 」 
   ![Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230925 -「 Trickle, babble, or roar 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230920 -「 Fasten your seatbelts! 」 
   ![Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230919 -「 A rainbow's nocturnal cousin 」 
-  ![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
