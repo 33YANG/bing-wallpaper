@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20230930 -「 Under the full moon's gaze 」 
+  ![Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230929 -「 Aye aye, captain! 」 
   ![Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230928 -「 Slow and steady climbs the cliff 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230923 -「 Sorry to crash your party 」 
   ![Sorry to crash your party](https://bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230922 -「 Recognizing champions of peace 」 
-  ![Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
