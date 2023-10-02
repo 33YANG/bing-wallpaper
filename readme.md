@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231002 -「 Awake to the lake 」 
+  ![Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231001 -「 Oh Shenandoah 」 
   ![Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230930 -「 Under the full moon's gaze 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230925 -「 Trickle, babble, or roar 」 
   ![Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230924 -「 Awash in autumn hues 」 
-  ![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
