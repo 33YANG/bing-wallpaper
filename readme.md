@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231004 -「 Whitsunday wanderlust 」 
+  ![Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231003 -「 A fashionista art center 」 
   ![A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231002 -「 Awake to the lake 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230927 -「 Waves for wheels 」 
   ![Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230926 -「 Kick back, snack, and relax 」 
-  ![Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
