@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231006 -「 Here's how it's done! 」 
+  ![Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231005 -「 A galactic spider's web 」 
   ![A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231004 -「 Whitsunday wanderlust 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230929 -「 Aye aye, captain! 」 
   ![Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230928 -「 Slow and steady climbs the cliff 」 
-  ![Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
