@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231007 -「 Nature's majesty awaits! 」 
+  ![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231006 -「 Here's how it's done! 」 
   ![Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231005 -「 A galactic spider's web 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20230930 -「 Under the full moon's gaze 」 
   ![Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230929 -「 Aye aye, captain! 」 
-  ![Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
