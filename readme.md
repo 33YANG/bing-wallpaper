@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231008 -「 Time for self-serve salmon 」 
+  ![Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231007 -「 Nature's majesty awaits! 」 
   ![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231006 -「 Here's how it's done! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231001 -「 Oh Shenandoah 」 
   ![Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20230930 -「 Under the full moon's gaze 」 
-  ![Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
