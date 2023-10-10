@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231010 -「 Celebrating Indigenous heritage 」 
+  ![Celebrating Indigenous heritage](https://bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231009 -「 Need some shell-ter? 」 
   ![Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231008 -「 Time for self-serve salmon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231003 -「 A fashionista art center 」 
   ![A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231002 -「 Awake to the lake 」 
-  ![Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
