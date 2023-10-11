@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231011 -「 Rocky Mountain high 」 
+  ![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231010 -「 Celebrating Indigenous heritage 」 
   ![Celebrating Indigenous heritage](https://bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231009 -「 Need some shell-ter? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231004 -「 Whitsunday wanderlust 」 
   ![Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231003 -「 A fashionista art center 」 
-  ![A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
