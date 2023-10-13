@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231013 -「 Make hay while the sun shines 」 
+  ![Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231012 -「 Echoes of extinction 」 
   ![Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231011 -「 Rocky Mountain high 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231006 -「 Here's how it's done! 」 
   ![Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231005 -「 A galactic spider's web 」 
-  ![A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
