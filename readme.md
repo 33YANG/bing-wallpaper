@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231015 -「 And it burns, burns, burns 」 
+  ![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231014 -「 Life on the edge 」 
   ![Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231013 -「 Make hay while the sun shines 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231008 -「 Time for self-serve salmon 」 
   ![Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231007 -「 Nature's majesty awaits! 」 
-  ![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
