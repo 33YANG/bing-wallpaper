@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231017 -「 The magic of the Enchantments 」 
+  ![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231016 -「 This spot's taken 」 
   ![This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231015 -「 And it burns, burns, burns 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231010 -「 Celebrating Indigenous heritage 」 
   ![Celebrating Indigenous heritage](https://bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231009 -「 Need some shell-ter? 」 
-  ![Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
