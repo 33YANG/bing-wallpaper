@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231018 -「 Happy Spreadsheet Day! 」 
+  ![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231017 -「 The magic of the Enchantments 」 
   ![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231016 -「 This spot's taken 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231011 -「 Rocky Mountain high 」 
   ![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231010 -「 Celebrating Indigenous heritage 」 
-  ![Celebrating Indigenous heritage](https://bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
