@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231019 -「 Seward's fortune 」 
+  ![Seward's fortune](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231018 -「 Happy Spreadsheet Day! 」 
   ![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231017 -「 The magic of the Enchantments 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231012 -「 Echoes of extinction 」 
   ![Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231011 -「 Rocky Mountain high 」 
-  ![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
