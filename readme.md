@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231021 -「 Do you wanna hang? 」 
+  ![Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231020 -「 Teamwork makes the dream work 」 
   ![Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231019 -「 Alaska Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231014 -「 Life on the edge 」 
   ![Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231013 -「 Make hay while the sun shines 」 
-  ![Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
