@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231022 -「 Wow, what a relief! 」 
+  ![Wow, what a relief!](https://bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231021 -「 Do you wanna hang? 」 
   ![Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231020 -「 Teamwork makes the dream work 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231015 -「 And it burns, burns, burns 」 
   ![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231014 -「 Life on the edge 」 
-  ![Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
