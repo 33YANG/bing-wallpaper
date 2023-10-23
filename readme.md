@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231023 -「 A bridge you can truss 」 
+  ![A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231022 -「 Wow, what a relief! 」 
   ![Wow, what a relief!](https://bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231021 -「 Do you wanna hang? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231016 -「 This spot's taken 」 
   ![This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231015 -「 And it burns, burns, burns 」 
-  ![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
