@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231025 -「 Fortress of solitude 」 
+  ![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231024 -「 An a-maize-ing puzzle 」 
   ![An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231023 -「 A bridge you can truss 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Alaska Day](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231018 -「 Happy Spreadsheet Day! 」 
   ![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231017 -「 The magic of the Enchantments 」 
-  ![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
