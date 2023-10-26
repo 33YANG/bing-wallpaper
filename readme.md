@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231026 -「 A pop of autumn gold 」 
+  ![A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231025 -「 Fortress of solitude 」 
   ![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231024 -「 An a-maize-ing puzzle 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231019 -「 Alaska Day 」 
   ![Alaska Day](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231018 -「 Happy Spreadsheet Day! 」 
-  ![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
