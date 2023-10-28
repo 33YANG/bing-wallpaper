@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231028 -「 Enchanted waters run deep 」 
+  ![Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231027 -「 A leaf stomper's paradise 」 
   ![A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231026 -「 A pop of autumn gold 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wow, what a relief!](https://bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231021 -「 Do you wanna hang? 」 
   ![Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231020 -「 Teamwork makes the dream work 」 
-  ![Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
