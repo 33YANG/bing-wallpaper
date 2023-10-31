@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231031 -「 Here's to ravens, evermore 」 
+  ![Here's to ravens, evermore](https://bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231030 -「 Dare to dwell here after dark? 」 
   ![Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231029 -「 A Spanish knight's greatest foes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231024 -「 An a-maize-ing puzzle 」 
   ![An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231023 -「 A bridge you can truss 」 
-  ![A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
