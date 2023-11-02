@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231102 -「 Honoring the legacy of our first cultures 」 
+  ![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231101 -「 Creepin' it real 」 
   ![Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231031 -「 Here's to ravens, evermore 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231026 -「 A pop of autumn gold 」 
   ![A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231025 -「 Fortress of solitude 」 
-  ![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
