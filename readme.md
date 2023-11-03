@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231103 -「 This park is worth its salt 」 
+  ![This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231102 -「 Honoring the legacy of our first cultures 」 
   ![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231101 -「 Creepin' it real 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231027 -「 A leaf stomper's paradise 」 
   ![A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231026 -「 A pop of autumn gold 」 
-  ![A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
