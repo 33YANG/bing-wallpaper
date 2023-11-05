@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231105 -「 Built for the cold 」 
+  ![Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231104 -「 An illuminated bloom 」 
   ![An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231103 -「 This park is worth its salt 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231029 -「 A Spanish knight's greatest foes 」 
   ![A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231028 -「 Enchanted waters run deep 」 
-  ![Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
