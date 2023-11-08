@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231108 -「 Lookout above! 」 
+  ![Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231107 -「 Catching rays in Torres del Paine 」 
   ![Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231106 -「 A quiet place, indeed 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231101 -「 Creepin' it real 」 
   ![Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231031 -「 Here's to ravens, evermore 」 
-  ![Here's to ravens, evermore](https://bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
