@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231109 -「 The life aquatic 」 
+  ![The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231108 -「 Lookout above! 」 
   ![Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231107 -「 Catching rays in Torres del Paine 」 
@@ -31,5 +33,3 @@ Main functions:
   ![This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231102 -「 Honoring the legacy of our first cultures 」 
   ![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231101 -「 Creepin' it real 」 
-  ![Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
