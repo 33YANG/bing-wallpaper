@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231110 -「 Shades of autumn 」 
+  ![Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231109 -「 The life aquatic 」 
   ![The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231108 -「 Lookout above! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231103 -「 This park is worth its salt 」 
   ![This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231102 -「 Honoring the legacy of our first cultures 」 
-  ![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
