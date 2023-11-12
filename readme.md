@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231112 -「 A salute to veterans 」 
+  ![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231111 -「 Not-so-bad lands 」 
   ![Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231110 -「 Shades of autumn 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A quiet place, indeed](https://bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231105 -「 Built for the cold 」 
   ![Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231104 -「 An illuminated bloom 」 
-  ![An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
