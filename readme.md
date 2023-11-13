@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231113 -「 A dazzling display for Diwali 」 
+  ![A dazzling display for Diwali](https://bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231112 -「 A salute to veterans 」 
   ![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231111 -「 Not-so-bad lands 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231106 -「 A quiet place, indeed 」 
   ![A quiet place, indeed](https://bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231105 -「 Built for the cold 」 
-  ![Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
