@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231115 -「 A beautiful nuisance 」 
+  ![A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231114 -「 From the tree to the table 」 
   ![From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231113 -「 A dazzling display for Diwali 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231108 -「 Lookout above! 」 
   ![Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231107 -「 Catching rays in Torres del Paine 」 
-  ![Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
