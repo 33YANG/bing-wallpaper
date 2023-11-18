@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231118 -「 Time to lace up those boots 」 
+  ![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231117 -「 The birthplace of Western philosophy 」 
   ![The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231116 -「 Imagine the echo! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231111 -「 Not-so-bad lands 」 
   ![Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231110 -「 Shades of autumn 」 
-  ![Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
