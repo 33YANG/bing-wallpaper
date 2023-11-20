@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231120 -「 Tread carefully! 」 
+  ![Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231119 -「 Awaiting the big freeze 」 
   ![Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231118 -「 Time to lace up those boots 」 
@@ -31,5 +33,3 @@ Main functions:
   ![From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231113 -「 A dazzling display for Diwali 」 
   ![A dazzling display for Diwali](https://bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231112 -「 A salute to veterans 」 
-  ![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
