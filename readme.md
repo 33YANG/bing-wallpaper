@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231122 -「 Welcome to the world, pup! 」 
+  ![Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231121 -「 Every day is a play day! 」 
   ![Every day is a play day!](https://bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231120 -「 Tread carefully! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231115 -「 A beautiful nuisance 」 
   ![A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231114 -「 From the tree to the table 」 
-  ![From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
