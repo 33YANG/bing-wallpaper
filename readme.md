@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231124 -「 Happy Thanksgiving! 」 
+  ![Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231123 -「 The quiet beauty of Grand Teton 」 
   ![The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231122 -「 Welcome to the world, pup! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231117 -「 The birthplace of Western philosophy 」 
   ![The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231116 -「 Imagine the echo! 」 
-  ![Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
