@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231125 -「 A different kind of rainforest 」 
+  ![A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231124 -「 Happy Thanksgiving! 」 
   ![Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231123 -「 The quiet beauty of Grand Teton 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231118 -「 Time to lace up those boots 」 
   ![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231117 -「 The birthplace of Western philosophy 」 
-  ![The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
