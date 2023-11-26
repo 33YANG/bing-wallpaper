@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231126 -「 Toledo's timeless tale 」 
+  ![Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231125 -「 A different kind of rainforest 」 
   ![A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231124 -「 Happy Thanksgiving! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231119 -「 Awaiting the big freeze 」 
   ![Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231118 -「 Time to lace up those boots 」 
-  ![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
