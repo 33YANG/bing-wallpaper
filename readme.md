@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231128 -「 Mirror, mirror, on the water 」 
+  ![Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231127 -「 Who stepped on a twig? 」 
   ![Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231126 -「 Toledo's timeless tale 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231121 -「 Every day is a play day! 」 
   ![Every day is a play day!](https://bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231120 -「 Tread carefully! 」 
-  ![Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
