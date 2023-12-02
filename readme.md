@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231202 -「 Celebrating the coolest place! 」 
+  ![Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231201 -「 Happy Saint Andrew's Day 」 
   ![Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231130 -「 Rockefeller 'round the Christmas tree 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231125 -「 A different kind of rainforest 」 
   ![A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231124 -「 Happy Thanksgiving! 」 
-  ![Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
