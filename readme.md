@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231203 -「 A city within a city 」 
+  ![A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231202 -「 Celebrating the coolest place! 」 
   ![Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231201 -「 Happy Saint Andrew's Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231126 -「 Toledo's timeless tale 」 
   ![Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231125 -「 A different kind of rainforest 」 
-  ![A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
