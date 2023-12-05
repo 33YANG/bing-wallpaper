@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231205 -「 Masters of agility and cuteness 」 
+  ![Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231204 -「 Sculpted by time 」 
   ![Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231203 -「 A city within a city 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231128 -「 Mirror, mirror, on the water 」 
   ![Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231127 -「 Who stepped on a twig? 」 
-  ![Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
