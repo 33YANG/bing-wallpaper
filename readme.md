@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231206 -「 Straight out of a fairy tale 」 
+  ![Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231205 -「 Masters of agility and cuteness 」 
   ![Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231204 -「 Sculpted by time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231129 -「 A day to lend a hand 」 
   ![A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231128 -「 Mirror, mirror, on the water 」 
-  ![Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
