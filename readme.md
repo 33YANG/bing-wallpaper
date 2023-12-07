@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231207 -「 A global code for the future 」 
+  ![A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231206 -「 Straight out of a fairy tale 」 
   ![Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231205 -「 Masters of agility and cuteness 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231130 -「 Rockefeller 'round the Christmas tree 」 
   ![Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231129 -「 A day to lend a hand 」 
-  ![A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
