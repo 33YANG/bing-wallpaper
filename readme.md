@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231209 -「 Not that Jersey Shore 」 
+  ![Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231208 -「 Remembering the fallen 」 
   ![Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231207 -「 A global code for the future 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231202 -「 Celebrating the coolest place! 」 
   ![Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231201 -「 Happy Saint Andrew's Day 」 
-  ![Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
