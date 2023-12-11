@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231211 -「 Each day a different dune 」 
+  ![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231210 -「 Living the high life 」 
   ![Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231209 -「 Not that Jersey Shore 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231204 -「 Sculpted by time 」 
   ![Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231203 -「 A city within a city 」 
-  ![A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
