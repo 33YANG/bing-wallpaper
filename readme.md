@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231212 -「 Care for a peak? 」 
+  ![Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231211 -「 Each day a different dune 」 
   ![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231210 -「 Living the high life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231205 -「 Masters of agility and cuteness 」 
   ![Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231204 -「 Sculpted by time 」 
-  ![Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
