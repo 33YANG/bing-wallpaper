@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231217 -「 A cheerful case of the blues 」 
+  ![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231216 -「 Santa's playground 」 
   ![Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231215 -「 Owl eyes on you 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231210 -「 Living the high life 」 
   ![Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231209 -「 Not that Jersey Shore 」 
-  ![Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
