@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231218 -「 Feathered fashionistas 」 
+  ![Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231217 -「 A cheerful case of the blues 」 
   ![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231216 -「 Santa's playground 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231211 -「 Each day a different dune 」 
   ![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231210 -「 Living the high life 」 
-  ![Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
