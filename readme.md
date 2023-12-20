@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231220 -「 Santa's Polish rest stop 」 
+  ![Santa's Polish rest stop](https://bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231219 -「 Snow, snow on the range 」 
   ![Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231218 -「 Feathered fashionistas 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All is calm](https://bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231213 -「 Holiday hues 」 
   ![Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231212 -「 Care for a peak? 」 
-  ![Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
