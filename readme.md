@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231222 -「 The veil of winter 」 
+  ![The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231221 -「 Lights of the Dolomites 」 
   ![Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231220 -「 Santa's Polish rest stop 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231215 -「 Owl eyes on you 」 
   ![Owl eyes on you](https://bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231214 -「 All is calm 」 
-  ![All is calm](https://bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
