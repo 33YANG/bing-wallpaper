@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231224 -「 They've got some things to say 」 
+  ![They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231223 -「 Holiday cheer, Slovenian style 」 
   ![Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231222 -「 The veil of winter 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231217 -「 A cheerful case of the blues 」 
   ![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231216 -「 Santa's playground 」 
-  ![Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
