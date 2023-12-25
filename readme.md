@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231225 -「 How lovely are your branches 」 
+  ![How lovely are your branches](https://bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231224 -「 They've got some things to say 」 
   ![They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231223 -「 Holiday cheer, Slovenian style 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231218 -「 Feathered fashionistas 」 
   ![Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231217 -「 A cheerful case of the blues 」 
-  ![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
