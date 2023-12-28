@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231228 -「 The land of ice and fire 」 
+  ![The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231227 -「 Happy Boxing Day! 」 
   ![Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231226 -「 Merry Christmas, deer friends! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231221 -「 Lights of the Dolomites 」 
   ![Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231220 -「 Santa's Polish rest stop 」 
-  ![Santa's Polish rest stop](https://bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
