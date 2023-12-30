@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20231230 -「 Oud-West side story 」 
+  ![Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231229 -「 Jumping off the endangered list 」 
   ![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231228 -「 The land of ice and fire 」 
@@ -31,5 +33,3 @@ Main functions:
   ![They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231223 -「 Holiday cheer, Slovenian style 」 
   ![Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231222 -「 The veil of winter 」 
-  ![The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
