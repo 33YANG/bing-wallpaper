@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240102 -「 Wake up, it's 2024! 」 
+  ![Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240101 -「 See you next year! 」 
   ![See you next year!](https://bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231231 -「 All aboard the ice train 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231226 -「 Merry Christmas, deer friends! 」 
   ![Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231225 -「 How lovely are your branches 」 
-  ![How lovely are your branches](https://bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
