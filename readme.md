@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240104 -「 One library to rule them all 」 
+  ![One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240103 -「 Make your own rainbow 」 
   ![Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240102 -「 Wake up, it's 2024! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231228 -「 The land of ice and fire 」 
   ![The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231227 -「 Happy Boxing Day! 」 
-  ![Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
