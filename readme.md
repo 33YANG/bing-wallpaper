@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240105 -「 On cloud forty-nine 」 
+  ![On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240104 -「 One library to rule them all 」 
   ![One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240103 -「 Make your own rainbow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231229 -「 Jumping off the endangered list 」 
   ![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231228 -「 The land of ice and fire 」 
-  ![The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
