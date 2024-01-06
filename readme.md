@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240106 -「 Chisels and chills 」 
+  ![Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240105 -「 On cloud forty-nine 」 
   ![On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240104 -「 One library to rule them all 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20231230 -「 Oud-West side story 」 
   ![Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20231229 -「 Jumping off the endangered list 」 
-  ![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
