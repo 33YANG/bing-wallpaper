@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240109 -「 Alpine twists and turns 」 
+  ![Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240108 -「 Nature's balancing act 」 
   ![Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240107 -「 Crab an apple! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240102 -「 Wake up, it's 2024! 」 
   ![Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240101 -「 See you next year! 」 
-  ![See you next year!](https://bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
