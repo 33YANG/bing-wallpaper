@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240111 -「 Step up to the challenge! 」 
+  ![Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240110 -「 Coming in hot 」 
   ![Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240109 -「 Alpine twists and turns 」 
@@ -31,5 +33,3 @@ Main functions:
   ![On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240104 -「 One library to rule them all 」 
   ![One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240103 -「 Make your own rainbow 」 
-  ![Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
