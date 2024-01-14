@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240114 -「 Slow down and enjoy the journey! 」 
+  ![Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240113 -「 Beautiful Bukhansan 」 
   ![Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240112 -「 A whiskered wanderer 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240107 -「 Crab an apple! 」 
   ![Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240106 -「 Chisels and chills 」 
-  ![Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
