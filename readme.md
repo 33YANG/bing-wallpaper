@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240117 -「 A little Canadian rest and relaxation 」 
+  ![A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240116 -「 A day on, not a day off 」 
   ![A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240115 -「 A feathered symphony in white 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240110 -「 Coming in hot 」 
   ![Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240109 -「 Alpine twists and turns 」 
-  ![Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
