@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240118 -「 Wake me when it warms up 」 
+  ![Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240117 -「 A little Canadian rest and relaxation 」 
   ![A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240116 -「 A day on, not a day off 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240111 -「 Step up to the challenge! 」 
   ![Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240110 -「 Coming in hot 」 
-  ![Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
