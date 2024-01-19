@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240119 -「 Under the watch of Pegasus 」 
+  ![Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240118 -「 Wake me when it warms up 」 
   ![Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240117 -「 A little Canadian rest and relaxation 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240112 -「 A whiskered wanderer 」 
   ![A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240111 -「 Step up to the challenge! 」 
-  ![Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
