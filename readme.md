@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240121 -「 Taking the plunge 」 
+  ![Taking the plunge](https://bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240120 -「 Waterfalls turned waterfreeze 」 
   ![Waterfalls turned waterfreeze](https://bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240119 -「 Under the watch of Pegasus 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A feathered symphony in white](https://bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240114 -「 Slow down and enjoy the journey! 」 
   ![Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240113 -「 Beautiful Bukhansan 」 
-  ![Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
