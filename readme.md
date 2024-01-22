@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240122 -「 Tales from the treetops 」 
+  ![Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240121 -「 Taking the plunge 」 
   ![Taking the plunge](https://bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240120 -「 Waterfalls turned waterfreeze 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240115 -「 A feathered symphony in white 」 
   ![A feathered symphony in white](https://bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240114 -「 Slow down and enjoy the journey! 」 
-  ![Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
