@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240129 -「 From parched to pastoral 」 
+  ![From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240128 -「 In winter's embrace 」 
   ![In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240127 -「 Not a night owl 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240122 -「 Tales from the treetops 」 
   ![Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240121 -「 Taking the plunge 」 
-  ![Taking the plunge](https://bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
