@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240131 -「 Spain's little Switzerland 」 
+  ![Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240130 -「 An icy descent 」 
   ![An icy descent](https://bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240129 -「 From parched to pastoral 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A real icebreaker](https://bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240124 -「 Eyes of the Indian Ocean 」 
   ![Eyes of the Indian Ocean](https://bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240123 -「 A beacon from dusk till dawn 」 
-  ![A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
