@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240202 -「 Black History Month 」 
+  ![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240201 -「 Stripe a pose 」 
   ![Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240131 -「 Spain's little Switzerland 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240126 -「 A haven for broken hearts 」 
   ![A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240125 -「 A real icebreaker 」 
-  ![A real icebreaker](https://bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
