@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240203 -「 Will Phil see his shadow? 」 
+  ![Will Phil see his shadow?](https://bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240202 -「 Black History Month 」 
   ![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240201 -「 Stripe a pose 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240127 -「 Not a night owl 」 
   ![Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240126 -「 A haven for broken hearts 」 
-  ![A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
