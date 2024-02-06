@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240206 -「 Butterfly ballet 」 
+  ![Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240205 -「 The skylights are a nice touch 」 
   ![The skylights are a nice touch](https://bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240204 -「 It's carnival time! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240130 -「 An icy descent 」 
   ![An icy descent](https://bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240129 -「 From parched to pastoral 」 
-  ![From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
