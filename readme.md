@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240209 -「 A sleeping giant 」 
+  ![A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240208 -「 Swimming with the tide 」 
   ![Swimming with the tide](https://bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240207 -「 Taking root on Bonsai Rock 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Will Phil see his shadow?](https://bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240202 -「 Black History Month 」 
   ![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240201 -「 Stripe a pose 」 
-  ![Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
