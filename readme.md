@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240210 -「 Rocks and rolling surf 」 
+  ![Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240209 -「 A sleeping giant 」 
   ![A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240208 -「 Swimming with the tide 」 
@@ -31,5 +33,3 @@ Main functions:
   ![It's carnival time!](https://bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240203 -「 Will Phil see his shadow? 」 
   ![Will Phil see his shadow?](https://bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240202 -「 Black History Month 」 
-  ![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
