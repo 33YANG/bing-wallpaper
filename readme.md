@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240212 -「 Elysium on the edge 」 
+  ![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240211 -「 Enter the dragons 」 
   ![Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240210 -「 Rocks and rolling surf 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240205 -「 The skylights are a nice touch 」 
   ![The skylights are a nice touch](https://bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240204 -「 It's carnival time! 」 
-  ![It's carnival time!](https://bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
