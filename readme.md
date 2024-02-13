@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240213 -「 Giants of science 」 
+  ![Giants of science](https://bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240212 -「 Elysium on the edge 」 
   ![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240211 -「 Enter the dragons 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Taking root on Bonsai Rock](https://bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240206 -「 Butterfly ballet 」 
   ![Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240205 -「 The skylights are a nice touch 」 
-  ![The skylights are a nice touch](https://bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
