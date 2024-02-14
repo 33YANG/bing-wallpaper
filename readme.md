@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240214 -「 Let the good times roll! 」 
+  ![Let the good times roll!](https://bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240213 -「 Giants of science 」 
   ![Giants of science](https://bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240212 -「 Elysium on the edge 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Swimming with the tide](https://bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240207 -「 Taking root on Bonsai Rock 」 
   ![Taking root on Bonsai Rock](https://bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240206 -「 Butterfly ballet 」 
-  ![Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
