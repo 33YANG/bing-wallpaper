@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240216 -「 Happy Hippo Day! 」 
+  ![Happy Hippo Day!](https://bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240215 -「 The dance of romance 」 
   ![The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240214 -「 Let the good times roll! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240209 -「 A sleeping giant 」 
   ![A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240208 -「 Swimming with the tide 」 
-  ![Swimming with the tide](https://bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
