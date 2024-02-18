@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240218 -「 Celebrating Black history 」 
+  ![Celebrating Black history](https://bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240217 -「 Make every bird count 」 
   ![Make every bird count](https://bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240216 -「 Happy Hippo Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240211 -「 Enter the dragons 」 
   ![Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240210 -「 Rocks and rolling surf 」 
-  ![Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
