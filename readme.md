@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240219 -「 Taking a breather 」 
+  ![Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240218 -「 Celebrating Black history 」 
   ![Celebrating Black history](https://bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240217 -「 Make every bird count 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Giants of science](https://bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240212 -「 Elysium on the edge 」 
   ![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240211 -「 Enter the dragons 」 
-  ![Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
