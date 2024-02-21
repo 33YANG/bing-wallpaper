@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240221 -「 A park for the people 」 
+  ![A park for the people](https://bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240220 -「 A tribute at twilight 」 
   ![A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240219 -「 Taking a breather 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240214 -「 Let the good times roll! 」 
   ![Let the good times roll!](https://bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240213 -「 Giants of science 」 
-  ![Giants of science](https://bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
