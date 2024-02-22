@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240222 -「 The flaming falls of Yosemite 」 
+  ![The flaming falls of Yosemite](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240221 -「 A park for the people 」 
   ![A park for the people](https://bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240220 -「 A tribute at twilight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Hippo Day!](https://bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240215 -「 The dance of romance 」 
   ![The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240214 -「 Let the good times roll! 」 
-  ![Let the good times roll!](https://bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
