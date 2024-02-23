@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240223 -「 A bonanza of beach huts 」 
+  ![A bonanza of beach huts](https://bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240222 -「 The flaming falls of Yosemite 」 
   ![The flaming falls of Yosemite](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240221 -「 A park for the people 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Make every bird count](https://bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240216 -「 Happy Hippo Day! 」 
   ![Happy Hippo Day!](https://bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240215 -「 The dance of romance 」 
-  ![The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
