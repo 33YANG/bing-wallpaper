@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240226 -「 Say it loud 」 
+  ![Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240225 -「 Whispers of spring 」 
   ![Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240224 -「 Where eagles dance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240219 -「 Taking a breather 」 
   ![Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240218 -「 Celebrating Black history 」 
-  ![Celebrating Black history](https://bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
