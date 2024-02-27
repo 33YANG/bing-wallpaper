@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240227 -「 Deeply chasm-matic 」 
+  ![Deeply chasm-matic](https://bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240226 -「 Say it loud 」 
   ![Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240225 -「 Whispers of spring 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A park for the people](https://bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240220 -「 A tribute at twilight 」 
   ![A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240219 -「 Taking a breather 」 
-  ![Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
