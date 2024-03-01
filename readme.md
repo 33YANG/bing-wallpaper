@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240301 -「 Leaping through an extra day 」 
+  ![Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240229 -「 Grow with the flow 」 
   ![Grow with the flow](https://bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240228 -「 An ice day to play 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240223 -「 A bonanza of beach huts 」 
   ![A bonanza of beach huts](https://bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240222 -「 The flaming falls of Yosemite 」 
-  ![The flaming falls of Yosemite](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
