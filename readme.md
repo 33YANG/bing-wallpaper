@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240304 -「 A dappled acrobat 」 
+  ![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240303 -「 A slice of Sicily 」 
   ![A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240302 -「 And the march goes on 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Deeply chasm-matic](https://bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240226 -「 Say it loud 」 
   ![Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240225 -「 Whispers of spring 」 
-  ![Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
