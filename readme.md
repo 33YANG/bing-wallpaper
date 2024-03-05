@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240305 -「 A sleeping beauty 」 
+  ![A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240304 -「 A dappled acrobat 」 
   ![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240303 -「 A slice of Sicily 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240227 -「 Deeply chasm-matic 」 
   ![Deeply chasm-matic](https://bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240226 -「 Say it loud 」 
-  ![Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
