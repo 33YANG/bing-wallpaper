@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240307 -「 Get your splash on 」 
+  ![Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240306 -「 Stuck in a loop? 」 
   ![Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240305 -「 A sleeping beauty 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240229 -「 Grow with the flow 」 
   ![Grow with the flow](https://bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240228 -「 An ice day to play 」 
-  ![An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
