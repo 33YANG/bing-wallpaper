@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240310 -「 Transformed by time 」 
+  ![Transformed by time](https://bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240309 -「 Right to shine 」 
   ![Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240308 -「 Reaching new heights 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240303 -「 A slice of Sicily 」 
   ![A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240302 -「 And the march goes on 」 
-  ![And the march goes on](https://bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
