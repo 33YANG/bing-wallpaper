@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240311 -「 Time to change the time 」 
+  ![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240310 -「 Transformed by time 」 
   ![Transformed by time](https://bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240309 -「 Right to shine 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240304 -「 A dappled acrobat 」 
   ![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240303 -「 A slice of Sicily 」 
-  ![A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
