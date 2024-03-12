@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240312 -「 Sweet dreams are made of leaves 」 
+  ![Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240311 -「 Time to change the time 」 
   ![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240310 -「 Transformed by time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240305 -「 A sleeping beauty 」 
   ![A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240304 -「 A dappled acrobat 」 
-  ![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
