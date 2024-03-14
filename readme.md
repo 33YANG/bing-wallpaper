@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240314 -「 Bird's-eye view 」 
+  ![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240313 -「 Guardians of the canyon 」 
   ![Guardians of the canyon](https://bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240312 -「 Sweet dreams are made of leaves 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Reaching new heights](https://bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240307 -「 Get your splash on 」 
   ![Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240306 -「 Stuck in a loop? 」 
-  ![Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
