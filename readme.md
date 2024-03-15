@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240315 -「 A piece of pi 」 
+  ![A piece of pi](https://bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240314 -「 Bird's-eye view 」 
   ![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240313 -「 Guardians of the canyon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240308 -「 Reaching new heights 」 
   ![Reaching new heights](https://bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240307 -「 Get your splash on 」 
-  ![Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
