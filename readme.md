@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240317 -「 Somewhat bamboo-zled 」 
+  ![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240316 -「 Where is this colorful desert? 」 
   ![Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240315 -「 A piece of pi 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240310 -「 Transformed by time 」 
   ![Transformed by time](https://bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240309 -「 Right to shine 」 
-  ![Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
