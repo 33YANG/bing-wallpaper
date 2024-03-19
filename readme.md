@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240319 -「 Gentle giant of the dunes 」 
+  ![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240318 -「 Let's wear green today! 」 
   ![Let's wear green today!](https://bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240317 -「 Somewhat bamboo-zled 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Guardians of the canyon](https://bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240312 -「 Sweet dreams are made of leaves 」 
   ![Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240311 -「 Time to change the time 」 
-  ![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
