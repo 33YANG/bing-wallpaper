@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240320 -「 Hop into spring! 」 
+  ![Hop into spring!](https://bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240319 -「 Gentle giant of the dunes 」 
   ![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240318 -「 Let's wear green today! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240313 -「 Guardians of the canyon 」 
   ![Guardians of the canyon](https://bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240312 -「 Sweet dreams are made of leaves 」 
-  ![Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
