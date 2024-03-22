@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240322 -「 Celebrating forests 」 
+  ![Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240321 -「 Cherry trees spring to life 」 
   ![Cherry trees spring to life](https://bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240320 -「 Hop into spring! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240315 -「 A piece of pi 」 
   ![A piece of pi](https://bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240314 -「 Bird's-eye view 」 
-  ![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
