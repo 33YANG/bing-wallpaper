@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240323 -「 'Water' we celebrating? 」 
+  !['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240322 -「 Celebrating forests 」 
   ![Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240321 -「 Cherry trees spring to life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240316 -「 Where is this colorful desert? 」 
   ![Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240315 -「 A piece of pi 」 
-  ![A piece of pi](https://bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
