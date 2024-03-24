@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240324 -「 Making a fog-cast 」 
+  ![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240323 -「 'Water' we celebrating? 」 
   !['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240322 -「 Celebrating forests 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Let's wear green today!](https://bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240317 -「 Somewhat bamboo-zled 」 
   ![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240316 -「 Where is this colorful desert? 」 
-  ![Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
