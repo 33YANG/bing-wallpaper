@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240325 -「 Where are these birds of a feather? 」 
+  ![Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240324 -「 Making a fog-cast 」 
   ![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240323 -「 'Water' we celebrating? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240318 -「 Let's wear green today! 」 
   ![Let's wear green today!](https://bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240317 -「 Somewhat bamboo-zled 」 
-  ![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
