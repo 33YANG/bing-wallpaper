@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240326 -「 Painting the town 」 
+  ![Painting the town](https://bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240325 -「 Where are these birds of a feather? 」 
   ![Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240324 -「 Making a fog-cast 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hop into spring!](https://bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240319 -「 Gentle giant of the dunes 」 
   ![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240318 -「 Let's wear green today! 」 
-  ![Let's wear green today!](https://bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
