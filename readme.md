@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240328 -「 Theater takes center stage 」 
+  ![Theater takes center stage](https://bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240327 -「 A tidal tango 」 
   ![A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240326 -「 Painting the town 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240321 -「 Cherry trees spring to life 」 
   ![Cherry trees spring to life](https://bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240320 -「 Hop into spring! 」 
-  ![Hop into spring!](https://bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
