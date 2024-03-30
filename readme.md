@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240330 -「 High tides and bright lights 」 
+  ![High tides and bright lights](https://bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240329 -「 A path through the petals 」 
   ![A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240328 -「 Theater takes center stage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240323 -「 'Water' we celebrating? 」 
   !['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240322 -「 Celebrating forests 」 
-  ![Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
