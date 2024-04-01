@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240401 -「 Egg-cellent craftmanship 」 
+  ![Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240331 -「 Hello from the upside-down! 」 
   ![Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240330 -「 High tides and bright lights 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Painting the town](https://bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240325 -「 Where are these birds of a feather? 」 
   ![Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240324 -「 Making a fog-cast 」 
-  ![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
