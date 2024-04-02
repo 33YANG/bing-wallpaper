@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240402 -「 Don't believe your eyes 」 
+  ![Don't believe your eyes](https://bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240401 -「 Egg-cellent craftmanship 」 
   ![Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240331 -「 Hello from the upside-down! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240326 -「 Painting the town 」 
   ![Painting the town](https://bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240325 -「 Where are these birds of a feather? 」 
-  ![Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
