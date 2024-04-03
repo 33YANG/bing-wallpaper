@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240403 -「 Beneath a ray of light 」 
+  ![Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240402 -「 Don't believe your eyes 」 
   ![Don't believe your eyes](https://bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240401 -「 Egg-cellent craftmanship 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Theater takes center stage](https://bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240327 -「 A tidal tango 」 
   ![A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240326 -「 Painting the town 」 
-  ![Painting the town](https://bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
