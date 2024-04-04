@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240404 -「 Wish hue were here 」 
+  ![Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240403 -「 Beneath a ray of light 」 
   ![Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240402 -「 Don't believe your eyes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240328 -「 Theater takes center stage 」 
   ![Theater takes center stage](https://bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240327 -「 A tidal tango 」 
-  ![A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
