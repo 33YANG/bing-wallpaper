@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240407 -「 A royal view 」 
+  ![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240406 -「 A dive into the blue 」 
   ![A dive into the blue](https://bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240405 -「 Wanderers of the wetlands 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240331 -「 Hello from the upside-down! 」 
   ![Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240330 -「 High tides and bright lights 」 
-  ![High tides and bright lights](https://bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
