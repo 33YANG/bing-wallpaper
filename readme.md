@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240408 -「 Look, I'm a branch manager! 」 
+  ![Look, I'm a branch manager!](https://bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240407 -「 A royal view 」 
   ![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240406 -「 A dive into the blue 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Don't believe your eyes](https://bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240401 -「 Egg-cellent craftmanship 」 
   ![Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240331 -「 Hello from the upside-down! 」 
-  ![Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
