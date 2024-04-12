@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240412 -「 Don't just dream it, stream it! 」 
+  ![Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240411 -「 Owl be there for you! 」 
   ![Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240410 -「 Tiptoe through the tulips 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A dive into the blue](https://bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240405 -「 Wanderers of the wetlands 」 
   ![Wanderers of the wetlands](https://bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240404 -「 Wish hue were here 」 
-  ![Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
