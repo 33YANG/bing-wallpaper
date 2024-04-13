@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240413 -「 A work of arch 」 
+  ![A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240412 -「 Don't just dream it, stream it! 」 
   ![Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240411 -「 Owl be there for you! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240406 -「 A dive into the blue 」 
   ![A dive into the blue](https://bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240405 -「 Wanderers of the wetlands 」 
-  ![Wanderers of the wetlands](https://bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
