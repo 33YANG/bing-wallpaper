@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240415 -「 Rock 'n' bowl 」 
+  ![Rock 'n' bowl](https://bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240414 -「 Canopy of blossoms 」 
   ![Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240413 -「 A work of arch 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240408 -「 Look, I'm a branch manager! 」 
   ![Look, I'm a branch manager!](https://bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240407 -「 A royal view 」 
-  ![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
