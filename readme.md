@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240417 -「 Sundown on Union Square 」 
+  ![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240416 -「 Bouncing into creativity 」 
   ![Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240415 -「 Rock 'n' bowl 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240410 -「 Tiptoe through the tulips 」 
   ![Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240409 -「 Enter the eclipse 」 
-  ![Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
