@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240418 -「 Have I been sleeping too long? 」 
+  ![Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240417 -「 Sundown on Union Square 」 
   ![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240416 -「 Bouncing into creativity 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240411 -「 Owl be there for you! 」 
   ![Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240410 -「 Tiptoe through the tulips 」 
-  ![Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
