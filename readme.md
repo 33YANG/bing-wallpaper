@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240420 -「 History has come full circle 」 
+  ![History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240419 -「 Wall of fame 」 
   ![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240418 -「 Have I been sleeping too long? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240413 -「 A work of arch 」 
   ![A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240412 -「 Don't just dream it, stream it! 」 
-  ![Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
