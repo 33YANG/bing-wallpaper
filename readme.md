@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240422 -「 The road not taken 」 
+  ![The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240421 -「 Preserve, protect, enjoy! 」 
   ![Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240420 -「 History has come full circle 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240415 -「 Rock 'n' bowl 」 
   ![Rock 'n' bowl](https://bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240414 -「 Canopy of blossoms 」 
-  ![Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
