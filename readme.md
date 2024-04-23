@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240423 -「 What are we shell-ebrating? 」 
+  ![What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240422 -「 The road not taken 」 
   ![The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240421 -「 Preserve, protect, enjoy! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240416 -「 Bouncing into creativity 」 
   ![Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240415 -「 Rock 'n' bowl 」 
-  ![Rock 'n' bowl](https://bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
