@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240424 -「 Fully booked! 」 
+  ![Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240423 -「 What are we shell-ebrating? 」 
   ![What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240422 -「 The road not taken 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240417 -「 Sundown on Union Square 」 
   ![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240416 -「 Bouncing into creativity 」 
-  ![Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
