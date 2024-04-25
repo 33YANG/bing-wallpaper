@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240425 -「 Hey, how's it growing today? 」 
+  ![Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240424 -「 Fully booked! 」 
   ![Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240423 -「 What are we shell-ebrating? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240418 -「 Have I been sleeping too long? 」 
   ![Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240417 -「 Sundown on Union Square 」 
-  ![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
