@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240426 -「 It's ice to meet you all here! 」 
+  ![It's ice to meet you all here!](https://bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240425 -「 Hey, how's it growing today? 」 
   ![Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240424 -「 Fully booked! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240419 -「 Wall of fame 」 
   ![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240418 -「 Have I been sleeping too long? 」 
-  ![Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
