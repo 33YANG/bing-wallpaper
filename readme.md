@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240427 -「 For tree's a jolly good fellow 」 
+  ![For tree's a jolly good fellow](https://bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240426 -「 It's ice to meet you all here! 」 
   ![It's ice to meet you all here!](https://bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240425 -「 Hey, how's it growing today? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240420 -「 History has come full circle 」 
   ![History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240419 -「 Wall of fame 」 
-  ![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
