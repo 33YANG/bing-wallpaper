@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240501 -「 Purr-fect speed 」 
+  ![Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240430 -「 In perfect shape 」 
   ![In perfect shape](https://bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240429 -「 Let's park here 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240424 -「 Fully booked! 」 
   ![Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240423 -「 What are we shell-ebrating? 」 
-  ![What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
