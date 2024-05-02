@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240502 -「 May Day is Lei Day in Hawaii Nei 」 
+  ![May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240501 -「 Purr-fect speed 」 
   ![Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240430 -「 In perfect shape 」 
@@ -31,5 +33,3 @@ Main functions:
   ![It's ice to meet you all here!](https://bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240425 -「 Hey, how's it growing today? 」 
   ![Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240424 -「 Fully booked! 」 
-  ![Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
