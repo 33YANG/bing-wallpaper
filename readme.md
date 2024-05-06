@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240506 -「 Happy Cinco de Mayo! 」 
+  ![Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240505 -「 May the Fourth be with you! 」 
   ![May the Fourth be with you!](https://bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240504 -「 A hot spot for wildflowers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In perfect shape](https://bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240429 -「 Let's park here 」 
   ![Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240428 -「 Stop! Hummer time 」 
-  ![Stop! Hummer time](https://bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
