@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240508 -「 Light as a feather 」 
+  ![Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240507 -「 Where is this rocky ridge? 」 
   ![Where is this rocky ridge?](https://bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240506 -「 Happy Cinco de Mayo! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240501 -「 Purr-fect speed 」 
   ![Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240430 -「 In perfect shape 」 
-  ![In perfect shape](https://bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
