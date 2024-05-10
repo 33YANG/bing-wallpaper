@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240510 -「 Tulips gone wild! 」 
+  ![Tulips gone wild!](https://bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240509 -「 Awaiting the Olympic torch 」 
   ![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240508 -「 Light as a feather 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240503 -「 To the moon and back 」 
   ![To the moon and back](https://bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240502 -「 May Day is Lei Day in Hawaii Nei 」 
-  ![May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
