@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240511 -「 The islands are calling! 」 
+  ![The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240510 -「 Tulips gone wild! 」 
   ![Tulips gone wild!](https://bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240509 -「 Awaiting the Olympic torch 」 
@@ -31,5 +33,3 @@ Main functions:
   ![May the Fourth be with you!](https://bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240504 -「 A hot spot for wildflowers 」 
   ![A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240503 -「 To the moon and back 」 
-  ![To the moon and back](https://bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
