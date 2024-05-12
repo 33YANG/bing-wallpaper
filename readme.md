@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240512 -「 Tweeting 'bon voyage' 」 
+  ![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240511 -「 The islands are calling! 」 
   ![The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240510 -「 Tulips gone wild! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240505 -「 May the Fourth be with you! 」 
   ![May the Fourth be with you!](https://bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240504 -「 A hot spot for wildflowers 」 
-  ![A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
