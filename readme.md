@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240513 -「 Happy Mother's Day! 」 
+  ![Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240512 -「 Tweeting 'bon voyage' 」 
   ![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240511 -「 The islands are calling! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where is this rocky ridge?](https://bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240506 -「 Happy Cinco de Mayo! 」 
   ![Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240505 -「 May the Fourth be with you! 」 
-  ![May the Fourth be with you!](https://bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
