@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240515 -「 Rocking in the deep 」 
+  ![Rocking in the deep](https://bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240514 -「 Africa’s grandest canyon 」 
   ![Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240513 -「 Happy Mother's Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240508 -「 Light as a feather 」 
   ![Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240507 -「 Where is this rocky ridge? 」 
-  ![Where is this rocky ridge?](https://bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
