@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240516 -「 Above the Blue City 」 
+  ![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240515 -「 Rocking in the deep 」 
   ![Rocking in the deep](https://bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240514 -「 Africa’s grandest canyon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tulips gone wild!](https://bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240509 -「 Awaiting the Olympic torch 」 
   ![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240508 -「 Light as a feather 」 
-  ![Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
