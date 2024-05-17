@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240517 -「 Into the light 」 
+  ![Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240516 -「 Above the Blue City 」 
   ![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240515 -「 Rocking in the deep 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240510 -「 Tulips gone wild! 」 
   ![Tulips gone wild!](https://bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240509 -「 Awaiting the Olympic torch 」 
-  ![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
