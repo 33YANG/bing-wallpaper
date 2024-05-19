@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240519 -「 Tail of the whale 」 
+  ![Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240518 -「 Today is not 'irrelephant' 」 
   ![Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240517 -「 Into the light 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240512 -「 Tweeting 'bon voyage' 」 
   ![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240511 -「 The islands are calling! 」 
-  ![The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
