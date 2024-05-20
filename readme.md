@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240520 -「 Where history meets the sea 」 
+  ![Where history meets the sea](https://bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240519 -「 Tail of the whale 」 
   ![Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240518 -「 Today is not 'irrelephant' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240513 -「 Happy Mother's Day! 」 
   ![Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240512 -「 Tweeting 'bon voyage' 」 
-  ![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
