@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240523 -「 A beacon of biodiversity 」 
+  ![A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240522 -「 A brew-tea-ful day 」 
   ![A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240521 -「 Keeping buzzy 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240516 -「 Above the Blue City 」 
   ![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240515 -「 Rocking in the deep 」 
-  ![Rocking in the deep](https://bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
