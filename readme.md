@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240524 -「 Looking for a shell-ter 」 
+  ![Looking for a shell-ter](https://bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240523 -「 A beacon of biodiversity 」 
   ![A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240522 -「 A brew-tea-ful day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240517 -「 Into the light 」 
   ![Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240516 -「 Above the Blue City 」 
-  ![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
