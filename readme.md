@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240528 -「 Memorial Day 」 
+  ![Memorial Day](https://bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240527 -「 The hills are alive 」 
   ![The hills are alive](https://bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240526 -「 Guardians of the dunes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240521 -「 Keeping buzzy 」 
   ![Keeping buzzy](https://bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240520 -「 Where history meets the sea 」 
-  ![Where history meets the sea](https://bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
