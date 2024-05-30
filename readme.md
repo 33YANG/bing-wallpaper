@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240530 -「 'Otter' you looking at? 」 
+  !['Otter' you looking at?](https://bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240529 -「 On top of the world 」 
   ![On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240528 -「 Memorial Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Looking for a shell-ter](https://bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240523 -「 A beacon of biodiversity 」 
   ![A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240522 -「 A brew-tea-ful day 」 
-  ![A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
