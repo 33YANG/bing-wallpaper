@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240602 -「 Pride Month 」 
+  ![Pride Month](https://bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240601 -「 A green and pleasant land 」 
   ![A green and pleasant land](https://bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240531 -「 'Everglad' to be here 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The hills are alive](https://bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240526 -「 Guardians of the dunes 」 
   ![Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240525 -「 All the way to the top 」 
-  ![All the way to the top](https://bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
