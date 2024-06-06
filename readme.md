@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240606 -「 World Environment Day 」 
+  ![World Environment Day](https://bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240605 -「 Birds of a feather 」 
   ![Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240604 -「 Pedal power 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Everglad' to be here](https://bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240530 -「 'Otter' you looking at? 」 
   !['Otter' you looking at?](https://bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240529 -「 On top of the world 」 
-  ![On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
