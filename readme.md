@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240608 -「 Waves of hope 」 
+  ![Waves of hope](https://bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240607 -「 D-Day: 80 years on 」 
   ![D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240606 -「 World Environment Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pride Month](https://bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240601 -「 A green and pleasant land 」 
   ![A green and pleasant land](https://bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240531 -「 'Everglad' to be here 」 
-  !['Everglad' to be here](https://bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
