@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240610 -「 Breathtaking silence 」 
+  ![Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240609 -「 The meeting of the waters 」 
   ![The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240608 -「 Waves of hope 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240603 -「 Mulch ado about gardening 」 
   ![Mulch ado about gardening](https://bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240602 -「 Pride Month 」 
-  ![Pride Month](https://bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
