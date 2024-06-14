@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240614 -「 Tile tales 」 
+  ![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240613 -「 A galactic gig 」 
   ![A galactic gig](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240612 -「 These antelopes are real gems 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Waves of hope](https://bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240607 -「 D-Day: 80 years on 」 
   ![D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240606 -「 World Environment Day 」 
-  ![World Environment Day](https://bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
