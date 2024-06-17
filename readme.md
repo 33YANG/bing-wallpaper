@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240617 -「 This father won't be outfoxed 」 
+  ![This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240616 -「 Where there's a will, there's a wave 」 
   ![Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240615 -「 Long may it wave 」 
@@ -31,5 +33,3 @@ Main functions:
   ![City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240610 -「 Breathtaking silence 」 
   ![Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240609 -「 The meeting of the waters 」 
-  ![The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
