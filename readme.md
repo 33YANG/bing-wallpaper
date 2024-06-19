@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240619 -「 'Lupin' into summer 」 
+  !['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240618 -「 Spread the pollen 」 
   ![Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240617 -「 This father won't be outfoxed 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy 80th, Big Bend!](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240612 -「 These antelopes are real gems 」 
   ![These antelopes are real gems](https://bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240611 -「 City of neon dreams 」 
-  ![City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
