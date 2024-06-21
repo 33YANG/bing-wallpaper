@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240621 -「 Sunrise on the solstice 」 
+  ![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240620 -「 Happy Juneteenth! 」 
   ![Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240619 -「 'Lupin' into summer 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240614 -「 Tile tales 」 
   ![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240613 -「 Happy 80th, Big Bend! 」 
-  ![Happy 80th, Big Bend!](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
