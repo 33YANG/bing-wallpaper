@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240622 -「 Spot-on connection 」 
+  ![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240621 -「 Sunrise on the solstice 」 
   ![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240620 -「 Happy Juneteenth! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240615 -「 Long may it wave 」 
   ![Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240614 -「 Tile tales 」 
-  ![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
