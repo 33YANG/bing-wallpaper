@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240624 -「 Dark night, city lights 」 
+  ![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240623 -「 Getting lost in the mist 」 
   ![Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240622 -「 Spot-on connection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240617 -「 This father won't be outfoxed 」 
   ![This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240616 -「 Where there's a will, there's a wave 」 
-  ![Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
