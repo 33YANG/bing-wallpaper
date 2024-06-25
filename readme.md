@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240625 -「 The sacred lakes of Kelimutu 」 
+  ![The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240624 -「 Dark night, city lights 」 
   ![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240623 -「 Getting lost in the mist 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240618 -「 Spread the pollen 」 
   ![Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240617 -「 This father won't be outfoxed 」 
-  ![This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
