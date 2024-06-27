@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240627 -「 Stripe-tacular! 」 
+  ![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240626 -「 Flowing through Valley of Fire 」 
   ![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240625 -「 The sacred lakes of Kelimutu 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240620 -「 Happy Juneteenth! 」 
   ![Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240619 -「 'Lupin' into summer 」 
-  !['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
