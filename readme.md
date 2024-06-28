@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240628 -「 Dome sweet dome 」 
+  ![Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240627 -「 Stripe-tacular! 」 
   ![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240626 -「 Flowing through Valley of Fire 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240621 -「 Sunrise on the solstice 」 
   ![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240620 -「 Happy Juneteenth! 」 
-  ![Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
