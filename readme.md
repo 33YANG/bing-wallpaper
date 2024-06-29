@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240629 -「 The pride of New York City 」 
+  ![The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240628 -「 Dome sweet dome 」 
   ![Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240627 -「 Stripe-tacular! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240622 -「 Spot-on connection 」 
   ![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240621 -「 Sunrise on the solstice 」 
-  ![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
