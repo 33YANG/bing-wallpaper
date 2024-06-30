@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240630 -「 Saddle up for Le Tour! 」 
+  ![Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240629 -「 The pride of New York City 」 
   ![The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240628 -「 Dome sweet dome 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240623 -「 Getting lost in the mist 」 
   ![Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240622 -「 Spot-on connection 」 
-  ![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
