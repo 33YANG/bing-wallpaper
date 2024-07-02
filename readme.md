@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240702 -「 Cheers to Canada! 」 
+  ![Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240701 -「 You won't forget 'Ubud' it! 」 
   ![You won't forget 'Ubud' it!](https://bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240630 -「 Saddle up for Le Tour! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240625 -「 The sacred lakes of Kelimutu 」 
   ![The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240624 -「 Dark night, city lights 」 
-  ![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
