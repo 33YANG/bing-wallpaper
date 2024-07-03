@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240703 -「 Ghosts of cities past 」 
+  ![Ghosts of cities past](https://bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240702 -「 Cheers to Canada! 」 
   ![Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240701 -「 You won't forget 'Ubud' it! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240626 -「 Flowing through Valley of Fire 」 
   ![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240625 -「 The sacred lakes of Kelimutu 」 
-  ![The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
