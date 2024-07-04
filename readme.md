@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240704 -「 Heads up! 」 
+  ![Heads up!](https://bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240703 -「 Ghosts of cities past 」 
   ![Ghosts of cities past](https://bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240702 -「 Cheers to Canada! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240627 -「 Stripe-tacular! 」 
   ![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240626 -「 Flowing through Valley of Fire 」 
-  ![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
