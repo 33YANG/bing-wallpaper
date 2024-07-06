@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240706 -「 A coastal encounter 」 
+  ![A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240705 -「 Happy Independence Day! 」 
   ![Happy Independence Day!](https://bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240704 -「 Heads up! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240629 -「 The pride of New York City 」 
   ![The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240628 -「 Dome sweet dome 」 
-  ![Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
