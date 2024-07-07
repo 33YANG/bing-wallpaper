@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240707 -「 Built to last 」 
+  ![Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240706 -「 A coastal encounter 」 
   ![A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240705 -「 Happy Independence Day! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![You won't forget 'Ubud' it!](https://bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240630 -「 Saddle up for Le Tour! 」 
   ![Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240629 -「 The pride of New York City 」 
-  ![The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
