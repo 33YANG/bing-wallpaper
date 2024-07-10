@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240710 -「 Towering Talampaya 」 
+  ![Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240709 -「 Berry beautiful 」 
   ![Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240708 -「 Rice and shine 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Heads up!](https://bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240703 -「 Ghosts of cities past 」 
   ![Ghosts of cities past](https://bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240702 -「 Cheers to Canada! 」 
-  ![Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
