@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240712 -「 You are one in 8.1 billion 」 
+  ![You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240711 -「 A 'toucan' of appreciation 」 
   ![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240710 -「 Towering Talampaya 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240705 -「 Happy Independence Day! 」 
   ![Happy Independence Day!](https://bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240704 -「 Heads up! 」 
-  ![Heads up!](https://bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
