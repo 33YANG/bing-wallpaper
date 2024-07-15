@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240715 -「 Sip, sip, hooray! 」 
+  ![Sip, sip, hooray!](https://bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240714 -「 Türkiye's stony spires 」 
   ![Türkiye's stony spires](https://bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240713 -「 Come Rainier or shine 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240708 -「 Rice and shine 」 
   ![Rice and shine](https://bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240707 -「 Built to last 」 
-  ![Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
