@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240717 -「 Digging into the past 」 
+  ![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240716 -「 Seas the day 」 
   ![Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240715 -「 Sip, sip, hooray! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240710 -「 Towering Talampaya 」 
   ![Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240709 -「 Berry beautiful 」 
-  ![Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
