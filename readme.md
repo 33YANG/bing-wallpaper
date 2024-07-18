@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240718 -「 Towering with history 」 
+  ![Towering with history](https://bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240717 -「 Digging into the past 」 
   ![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240716 -「 Seas the day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240711 -「 A 'toucan' of appreciation 」 
   ![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240710 -「 Towering Talampaya 」 
-  ![Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
