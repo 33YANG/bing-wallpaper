@@ -17,6 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240720 -「 Clever camouflage 」 
+  ![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20240719 -「 Deep and meaningful 」 
+  ![Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240718 -「 Towering with history 」 
   ![Towering with history](https://bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240717 -「 Digging into the past 」 
@@ -29,7 +33,3 @@ Main functions:
   ![Türkiye's stony spires](https://bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240713 -「 Come Rainier or shine 」 
   ![Come Rainier or shine](https://bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240712 -「 You are one in 8.1 billion 」 
-  ![You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240711 -「 A 'toucan' of appreciation 」 
-  ![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
