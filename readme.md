@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240721 -「 To the moon and back 」 
+  ![To the moon and back](https://bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240720 -「 Clever camouflage 」 
   ![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240719 -「 Deep and meaningful 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sip, sip, hooray!](https://bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240714 -「 Türkiye's stony spires 」 
   ![Türkiye's stony spires](https://bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240713 -「 Come Rainier or shine 」 
-  ![Come Rainier or shine](https://bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
