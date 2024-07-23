@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240723 -「 Just hanging out 」 
+  ![Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240722 -「 Smooth sailing 」 
   ![Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240721 -「 To the moon and back 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240716 -「 Seas the day 」 
   ![Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240715 -「 Sip, sip, hooray! 」 
-  ![Sip, sip, hooray!](https://bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
