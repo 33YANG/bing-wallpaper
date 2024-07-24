@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240724 -「 Echoes of history 」 
+  ![Echoes of history](https://bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240723 -「 Just hanging out 」 
   ![Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240722 -「 Smooth sailing 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Towering with history](https://bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240717 -「 Digging into the past 」 
   ![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240716 -「 Seas the day 」 
-  ![Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
