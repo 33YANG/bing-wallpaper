@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240726 -「 Into the thick of it 」 
+  ![Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240725 -「 Baa-utiful family 」 
   ![Baa-utiful family](https://bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240724 -「 Echoes of history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240719 -「 Deep and meaningful 」 
   ![Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240718 -「 Towering with history 」 
-  ![Towering with history](https://bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
