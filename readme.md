@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240728 -「 'Riesling' to perfection 」 
+  !['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240727 -「 Let the Games begin! 」 
   ![Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240726 -「 Into the thick of it 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240721 -「 To the moon and back 」 
   ![To the moon and back](https://bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240720 -「 Clever camouflage 」 
-  ![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
