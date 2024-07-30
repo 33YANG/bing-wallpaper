@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240730 -「 Roar and explore 」 
+  ![Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240729 -「 Chromatic coastline 」 
   ![Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240728 -「 'Riesling' to perfection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Echoes of history](https://bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240723 -「 Just hanging out 」 
   ![Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240722 -「 Smooth sailing 」 
-  ![Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
