@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240803 -「 Somewhere under the rainbow 」 
+  ![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240802 -「 There's a boatload of bargains here 」 
   ![There's a boatload of bargains here](https://bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240801 -「 'Hoodoo' we have here? 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240727 -「 Let the Games begin! 」 
   ![Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240726 -「 Into the thick of it 」 
-  ![Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
