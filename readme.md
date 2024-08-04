@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240804 -「 Towering over Wulong 」 
+  ![Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240803 -「 Somewhere under the rainbow 」 
   ![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240802 -「 There's a boatload of bargains here 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240728 -「 'Riesling' to perfection 」 
   !['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240727 -「 Let the Games begin! 」 
-  ![Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
