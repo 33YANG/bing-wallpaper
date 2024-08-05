@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240805 -「 You've got a friend in me 」 
+  ![You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240804 -「 Towering over Wulong 」 
   ![Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240803 -「 Somewhere under the rainbow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240729 -「 Chromatic coastline 」 
   ![Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240728 -「 'Riesling' to perfection 」 
-  !['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
