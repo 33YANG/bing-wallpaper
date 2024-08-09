@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240809 -「 Big stare for a little owl 」 
+  ![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240808 -「 More than nautical necessity 」 
   ![More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240807 -「 A very pleasant crescent 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240802 -「 There's a boatload of bargains here 」 
   ![There's a boatload of bargains here](https://bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240801 -「 'Hoodoo' we have here? 」 
-  !['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
