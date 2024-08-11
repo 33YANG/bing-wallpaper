@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240811 -「 Joshua under a starry blanket 」 
+  ![Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240810 -「 Celebrating Indigenous culture 」 
   ![Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240809 -「 Big stare for a little owl 」 
@@ -31,5 +33,3 @@ Main functions:
   ![You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240804 -「 Towering over Wulong 」 
   ![Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240803 -「 Somewhere under the rainbow 」 
-  ![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
