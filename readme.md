@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240813 -「 Herd you loud and clear 」 
+  ![Herd you loud and clear](https://bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240812 -「 The path less taken 」 
   ![The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240811 -「 Joshua under a starry blanket 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240806 -「 A sea of purple 」 
   ![A sea of purple](https://bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240805 -「 You've got a friend in me 」 
-  ![You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
