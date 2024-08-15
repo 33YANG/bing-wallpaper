@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240815 -「 Feeling sharp today 」 
+  ![Feeling sharp today](https://bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240814 -「 Adriatic heights 」 
   ![Adriatic heights](https://bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240813 -「 Herd you loud and clear 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240808 -「 More than nautical necessity 」 
   ![More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240807 -「 A very pleasant crescent 」 
-  ![A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
