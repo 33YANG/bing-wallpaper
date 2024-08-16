@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240816 -「 A 'hole' new world 」 
+  ![A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240815 -「 Feeling sharp today 」 
   ![Feeling sharp today](https://bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240814 -「 Adriatic heights 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240809 -「 Big stare for a little owl 」 
   ![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240808 -「 More than nautical necessity 」 
-  ![More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
