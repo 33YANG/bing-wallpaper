@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240817 -「 Buckle up! 」 
+  ![Buckle up!](https://bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240816 -「 A 'hole' new world 」 
   ![A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240815 -「 Feeling sharp today 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240810 -「 Celebrating Indigenous culture 」 
   ![Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240809 -「 Big stare for a little owl 」 
-  ![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
