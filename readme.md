@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240819 -「 Pier today ... 」 
+  ![Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240818 -「 Light the way 」 
   ![Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240817 -「 Buckle up! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Herd you loud and clear](https://bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240812 -「 The path less taken 」 
   ![The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240811 -「 Joshua under a starry blanket 」 
-  ![Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
