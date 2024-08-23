@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240823 -「 The morning glow 」 
+  ![The morning glow](https://bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240822 -「 Waiting to 'Galápa-go' 」 
   ![Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240821 -「 A grand view 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Buckle up!](https://bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240816 -「 A 'hole' new world 」 
   ![A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240815 -「 Feeling sharp today 」 
-  ![Feeling sharp today](https://bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
