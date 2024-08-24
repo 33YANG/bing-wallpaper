@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240824 -「 Doorway to the past 」 
+  ![Doorway to the past](https://bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240823 -「 The morning glow 」 
   ![The morning glow](https://bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240822 -「 Waiting to 'Galápa-go' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240817 -「 Buckle up! 」 
   ![Buckle up!](https://bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240816 -「 A 'hole' new world 」 
-  ![A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
