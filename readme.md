@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240827 -「 Idyllic island escape 」 
+  ![Idyllic island escape](https://bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240826 -「 Preserving paradise 」 
   ![Preserving paradise](https://bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240825 -「 All about the woods and waters 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A grand view](https://bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240820 -「 An old dream takes flight 」 
   ![An old dream takes flight](https://bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240819 -「 Pier today ... 」 
-  ![Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
