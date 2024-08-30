@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240830 -「 A Catalan cliffhanger 」 
+  ![A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240829 -「 Games on 」 
   ![Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240828 -「 Life's good in the swamp! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Doorway to the past](https://bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240823 -「 The morning glow 」 
   ![The morning glow](https://bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240822 -「 Waiting to 'Galápa-go' 」 
-  ![Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
