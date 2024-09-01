@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240901 -「 Dune days and desert haze 」 
+  ![Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240831 -「 Being gentle to the giants 」 
   ![Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240830 -「 A Catalan cliffhanger 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Preserving paradise](https://bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240825 -「 All about the woods and waters 」 
   ![All about the woods and waters](https://bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240824 -「 Doorway to the past 」 
-  ![Doorway to the past](https://bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
