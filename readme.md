@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240903 -「 Workers of the world, relax 」 
+  ![Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240902 -「 Row your boat gently down the Thames 」 
   ![Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240901 -「 Dune days and desert haze 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life's good in the swamp!](https://bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240827 -「 Idyllic island escape 」 
   ![Idyllic island escape](https://bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240826 -「 Preserving paradise 」 
-  ![Preserving paradise](https://bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
