@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240904 -「 Unspoiled beauty for all 」 
+  ![Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240903 -「 Workers of the world, relax 」 
   ![Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240902 -「 Row your boat gently down the Thames 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240828 -「 Life's good in the swamp! 」 
   ![Life's good in the swamp!](https://bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240827 -「 Idyllic island escape 」 
-  ![Idyllic island escape](https://bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
