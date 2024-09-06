@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240906 -「 Lights, camera, TIFF '24! 」 
+  ![Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240905 -「 Birds of a feather hoot together 」 
   ![Birds of a feather hoot together](https://bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240904 -「 Unspoiled beauty for all 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240830 -「 A Catalan cliffhanger 」 
   ![A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240829 -「 Games on 」 
-  ![Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
