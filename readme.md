@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240908 -「 Humming along 」 
+  ![Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240907 -「 'Wood' you believe this view? 」 
   !['Wood' you believe this view?](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240906 -「 Lights, camera, TIFF '24! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240901 -「 Dune days and desert haze 」 
   ![Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240831 -「 Being gentle to the giants 」 
-  ![Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
