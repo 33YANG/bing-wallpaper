@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240910 -「 Rainbow waves in 'big water' 」 
+  ![Rainbow waves in 'big water'](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240909 -「 A global chapter 」 
   ![A global chapter](https://bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240908 -「 Humming along 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240903 -「 Workers of the world, relax 」 
   ![Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240902 -「 Row your boat gently down the Thames 」 
-  ![Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
