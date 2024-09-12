@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240912 -「 Patriot Day 」 
+  ![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240911 -「 From skyline to water 」 
   ![From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240910 -「 The mighty Iguazu Falls 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240905 -「 Birds of a feather hoot together 」 
   ![Birds of a feather hoot together](https://bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240904 -「 Unspoiled beauty for all 」 
-  ![Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
