@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240913 -「 Have a fin-tastic day 」 
+  ![Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240912 -「 Patriot Day 」 
   ![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240911 -「 From skyline to water 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Queen of the Glens](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240906 -「 Lights, camera, TIFF '24! 」 
   ![Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240905 -「 Birds of a feather hoot together 」 
-  ![Birds of a feather hoot together](https://bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
