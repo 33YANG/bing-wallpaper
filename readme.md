@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240916 -「 Celebrating Hispanic heritage 」 
+  ![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240915 -「 Radiant Rapa Nui 」 
   ![Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240914 -「 Finding safe haven 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240909 -「 A global chapter 」 
   ![A global chapter](https://bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240908 -「 Humming along 」 
-  ![Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
