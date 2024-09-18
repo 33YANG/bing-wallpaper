@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240918 -「 Lanterns and mooncakes 」 
+  ![Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240917 -「 Wallabies on the watch 」 
   ![Wallabies on the watch](https://bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240916 -「 Celebrating Hispanic heritage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240911 -「 From skyline to water 」 
   ![From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240910 -「 The mighty Iguazu Falls 」 
-  ![The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
