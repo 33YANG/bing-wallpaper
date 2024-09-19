@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240919 -「 Castle in the clouds 」 
+  ![Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240918 -「 Lanterns and mooncakes 」 
   ![Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240917 -「 Wallabies on the watch 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240912 -「 Patriot Day 」 
   ![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240911 -「 From skyline to water 」 
-  ![From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
