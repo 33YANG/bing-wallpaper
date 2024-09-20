@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240920 -「 Avast, landlubbers! 」 
+  ![Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240919 -「 Castle in the clouds 」 
   ![Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240918 -「 Lanterns and mooncakes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240913 -「 Have a fin-tastic day 」 
   ![Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240912 -「 Patriot Day 」 
-  ![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
