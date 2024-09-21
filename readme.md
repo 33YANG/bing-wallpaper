@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240921 -「 Light dawns on Ocracoke 」 
+  ![Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240920 -「 Avast, landlubbers! 」 
   ![Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240919 -「 Castle in the clouds 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240914 -「 Finding safe haven 」 
   ![Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240913 -「 Have a fin-tastic day 」 
-  ![Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
