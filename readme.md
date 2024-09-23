@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240923 -「 Fall into reflection 」 
+  ![Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240922 -「 Prost! Oktoberfest begins 」 
   ![Prost! Oktoberfest begins](https://bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240921 -「 Light dawns on Ocracoke 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wallabies on the watch](https://bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240916 -「 Celebrating Hispanic heritage 」 
   ![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240915 -「 Radiant Rapa Nui 」 
-  ![Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
