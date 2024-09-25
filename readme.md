@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240925 -「 Falling for this view? 」 
+  ![Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240924 -「 Otter-ly amazing 」 
   ![Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240923 -「 Fall into reflection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240918 -「 Lanterns and mooncakes 」 
   ![Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240917 -「 Wallabies on the watch 」 
-  ![Wallabies on the watch](https://bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
