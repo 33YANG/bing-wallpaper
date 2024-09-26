@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240926 -「 The realm of ancient giants 」 
+  ![The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240925 -「 Falling for this view? 」 
   ![Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240924 -「 Otter-ly amazing 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240919 -「 Castle in the clouds 」 
   ![Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240918 -「 Lanterns and mooncakes 」 
-  ![Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
