@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20240929 -「 Golden glimpses 」 
+  ![Golden glimpses](https://bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240928 -「 Above the floating city 」 
   ![Above the floating city](https://bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240927 -「 Flying colors 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240922 -「 Prost! Oktoberfest begins 」 
   ![Prost! Oktoberfest begins](https://bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240921 -「 Light dawns on Ocracoke 」 
-  ![Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
