@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241003 -「 Wind River's wild dance 」 
+  ![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241002 -「 Dome sweet dome 」 
   ![Dome sweet dome](https://bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241001 -「 Go with the floe 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Flying colors](https://bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240926 -「 The realm of ancient giants 」 
   ![The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240925 -「 Falling for this view? 」 
-  ![Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
