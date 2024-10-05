@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241005 -「 A blue moon 」 
+  ![A blue moon](https://bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241004 -「 Grand gesture of love 」 
   ![Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241003 -「 Wind River's wild dance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Golden glimpses](https://bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20240928 -「 Above the floating city 」 
   ![Above the floating city](https://bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20240927 -「 Flying colors 」 
-  ![Flying colors](https://bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
