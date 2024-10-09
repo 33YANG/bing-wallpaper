@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241009 -「 Ocean's eight 」 
+  ![Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241008 -「 Celebrating architecture 」 
   ![Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241007 -「 The stone town of Tuscany 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241002 -「 Dome sweet dome 」 
   ![Dome sweet dome](https://bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241001 -「 Go with the floe 」 
-  ![Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
