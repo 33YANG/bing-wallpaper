@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241010 -「 Colorado in full color 」 
+  ![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241009 -「 Ocean's eight 」 
   ![Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241008 -「 Celebrating architecture 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241003 -「 Wind River's wild dance 」 
   ![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241002 -「 Dome sweet dome 」 
-  ![Dome sweet dome](https://bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
