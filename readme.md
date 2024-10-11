@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241011 -「 Rolling into fall 」 
+  ![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241010 -「 Colorado in full color 」 
   ![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241009 -「 Ocean's eight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A blue moon](https://bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241004 -「 Grand gesture of love 」 
   ![Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241003 -「 Wind River's wild dance 」 
-  ![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
