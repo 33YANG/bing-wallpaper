@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241017 -「 Unearthing the past 」 
+  ![Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241016 -「 The race for life 」 
   ![The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241015 -「 Honoring Indigenous Peoples 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241010 -「 Colorado in full color 」 
   ![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241009 -「 Ocean's eight 」 
-  ![Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
