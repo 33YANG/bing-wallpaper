@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241018 -「 Astronauts, grab your skis! 」 
+  ![Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241017 -「 Unearthing the past 」 
   ![Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241016 -「 The race for life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrate the Celts](https://bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241011 -「 Rolling into fall 」 
   ![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241010 -「 Colorado in full color 」 
-  ![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
