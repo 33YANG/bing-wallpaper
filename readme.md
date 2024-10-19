@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241019 -「 Falling for Central Park 」 
+  ![Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241018 -「 Astronauts, grab your skis! 」 
   ![Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241017 -「 Unearthing the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241012 -「 Celebrate the Celts 」 
   ![Celebrate the Celts](https://bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241011 -「 Rolling into fall 」 
-  ![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
