@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241022 -「 Standing tall in fall 」 
+  ![Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241021 -「 Hanging in there 」 
   ![Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241020 -「 Uncovering the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241015 -「 Honoring Indigenous Peoples 」 
   ![Honoring Indigenous Peoples](https://bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241014 -「 The splendor of Seville 」 
-  ![The splendor of Seville](https://bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
