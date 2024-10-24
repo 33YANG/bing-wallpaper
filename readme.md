@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241024 -「 Stairway to nowhere 」 
+  ![Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241023 -「 Fearsome façade 」 
   ![Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241022 -「 Standing tall in fall 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241017 -「 Unearthing the past 」 
   ![Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241016 -「 The race for life 」 
-  ![The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
