@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241028 -「 A mother's warmth in the cold 」 
+  ![A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241027 -「 Into the woods 」 
   ![Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241026 -「 The heights of horror 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241021 -「 Hanging in there 」 
   ![Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241020 -「 Uncovering the past 」 
-  ![Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
