@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241102 -「 Celebrating America's Native heritage 」 
+  ![Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241101 -「 Stone-cold stares on Halloween 」 
   ![Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241031 -「 A haunting history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241026 -「 The heights of horror 」 
   ![The heights of horror](https://bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241025 -「 Ghosts of the gold rush 」 
-  ![Ghosts of the gold rush](https://bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
