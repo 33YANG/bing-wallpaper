@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241104 -「 Nurturing nature 」 
+  ![Nurturing nature](https://bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241103 -「 From near extinction to national icon 」 
   ![From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241102 -「 Celebrating America's Native heritage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![It's carving time](https://bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241028 -「 A mother's warmth in the cold 」 
   ![A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241027 -「 Into the woods 」 
-  ![Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
