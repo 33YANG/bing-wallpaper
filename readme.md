@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241106 -「 Out of many, one 」 
+  ![Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241105 -「 Worth a thousand words 」 
   ![Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241104 -「 Nurturing nature 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241030 -「 Hoots and haunts 」 
   ![Hoots and haunts](https://bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241029 -「 It's carving time 」 
-  ![It's carving time](https://bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
