@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241108 -「 Wolves in the wild 」 
+  ![Wolves in the wild](https://bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241107 -「 Shades of sunset 」 
   ![Shades of sunset](https://bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241106 -「 Out of many, one 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241101 -「 Stone-cold stares on Halloween 」 
   ![Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241031 -「 A haunting history 」 
-  ![A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
