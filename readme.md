@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241109 -「 From the land of fire and ice 」 
+  ![From the land of fire and ice](https://bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241108 -「 Wolves in the wild 」 
   ![Wolves in the wild](https://bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241107 -「 Shades of sunset 」 
@@ -31,5 +33,3 @@ Main functions:
   ![From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241102 -「 Celebrating America's Native heritage 」 
   ![Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241101 -「 Stone-cold stares on Halloween 」 
-  ![Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
