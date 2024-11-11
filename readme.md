@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241111 -「 Flamboyance in flight 」 
+  ![Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241110 -「 Cosmic views over earthly hues 」 
   ![Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241109 -「 From the land of fire and ice 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241104 -「 Nurturing nature 」 
   ![Nurturing nature](https://bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241103 -「 From near extinction to national icon 」 
-  ![From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
