@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241112 -「 Heroes among us 」 
+  ![Heroes among us](https://bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241111 -「 Flamboyance in flight 」 
   ![Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241110 -「 Cosmic views over earthly hues 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241105 -「 Worth a thousand words 」 
   ![Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241104 -「 Nurturing nature 」 
-  ![Nurturing nature](https://bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
