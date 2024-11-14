@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241114 -「 The forests of the sea 」 
+  ![The forests of the sea](https://bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241113 -「 Underneath the arches 」 
   ![Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241112 -「 Heroes among us 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wolves in the wild](https://bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241107 -「 Shades of sunset 」 
   ![Shades of sunset](https://bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241106 -「 Out of many, one 」 
-  ![Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
