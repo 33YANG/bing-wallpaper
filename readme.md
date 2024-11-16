@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241116 -「 Hope takes flight 」 
+  ![Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241115 -「 A cliffside story 」 
   ![A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241114 -「 The forests of the sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241109 -「 From the land of fire and ice 」 
   ![From the land of fire and ice](https://bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241108 -「 Wolves in the wild 」 
-  ![Wolves in the wild](https://bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
