@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241119 -「 Guiding the way since 1860 」 
+  ![Guiding the way since 1860](https://bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241118 -「 The hart of the Highlands 」 
   ![The hart of the Highlands](https://bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241117 -「 Mud, sea, and sky 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241112 -「 Heroes among us 」 
   ![Heroes among us](https://bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241111 -「 Flamboyance in flight 」 
-  ![Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
