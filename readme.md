@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241123 -「 Castle on a crag 」 
+  ![Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241122 -「 Sunrise on the savanna 」 
   ![Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241121 -「 United for World Children’s Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Mud, sea, and sky](https://bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241116 -「 Hope takes flight 」 
   ![Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241115 -「 A cliffside story 」 
-  ![A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
