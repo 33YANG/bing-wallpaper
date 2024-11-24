@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241124 -「 Nature's secret code 」 
+  ![Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241123 -「 Castle on a crag 」 
   ![Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241122 -「 Sunrise on the savanna 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The hart of the Highlands](https://bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241117 -「 Mud, sea, and sky 」 
   ![Mud, sea, and sky](https://bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241116 -「 Hope takes flight 」 
-  ![Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
