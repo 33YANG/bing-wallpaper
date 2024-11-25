@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241125 -「 Tides and twilight 」 
+  ![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241124 -「 Nature's secret code 」 
   ![Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241123 -「 Castle on a crag 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Guiding the way since 1860](https://bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241118 -「 The hart of the Highlands 」 
   ![The hart of the Highlands](https://bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241117 -「 Mud, sea, and sky 」 
-  ![Mud, sea, and sky](https://bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
