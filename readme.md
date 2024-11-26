@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241126 -「 Life in the wild 」 
+  ![Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241125 -「 Tides and twilight 」 
   ![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241124 -「 Nature's secret code 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An arch that rocks](https://bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241119 -「 Guiding the way since 1860 」 
   ![Guiding the way since 1860](https://bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241118 -「 The hart of the Highlands 」 
-  ![The hart of the Highlands](https://bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
