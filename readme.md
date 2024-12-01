@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241201 -「 Reflecting Scotland's heritage 」 
+  ![Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241130 -「 An island of time and tide 」 
   ![An island of time and tide](https://bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241129 -「 Stuffed with gratitude 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241124 -「 Nature's secret code 」 
   ![Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241123 -「 Castle on a crag 」 
-  ![Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
