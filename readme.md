@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241202 -「 Protecting the last great wilderness 」 
+  ![Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241201 -「 Reflecting Scotland's heritage 」 
   ![Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241130 -「 An island of time and tide 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241125 -「 Tides and twilight 」 
   ![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241124 -「 Nature's secret code 」 
-  ![Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
