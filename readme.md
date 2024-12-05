@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241205 -「 On the front line of extinction 」 
+  ![On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241204 -「 Pillars of the past 」 
   ![Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241203 -「 A wild stare 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stuffed with gratitude](https://bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241128 -「 The giant's resting place 」 
   ![The giant's resting place](https://bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241127 -「 Beneath ancient olive trees 」 
-  ![Beneath ancient olive trees](https://bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
