@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241206 -「 The rise of tufa 」 
+  ![The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241205 -「 On the front line of extinction 」 
   ![On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241204 -「 Pillars of the past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An island of time and tide](https://bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241129 -「 Stuffed with gratitude 」 
   ![Stuffed with gratitude](https://bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241128 -「 The giant's resting place 」 
-  ![The giant's resting place](https://bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
