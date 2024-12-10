@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241210 -「 Attitude and altitude 」 
+  ![Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241209 -「 The comeback of Notre-Dame 」 
   ![The comeback of Notre-Dame](https://bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241208 -「 Remembering Pearl Harbor 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241203 -「 A wild stare 」 
   ![A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241202 -「 Protecting the last great wilderness 」 
-  ![Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
