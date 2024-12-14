@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241214 -「 Advent at the basilica 」 
+  ![Advent at the basilica](https://bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241213 -「 'Red-y' for the holidays 」 
   !['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241212 -「 The triumphant trio 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241207 -「 Happy birthday, Finland! 」 
   ![Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241206 -「 The rise of tufa 」 
-  ![The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
