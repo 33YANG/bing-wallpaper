@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241216 -「 A lake of tears 」 
+  ![A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241215 -「 'Hoo' said that? 」 
   !['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241214 -「 Advent at the basilica 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241209 -「 The comeback of Notre-Dame 」 
   ![The comeback of Notre-Dame](https://bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241208 -「 Remembering Pearl Harbor 」 
-  ![Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
