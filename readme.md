@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241219 -「 Yule really love this ballet 」 
+  ![Yule really love this ballet](https://bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241218 -「 A shore to adore 」 
   ![A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241217 -「 Twinkling streets and icy peaks 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241212 -「 The triumphant trio 」 
   ![The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241211 -「 The end? Not quite. 」 
-  ![The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
