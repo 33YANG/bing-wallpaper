@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241221 -「 He's coming to town... 」 
+  ![He's coming to town...](https://bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241220 -「 Twinkle town 」 
   ![Twinkle town](https://bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241219 -「 Yule really love this ballet 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241214 -「 Advent at the basilica 」 
   ![Advent at the basilica](https://bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241213 -「 'Red-y' for the holidays 」 
-  !['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
