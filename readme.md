@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241223 -「 Surf, sand, and Santa 」 
+  ![Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241222 -「 Midwinter wonderland 」 
   ![Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241221 -「 He's coming to town... 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241216 -「 A lake of tears 」 
   ![A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241215 -「 'Hoo' said that? 」 
-  !['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
