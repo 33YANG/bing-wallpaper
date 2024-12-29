@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241229 -「 Shell-abrating a life 」 
+  ![Shell-abrating a life](https://bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241228 -「 Icy reflections and snow-dusted peaks 」 
   ![Icy reflections and snow-dusted peaks](https://bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241227 -「 The holidays continue 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241222 -「 Midwinter wonderland 」 
   ![Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241221 -「 He's coming to town... 」 
-  ![He's coming to town...](https://bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
