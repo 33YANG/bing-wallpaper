@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20241231 -「 A park for all seasons 」 
+  ![A park for all seasons](https://bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241230 -「 On the sacred mountain 」 
   ![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241229 -「 Shell-abrating a life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241224 -「 Ready to let off some steam? 」 
   ![Ready to let off some steam?](https://bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241223 -「 Surf, sand, and Santa 」 
-  ![Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
