@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250103 -「 The glistening village 」 
+  ![The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250102 -「 Have an ice New Year's Day 」 
   ![Have an ice New Year's Day](https://bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250101 -「 Midnight in Rio 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Icy reflections and snow-dusted peaks](https://bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241227 -「 The holidays continue 」 
   ![The holidays continue](https://bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241226 -「 Merry Christmas! 」 
-  ![Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
