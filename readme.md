@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250105 -「 A borderline paradise 」 
+  ![A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250104 -「 Ring in the fun 」 
   ![Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250103 -「 The glistening village 」 
@@ -31,5 +33,3 @@ Main functions:
   ![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241229 -「 Shell-abrating a life 」 
   ![Shell-abrating a life](https://bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241228 -「 Icy reflections and snow-dusted peaks 」 
-  ![Icy reflections and snow-dusted peaks](https://bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
