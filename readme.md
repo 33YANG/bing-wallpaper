@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250106 -「 Head-turner in the treetops 」 
+  ![Head-turner in the treetops](https://bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250105 -「 A borderline paradise 」 
   ![A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250104 -「 Ring in the fun 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A park for all seasons](https://bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241230 -「 On the sacred mountain 」 
   ![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241229 -「 Shell-abrating a life 」 
-  ![Shell-abrating a life](https://bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
