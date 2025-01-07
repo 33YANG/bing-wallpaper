@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250107 -「 Divine depths 」 
+  ![Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250106 -「 Head-turner in the treetops 」 
   ![Head-turner in the treetops](https://bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250105 -「 A borderline paradise 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20241231 -「 A park for all seasons 」 
   ![A park for all seasons](https://bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241230 -「 On the sacred mountain 」 
-  ![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
