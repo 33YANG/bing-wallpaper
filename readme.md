@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250108 -「 Rocks and rollers 」 
+  ![Rocks and rollers](https://bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250107 -「 Divine depths 」 
   ![Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250106 -「 Head-turner in the treetops 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Have an ice New Year's Day](https://bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250101 -「 Midnight in Rio 」 
   ![Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20241231 -「 A park for all seasons 」 
-  ![A park for all seasons](https://bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
