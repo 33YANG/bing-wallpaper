@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250111 -「 Bubbles, bubbles everywhere 」 
+  ![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250110 -「 Honoring Jimmy Carter 」 
   ![Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250109 -「 Step up your game 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250104 -「 Ring in the fun 」 
   ![Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250103 -「 The glistening village 」 
-  ![The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
