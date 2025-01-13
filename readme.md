@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250113 -「 Sharp vision in the depths 」 
+  ![Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250112 -「 Arches of a bygone era 」 
   ![Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250111 -「 Bubbles, bubbles everywhere 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250106 -「 Head-turner in the treetops 」 
   ![Head-turner in the treetops](https://bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250105 -「 A borderline paradise 」 
-  ![A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
