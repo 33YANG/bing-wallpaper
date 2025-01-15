@@ -17,8 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250115 -「 Calmness overload 」 
+  ![Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250114 -「 'Welsh' you a Happy Hen Galan! 」 
-  !['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  !['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250113 -「 Sharp vision in the depths 」 
   ![Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250112 -「 Arches of a bygone era 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250108 -「 Rocks and rollers 」 
   ![Rocks and rollers](https://bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250107 -「 Divine depths 」 
-  ![Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
