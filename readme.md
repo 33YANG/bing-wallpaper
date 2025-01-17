@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250117 -「 A monumental milestone 」 
+  ![A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250116 -「 Where the past is always present 」 
   ![Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250115 -「 Calmness overload 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250110 -「 Honoring Jimmy Carter 」 
   ![Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250109 -「 Step up your game 」 
-  ![Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
