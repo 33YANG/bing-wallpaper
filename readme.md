@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250118 -「 Pouch perfect 」 
+  ![Pouch perfect](https://bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250117 -「 A monumental milestone 」 
   ![A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250116 -「 Where the past is always present 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250111 -「 Bubbles, bubbles everywhere 」 
   ![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250110 -「 Honoring Jimmy Carter 」 
-  ![Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
