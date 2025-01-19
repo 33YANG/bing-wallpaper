@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250119 -「 1,001 New Mexican dunes 」 
+  ![1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250118 -「 Pouch perfect 」 
   ![Pouch perfect](https://bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250117 -「 A monumental milestone 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250112 -「 Arches of a bygone era 」 
   ![Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250111 -「 Bubbles, bubbles everywhere 」 
-  ![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
