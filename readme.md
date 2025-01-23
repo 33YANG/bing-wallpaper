@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250123 -「 Finding beauty in the Lost City 」 
+  ![Finding beauty in the Lost City](https://bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250122 -「 Feeling squirrely? 」 
   ![Feeling squirrely?](https://bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250121 -「 Honoring the dream 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250116 -「 Where the past is always present 」 
   ![Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250115 -「 Calmness overload 」 
-  ![Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
