@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250127 -「 Aging gracefully 」 
+  ![Aging gracefully](https://bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250126 -「 Golden hour in Porto 」 
   ![Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250125 -「 Bubbling with power 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Honoring the dream](https://bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250120 -「 A grotto fit for a god 」 
   ![A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250119 -「 1,001 New Mexican dunes 」 
-  ![1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
