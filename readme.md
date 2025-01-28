@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250128 -「 Peaked your curiosity 」 
+  ![Peaked your curiosity](https://bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250127 -「 Aging gracefully 」 
   ![Aging gracefully](https://bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250126 -「 Golden hour in Porto 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Feeling squirrely?](https://bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250121 -「 Honoring the dream 」 
   ![Honoring the dream](https://bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250120 -「 A grotto fit for a god 」 
-  ![A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
