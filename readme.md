@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250130 -「 Happy Chinese New Year! 」 
+  ![Happy Chinese New Year!](https://bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250129 -「 Snow-way you'll miss it 」 
   ![Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250128 -「 Peaked your curiosity 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250123 -「 Finding beauty in the Lost City 」 
   ![Finding beauty in the Lost City](https://bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250122 -「 Feeling squirrely? 」 
-  ![Feeling squirrely?](https://bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
