@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250201 -「 Anything but plain 」 
+  ![Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250131 -「 Once more unto the breach 」 
   ![Once more unto the breach](https://bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250130 -「 Happy Chinese New Year! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250125 -「 Bubbling with power 」 
   ![Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250124 -「 Movies, mountains, and magic 」 
-  ![Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
