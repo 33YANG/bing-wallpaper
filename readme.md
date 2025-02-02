@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250202 -「 Roots of freedom 」 
+  ![Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250201 -「 Anything but plain 」 
   ![Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250131 -「 Once more unto the breach 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Aging gracefully](https://bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250126 -「 Golden hour in Porto 」 
   ![Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250125 -「 Bubbling with power 」 
-  ![Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
