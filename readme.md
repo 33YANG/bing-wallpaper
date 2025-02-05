@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250205 -「 A walk among the clouds 」 
+  ![A walk among the clouds](https://bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250204 -「 Bridging history, one arch at a time 」 
   ![Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250203 -「 Weather or not 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Happy Chinese New Year!](https://bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250129 -「 Snow-way you'll miss it 」 
   ![Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250128 -「 Peaked your curiosity 」 
-  ![Peaked your curiosity](https://bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
