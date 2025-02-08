@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250208 -「 Stuck in a blue moment 」 
+  ![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250207 -「 Reflections of a nation's legacy 」 
   ![Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250206 -「 Baa, baa, black sheep? No. 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250201 -「 Anything but plain 」 
   ![Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250131 -「 Once more unto the breach 」 
-  ![Once more unto the breach](https://bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
