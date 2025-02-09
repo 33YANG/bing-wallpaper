@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250209 -「 Frozen in time 」 
+  ![Frozen in time](https://bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250208 -「 Stuck in a blue moment 」 
   ![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250207 -「 Reflections of a nation's legacy 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250202 -「 Roots of freedom 」 
   ![Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250201 -「 Anything but plain 」 
-  ![Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
