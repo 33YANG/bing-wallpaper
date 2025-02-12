@@ -17,6 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250212 -「 The watchful eyes of history 」 
+  ![The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20250211 -「 Under my umbrella 」 
+  ![Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250210 -「 A point worth pondering 」 
   ![A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250209 -「 Frozen in time 」 
@@ -29,7 +33,3 @@ Main functions:
   ![Baa, baa, black sheep? No.](https://bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250205 -「 A walk among the clouds 」 
   ![A walk among the clouds](https://bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250204 -「 Bridging history, one arch at a time 」 
-  ![Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250203 -「 Weather or not 」 
-  ![Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
