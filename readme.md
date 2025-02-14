@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250214 -「 Salt of the earth 」 
+  ![Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250213 -「 Darwin's blueprint 」 
   ![Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250212 -「 The watchful eyes of history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250207 -「 Reflections of a nation's legacy 」 
   ![Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250206 -「 Baa, baa, black sheep? No. 」 
-  ![Baa, baa, black sheep? No.](https://bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
