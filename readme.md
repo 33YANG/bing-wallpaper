@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250215 -「 Look at these lovebirds 」 
+  ![Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250214 -「 Salt of the earth 」 
   ![Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250213 -「 Darwin's blueprint 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Frozen in time](https://bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250208 -「 Stuck in a blue moment 」 
   ![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250207 -「 Reflections of a nation's legacy 」 
-  ![Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
