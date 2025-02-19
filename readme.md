@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250219 -「 Endless blue 」 
+  ![Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250218 -「 Honoring our presidents 」 
   ![Honoring our presidents](https://bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250217 -「 Protecting the giants of the sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250212 -「 The watchful eyes of history 」 
   ![The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250211 -「 Under my umbrella 」 
-  ![Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
