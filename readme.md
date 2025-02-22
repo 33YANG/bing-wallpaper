@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250222 -「 A tale of still waters 」 
+  ![A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250221 -「 Celebrating Ansel Adams 」 
   ![Celebrating Ansel Adams](https://bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250220 -「 The 'otter' side of life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250215 -「 Look at these lovebirds 」 
   ![Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250214 -「 Salt of the earth 」 
-  ![Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
