@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250223 -「 Bending towards brilliance 」 
+  ![Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250222 -「 A tale of still waters 」 
   ![A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250221 -「 Celebrating Ansel Adams 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250216 -「 These are so nice-icle 」 
   ![These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250215 -「 Look at these lovebirds 」 
-  ![Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
