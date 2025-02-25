@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250225 -「 Inked and undercover 」 
+  ![Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250224 -「 Wind of Fuji, my souvenir from Edo 」 
   ![Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250223 -「 Bending towards brilliance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250218 -「 Honoring our presidents 」 
   ![Honoring our presidents](https://bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250217 -「 Protecting the giants of the sea 」 
-  ![Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
