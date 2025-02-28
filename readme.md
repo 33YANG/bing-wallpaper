@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250228 -「 Polar care 」 
+  ![Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250227 -「 Scottish strategy at its finest 」 
   ![Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250226 -「 Hoodoo you do? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250221 -「 Celebrating Ansel Adams 」 
   ![Celebrating Ansel Adams](https://bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250220 -「 The 'otter' side of life 」 
-  ![The 'otter' side of life](https://bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
