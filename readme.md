@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250302 -「 Women's History Month 」 
+  ![Women's History Month](https://bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250301 -「 Have a rest at the Tiger's Nest 」 
   ![Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250228 -「 Polar care 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250223 -「 Bending towards brilliance 」 
   ![Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250222 -「 A tale of still waters 」 
-  ![A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
