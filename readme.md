@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250306 -「 A jungle adventure 」 
+  ![A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250305 -「 Not your ordinary Tuesday 」 
   ![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250304 -「 Wild about wildlife 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250227 -「 Scottish strategy at its finest 」 
   ![Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250226 -「 Hoodoo you do? 」 
-  ![Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
