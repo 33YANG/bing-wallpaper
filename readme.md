@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250308 -「 China in bloom 」 
+  ![China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250307 -「 Rocky relationship 」 
   ![Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250306 -「 A jungle adventure 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Women's History Month](https://bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250301 -「 Have a rest at the Tiger's Nest 」 
   ![Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250228 -「 Polar care 」 
-  ![Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
