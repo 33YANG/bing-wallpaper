@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250311 -「 Snooze and conquer 」 
+  ![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250310 -「 The March of time 」 
   ![The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250309 -「 Making her-story! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250304 -「 Wild about wildlife 」 
   ![Wild about wildlife](https://bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250303 -「 A eucalyp-tastic view 」 
-  ![A eucalyp-tastic view](https://bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
