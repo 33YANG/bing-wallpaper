@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250312 -「 When the ocean breaks the rules 」 
+  ![When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250311 -「 Snooze and conquer 」 
   ![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250310 -「 The March of time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250305 -「 Not your ordinary Tuesday 」 
   ![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250304 -「 Wild about wildlife 」 
-  ![Wild about wildlife](https://bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
