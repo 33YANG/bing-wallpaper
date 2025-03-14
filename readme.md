@@ -17,6 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250314 -「 Holi color splash 」 
+  ![Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20250313 -「 Standing strong 」 
+  ![Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250312 -「 When the ocean breaks the rules 」 
   ![When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250311 -「 Snooze and conquer 」 
@@ -29,7 +33,3 @@ Main functions:
   ![China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250307 -「 Rocky relationship 」 
   ![Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250306 -「 A jungle adventure 」 
-  ![A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250305 -「 Not your ordinary Tuesday 」 
-  ![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
