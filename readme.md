@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250317 -「 Back to black ... and white 」 
+  ![Back to black ... and white](https://bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250316 -「 Friends, Romans, countrymen 」 
   ![Friends, Romans, countrymen](https://bing.com/th?id=OHR.ForumRomanum_EN-US9379132630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250315 -「 Pi in the sky 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250310 -「 The March of time 」 
   ![The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250309 -「 Making her-story! 」 
-  ![Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
