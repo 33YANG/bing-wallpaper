@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250318 -「 St. Patrick's enchantment 」 
+  ![St. Patrick's enchantment](https://bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250317 -「 Back to black ... and white 」 
   ![Back to black ... and white](https://bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250316 -「 Friends, Romans, countrymen 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250311 -「 Snooze and conquer 」 
   ![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250310 -「 The March of time 」 
-  ![The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
