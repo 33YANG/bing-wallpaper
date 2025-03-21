@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250321 -「 Spring awakening 」 
+  ![Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250320 -「 Umbrella maneuver 」 
   ![Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250319 -「 A vortex state of mind 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pi in the sky](https://bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250314 -「 Holi color splash 」 
   ![Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250313 -「 Standing strong 」 
-  ![Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
