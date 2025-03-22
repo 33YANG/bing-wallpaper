@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250322 -「 Long live the trees 」 
+  ![Long live the trees](https://bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250321 -「 Spring awakening 」 
   ![Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250320 -「 Umbrella maneuver 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Friends, Romans, countrymen](https://bing.com/th?id=OHR.ForumRomanum_EN-US9379132630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250315 -「 Pi in the sky 」 
   ![Pi in the sky](https://bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250314 -「 Holi color splash 」 
-  ![Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
