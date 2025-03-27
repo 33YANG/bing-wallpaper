@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250327 -「 Life below the surface 」 
+  ![Life below the surface](https://bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250326 -「 In a hole, there was a story 」 
   ![In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250325 -「 Feasting in the tall grass 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250320 -「 Umbrella maneuver 」 
   ![Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250319 -「 A vortex state of mind 」 
-  ![A vortex state of mind](https://bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
