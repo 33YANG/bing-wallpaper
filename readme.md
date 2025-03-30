@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250330 -「 Burst of blooms 」 
+  ![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250329 -「 A cozy cradle 」 
   ![A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250328 -「 A standing ovation for theaters 」 
@@ -31,5 +33,3 @@ Main functions:
   ![You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250323 -「 Wat-er wonderful world! 」 
   ![Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250322 -「 Long live the trees 」 
-  ![Long live the trees](https://bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
