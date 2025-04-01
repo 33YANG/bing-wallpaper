@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250401 -「 Apulia's White City 」 
+  ![Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250331 -「 Harboring nice views 」 
   ![Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250330 -「 Burst of blooms 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250325 -「 Feasting in the tall grass 」 
   ![Feasting in the tall grass](https://bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250324 -「 You can't silence thunder 」 
-  ![You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
