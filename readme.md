@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250405 -「 Cherry, cherry, bloom, bloom 」 
+  ![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250404 -「 The sky is the limit 」 
   ![The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250403 -「 Waves of time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250329 -「 A cozy cradle 」 
   ![A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250328 -「 A standing ovation for theaters 」 
-  ![A standing ovation for theaters](https://bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
