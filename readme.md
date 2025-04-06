@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250406 -「 Pilgrimage to San Juan de Gaztelugatxe 」 
+  ![Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250405 -「 Cherry, cherry, bloom, bloom 」 
   ![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250404 -「 The sky is the limit 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250330 -「 Burst of blooms 」 
   ![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250329 -「 A cozy cradle 」 
-  ![A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
