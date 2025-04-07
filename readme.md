@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250407 -「 Lost in titles 」 
+  ![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250406 -「 Pilgrimage to San Juan de Gaztelugatxe 」 
   ![Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250405 -「 Cherry, cherry, bloom, bloom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250331 -「 Harboring nice views 」 
   ![Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250330 -「 Burst of blooms 」 
-  ![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
