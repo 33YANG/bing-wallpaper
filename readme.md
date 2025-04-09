@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250409 -「 Patterns from the past 」 
+  ![Patterns from the past](https://bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250408 -「 Hello, Mr. Beaver! 」 
   ![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250407 -「 Lost in titles 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250402 -「 Hoppin' into National Frog Month 」 
   ![Hoppin' into National Frog Month](https://bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250401 -「 Apulia's White City 」 
-  ![Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
