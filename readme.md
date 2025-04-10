@@ -17,19 +17,19 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
-- 20250409 -「 Patterns from the past 」 
-  ![Patterns from the past](https://bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20250410 -「 Before the stars take over 」 
+  ![Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20250409 -「 Nature's skylight 」 
+  ![Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250408 -「 Hello, Mr. Beaver! 」 
-  ![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250407 -「 Lost in titles 」 
-  ![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250406 -「 Pilgrimage to San Juan de Gaztelugatxe 」 
-  ![Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250405 -「 Cherry, cherry, bloom, bloom 」 
-  ![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US7897872936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250404 -「 The sky is the limit 」 
-  ![The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US0296037572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250403 -「 Waves of time 」 
-  ![Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250402 -「 Hoppin' into National Frog Month 」 
-  ![Hoppin' into National Frog Month](https://bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+  ![Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US0210675034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
