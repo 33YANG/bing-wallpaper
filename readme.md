@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250415 -「 The chase begins! 」 
+  ![The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250414 -「 Let's celebrate Songkran! 」 
   ![Let's celebrate Songkran!](https://bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250413 -「 108 minutes that changed the world 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250408 -「 Hello, Mr. Beaver! 」 
   ![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250407 -「 Lost in titles 」 
-  ![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
