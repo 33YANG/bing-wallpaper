@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250416 -「 See Art, Do Art, Be Art 」 
+  ![See Art, Do Art, Be Art](https://bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250415 -「 The chase begins! 」 
   ![The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250414 -「 Let's celebrate Songkran! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250409 -「 Nature's skylight 」 
   ![Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250408 -「 Hello, Mr. Beaver! 」 
-  ![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
