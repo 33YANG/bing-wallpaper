@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250418 -「 Double the drama 」 
+  ![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250417 -「 A passage through time 」 
   ![A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250416 -「 See Art, Do Art, Be Art 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A blooming good time](https://bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250411 -「 Wild at heart 」 
   ![Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250410 -「 Before the stars take over 」 
-  ![Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
