@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250419 -「 Celebrating history 」 
+  ![Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250418 -「 Double the drama 」 
   ![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250417 -「 A passage through time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250412 -「 A blooming good time 」 
   ![A blooming good time](https://bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250411 -「 Wild at heart 」 
-  ![Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
