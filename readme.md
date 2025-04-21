@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250421 -「 The Easter Bunny is coming to town 」 
+  ![The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250420 -「 National Park Week begins 」 
   ![National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250419 -「 Celebrating history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250414 -「 Let's celebrate Songkran! 」 
   ![Let's celebrate Songkran!](https://bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250413 -「 108 minutes that changed the world 」 
-  ![108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
