@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250424 -「 Much ado about Shakespeare 」 
+  ![Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250423 -「 'Our Power, Our Planet' 」 
   !['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250422 -「 Under the spell of the Milky Way 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250417 -「 A passage through time 」 
   ![A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250416 -「 See Art, Do Art, Be Art 」 
-  ![See Art, Do Art, Be Art](https://bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
