@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250425 -「 Rugged peaks and wild waters 」 
+  ![Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250424 -「 Much ado about Shakespeare 」 
   ![Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250423 -「 'Our Power, Our Planet' 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250418 -「 Double the drama 」 
   ![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250417 -「 A passage through time 」 
-  ![A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
