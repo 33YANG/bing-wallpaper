@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250427 -「 Park it here 」 
+  ![Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250426 -「 Tuxedoed mariners 」 
   ![Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250425 -「 Rugged peaks and wild waters 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250420 -「 National Park Week begins 」 
   ![National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250419 -「 Celebrating history 」 
-  ![Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
