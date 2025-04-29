@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250429 -「 Pause and pose 」 
+  ![Pause and pose](https://bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250428 -「 A scene of wild beauty 」 
   ![A scene of wild beauty](https://bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250427 -「 Park it here 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250422 -「 Under the spell of the Milky Way 」 
   ![Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250421 -「 The Easter Bunny is coming to town 」 
-  ![The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
