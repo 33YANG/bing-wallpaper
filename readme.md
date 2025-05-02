@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250502 -「 A fragrant tradition 」 
+  ![A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250501 -「 All that jazz and more 」 
   ![All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250430 -「 Geometry in bloom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250425 -「 Rugged peaks and wild waters 」 
   ![Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250424 -「 Much ado about Shakespeare 」 
-  ![Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
