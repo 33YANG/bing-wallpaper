@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250503 -「 Sailing solo 」 
+  ![Sailing solo](https://bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250502 -「 A fragrant tradition 」 
   ![A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250501 -「 All that jazz and more 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250426 -「 Tuxedoed mariners 」 
   ![Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250425 -「 Rugged peaks and wild waters 」 
-  ![Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
