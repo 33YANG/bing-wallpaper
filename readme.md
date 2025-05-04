@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250504 -「 Let's celebrate the cosmos 」 
+  ![Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250503 -「 Sailing solo 」 
   ![Sailing solo](https://bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250502 -「 A fragrant tradition 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A scene of wild beauty](https://bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250427 -「 Park it here 」 
   ![Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250426 -「 Tuxedoed mariners 」 
-  ![Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
