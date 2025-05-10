@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250510 -「 Blending in and standing out 」 
+  ![Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250509 -「 A day to bray about 」 
   ![A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250508 -「 Castle on the rocks 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250503 -「 Sailing solo 」 
   ![Sailing solo](https://bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250502 -「 A fragrant tradition 」 
-  ![A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
