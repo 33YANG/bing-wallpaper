@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250512 -「 Celebrating motherhood feline style 」 
+  ![Celebrating motherhood feline style](https://bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250511 -「 Gilded glory 」 
   ![Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250510 -「 Blending in and standing out 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250505 -「 Welcome to planet Naboo! 」 
   ![Welcome to planet Naboo!](https://bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250504 -「 Let's celebrate the cosmos 」 
-  ![Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
