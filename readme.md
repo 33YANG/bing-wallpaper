@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250514 -「 66 and still gorgeous 」 
+  ![66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250513 -「 Waves of purple 」 
   ![Waves of purple](https://bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250512 -「 Celebrating motherhood feline style 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Castle on the rocks](https://bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250507 -「 Not your average desert trip 」 
   ![Not your average desert trip](https://bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250506 -「 Viva Mexico! 」 
-  ![Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
