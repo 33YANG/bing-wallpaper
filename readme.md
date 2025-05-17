@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250517 -「 Celebrate saving species 」 
+  ![Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250516 -「 London o'clock 」 
   ![London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250515 -「 Ore and more 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250510 -「 Blending in and standing out 」 
   ![Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250509 -「 A day to bray about 」 
-  ![A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
