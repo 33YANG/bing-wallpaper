@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250518 -「 The Venetian 'dolce vita' 」 
+  ![The Venetian 'dolce vita'](https://bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250517 -「 Celebrate saving species 」 
   ![Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250516 -「 London o'clock 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating motherhood feline style](https://bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250511 -「 Gilded glory 」 
   ![Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250510 -「 Blending in and standing out 」 
-  ![Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
