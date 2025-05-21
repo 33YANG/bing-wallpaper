@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250521 -「 Small wings, big job 」 
+  ![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250520 -「 Twists and turns of Mount Hamilton 」 
   ![Twists and turns of Mount Hamilton](https://bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250519 -「 Let's visit a museum today 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250514 -「 66 and still gorgeous 」 
   ![66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250513 -「 Waves of purple 」 
-  ![Waves of purple](https://bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
