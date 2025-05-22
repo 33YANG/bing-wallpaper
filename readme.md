@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250522 -「 Teatime 」 
+  ![Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250521 -「 Small wings, big job 」 
   ![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250520 -「 Twists and turns of Mount Hamilton 」 
@@ -31,5 +33,3 @@ Main functions:
   ![London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250515 -「 Ore and more 」 
   ![Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250514 -「 66 and still gorgeous 」 
-  ![66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
