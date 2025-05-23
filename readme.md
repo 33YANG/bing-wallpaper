@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250523 -「 Baobab boulevard 」 
+  ![Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250522 -「 Teatime 」 
   ![Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250521 -「 Small wings, big job 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250516 -「 London o'clock 」 
   ![London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250515 -「 Ore and more 」 
-  ![Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
