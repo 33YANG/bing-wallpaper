@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250527 -「 Honoring the fallen 」 
+  ![Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250526 -「 Bloom where you're planted 」 
   ![Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250525 -「 Europe's wild side 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250520 -「 Twists and turns of Mount Hamilton 」 
   ![Twists and turns of Mount Hamilton](https://bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250519 -「 Let's visit a museum today 」 
-  ![Let's visit a museum today](https://bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
