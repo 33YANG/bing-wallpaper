@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250528 -「 A shore thing 」 
+  ![A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250527 -「 Honoring the fallen 」 
   ![Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250526 -「 Bloom where you're planted 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250521 -「 Small wings, big job 」 
   ![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250520 -「 Twists and turns of Mount Hamilton 」 
-  ![Twists and turns of Mount Hamilton](https://bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
