@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250529 -「 Otterly important 」 
+  ![Otterly important](https://bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250528 -「 A shore thing 」 
   ![A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250527 -「 Honoring the fallen 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250522 -「 Teatime 」 
   ![Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250521 -「 Small wings, big job 」 
-  ![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
