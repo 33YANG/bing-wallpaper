@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250531 -「 Flowing through the Smokies 」 
+  ![Flowing through the Smokies](https://bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250530 -「 Flowing through the centuries 」 
   ![Flowing through the centuries](https://bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250529 -「 Otterly important 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Europe's wild side](https://bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250524 -「 Shell yeah! 」 
   ![Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250523 -「 Baobab boulevard 」 
-  ![Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
