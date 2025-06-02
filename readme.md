@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250602 -「 Under the sea 」 
+  ![Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250601 -「 An ancient glacial landscape 」 
   ![An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250531 -「 Flowing through the Smokies 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250526 -「 Bloom where you're planted 」 
   ![Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250525 -「 Europe's wild side 」 
-  ![Europe's wild side](https://bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
