@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250606 -「 Recycling never looked so good 」 
+  ![Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250605 -「 Crisp blues, sharp views 」 
   ![Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250604 -「 Break for joy 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Flowing through the Smokies](https://bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250530 -「 Flowing through the centuries 」 
   ![Flowing through the centuries](https://bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250529 -「 Otterly important 」 
-  ![Otterly important](https://bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
