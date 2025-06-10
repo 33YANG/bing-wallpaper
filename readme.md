@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250610 -「 Explore King's Landing 」 
+  ![Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250609 -「 Hello from the other side 」 
   ![Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250608 -「 Taking the high road 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Break for joy](https://bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250603 -「 Flower power 」 
   ![Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250602 -「 Under the sea 」 
-  ![Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
