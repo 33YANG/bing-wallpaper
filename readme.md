@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250612 -「 A tidal ballet 」 
+  ![A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250611 -「 A river of grass 」 
   ![A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250610 -「 Explore King's Landing 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250605 -「 Crisp blues, sharp views 」 
   ![Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250604 -「 Break for joy 」 
-  ![Break for joy](https://bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
