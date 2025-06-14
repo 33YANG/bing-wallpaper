@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250614 -「 The ocean's hidden heartbeat 」 
+  ![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250613 -「 Stars, stone, and solitude 」 
   ![Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250612 -「 A tidal ballet 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250607 -「 The day the tide turned 」 
   ![The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250606 -「 Recycling never looked so good 」 
-  ![Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
