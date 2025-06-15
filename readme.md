@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250615 -「 Waving with pride 」 
+  ![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250614 -「 The ocean's hidden heartbeat 」 
   ![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250613 -「 Stars, stone, and solitude 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250608 -「 Taking the high road 」 
   ![Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250607 -「 The day the tide turned 」 
-  ![The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
