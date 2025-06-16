@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250616 -「 Feathered father figure 」 
+  ![Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250615 -「 Waving with pride 」 
   ![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250614 -「 The ocean's hidden heartbeat 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250609 -「 Hello from the other side 」 
   ![Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250608 -「 Taking the high road 」 
-  ![Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
