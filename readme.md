@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250620 -「 Celebrating freedom and resilience 」 
+  ![Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250619 -「 Let the pollinating games begin! 」 
   ![Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250618 -「 Coastal quiet, untamed life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250613 -「 Stars, stone, and solitude 」 
   ![Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250612 -「 A tidal ballet 」 
-  ![A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
