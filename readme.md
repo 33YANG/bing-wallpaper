@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250621 -「 All set for sunset 」 
+  ![All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250620 -「 Celebrating freedom and resilience 」 
   ![Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250619 -「 Let the pollinating games begin! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250614 -「 The ocean's hidden heartbeat 」 
   ![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250613 -「 Stars, stone, and solitude 」 
-  ![Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
