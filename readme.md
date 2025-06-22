@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250622 -「 Spot the spots 」 
+  ![Spot the spots](https://bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250621 -「 All set for sunset 」 
   ![All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250620 -「 Celebrating freedom and resilience 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250615 -「 Waving with pride 」 
   ![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250614 -「 The ocean's hidden heartbeat 」 
-  ![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
