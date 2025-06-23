@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250623 -「 Jungle all the way 」 
+  ![Jungle all the way](https://bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250622 -「 Spot the spots 」 
   ![Spot the spots](https://bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250621 -「 All set for sunset 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250616 -「 Feathered father figure 」 
   ![Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250615 -「 Waving with pride 」 
-  ![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
