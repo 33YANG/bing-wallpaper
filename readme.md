@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250625 -「 Nature took its time 」 
+  ![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250624 -「 From ruins to resilience 」 
   ![From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250623 -「 Jungle all the way 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250618 -「 Coastal quiet, untamed life 」 
   ![Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250617 -「 Ancient swimmers, modern struggles 」 
-  ![Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
