@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250626 -「 Tor and tunes: Glastonbury begins 」 
+  ![Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250625 -「 Nature took its time 」 
   ![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250624 -「 From ruins to resilience 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250619 -「 Let the pollinating games begin! 」 
   ![Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250618 -「 Coastal quiet, untamed life 」 
-  ![Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
