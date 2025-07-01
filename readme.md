@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250701 -「 Rock-solid defense 」 
+  ![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250630 -「 Where history gets spicy 」 
   ![Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250629 -「 Flying the flag for Pride 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250624 -「 From ruins to resilience 」 
   ![From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250623 -「 Jungle all the way 」 
-  ![Jungle all the way](https://bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
