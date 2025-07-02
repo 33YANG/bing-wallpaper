@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250702 -「 Canada turns 158 」 
+  ![Canada turns 158](https://bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250701 -「 Rock-solid defense 」 
   ![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250630 -「 Where history gets spicy 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250625 -「 Nature took its time 」 
   ![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250624 -「 From ruins to resilience 」 
-  ![From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
