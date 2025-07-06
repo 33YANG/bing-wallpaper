@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250706 -「 Pedaling through history 」 
+  ![Pedaling through history](https://bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250705 -「 Sparks over Seattle 」 
   ![Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250704 -「 The clear embrace of Rainbow River 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250629 -「 Flying the flag for Pride 」 
   ![Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250628 -「 A splendid creature 」 
-  ![A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
