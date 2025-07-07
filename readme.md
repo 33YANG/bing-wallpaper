@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250707 -「 Sands of time 」 
+  ![Sands of time](https://bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250706 -「 Pedaling through history 」 
   ![Pedaling through history](https://bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250705 -「 Sparks over Seattle 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250630 -「 Where history gets spicy 」 
   ![Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250629 -「 Flying the flag for Pride 」 
-  ![Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
