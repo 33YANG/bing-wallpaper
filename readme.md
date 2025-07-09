@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250709 -「 Beauty with an edge 」 
+  ![Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250708 -「 Flash, splash, then snack 」 
   ![Flash, splash, then snack](https://bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250707 -「 Sands of time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250702 -「 Canada turns 158 」 
   ![Canada turns 158](https://bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250701 -「 Rock-solid defense 」 
-  ![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
