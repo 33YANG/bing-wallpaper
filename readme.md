@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250711 -「 To the waves of freedom 」 
+  ![To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250710 -「 The rise of a republic 」 
   ![The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250709 -「 Beauty with an edge 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250704 -「 The clear embrace of Rainbow River 」 
   ![The clear embrace of Rainbow River](https://bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250703 -「 In the bubble-tip zone 」 
-  ![In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
