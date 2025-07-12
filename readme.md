@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250712 -「 Counting us all in 」 
+  ![Counting us all in](https://bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250711 -「 To the waves of freedom 」 
   ![To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250710 -「 The rise of a republic 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pedaling through history](https://bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250705 -「 Sparks over Seattle 」 
   ![Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250704 -「 The clear embrace of Rainbow River 」 
-  ![The clear embrace of Rainbow River](https://bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
