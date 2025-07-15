@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250715 -「 Chasing waves 」 
+  ![Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250714 -「 Rockin' those layers 」 
   ![Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250713 -「 Following mom's lead 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250708 -「 Flash, splash, then snack 」 
   ![Flash, splash, then snack](https://bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250707 -「 Sands of time 」 
-  ![Sands of time](https://bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
