@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250718 -「 Fragrant horizons 」 
+  ![Fragrant horizons](https://bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250717 -「 Illuminated by Isis 」 
   ![Illuminated by Isis](https://bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250716 -「 Timeless glow 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Counting us all in](https://bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250711 -「 To the waves of freedom 」 
   ![To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250710 -「 The rise of a republic 」 
-  ![The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
