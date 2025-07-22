@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250722 -「 Rainforests of the sea 」 
+  ![Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250721 -「 Dancing in the moonlight 」 
   ![Dancing in the moonlight](https://bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250720 -「 Moth-ers day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Timeless glow](https://bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250715 -「 Chasing waves 」 
   ![Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250714 -「 Rockin' those layers 」 
-  ![Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
