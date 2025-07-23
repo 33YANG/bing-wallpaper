@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250723 -「 Epic sunsets and ancient secrets 」 
+  ![Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250722 -「 Rainforests of the sea 」 
   ![Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250721 -「 Dancing in the moonlight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Illuminated by Isis](https://bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250716 -「 Timeless glow 」 
   ![Timeless glow](https://bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250715 -「 Chasing waves 」 
-  ![Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
