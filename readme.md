@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250724 -「 A country within a city 」 
+  ![A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250723 -「 Epic sunsets and ancient secrets 」 
   ![Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250722 -「 Rainforests of the sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fragrant horizons](https://bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250717 -「 Illuminated by Isis 」 
   ![Illuminated by Isis](https://bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250716 -「 Timeless glow 」 
-  ![Timeless glow](https://bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
