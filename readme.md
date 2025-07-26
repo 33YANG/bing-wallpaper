@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250726 -「 Canvas of life 」 
+  ![Canvas of life](https://bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250725 -「 Sticking together 」 
   ![Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250724 -「 A country within a city 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Moth-ers day](https://bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250719 -「 Gulf Islands glow 」 
   ![Gulf Islands glow](https://bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250718 -「 Fragrant horizons 」 
-  ![Fragrant horizons](https://bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
