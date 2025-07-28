@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250728 -「 Shimmer in sync 」 
+  ![Shimmer in sync](https://bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250727 -「 Sentinels of the tide 」 
   ![Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250726 -「 Canvas of life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250721 -「 Dancing in the moonlight 」 
   ![Dancing in the moonlight](https://bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250720 -「 Moth-ers day 」 
-  ![Moth-ers day](https://bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
