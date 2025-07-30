@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250730 -「 The jungle queen 」 
+  ![The jungle queen](https://bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250729 -「 A steppe ahead 」 
   ![A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250728 -「 Shimmer in sync 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250723 -「 Epic sunsets and ancient secrets 」 
   ![Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250722 -「 Rainforests of the sea 」 
-  ![Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
