@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250802 -「 Expect the unexpected 」 
+  ![Expect the unexpected](https://bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250801 -「 Madagascar native 」 
   ![Madagascar native](https://bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250731 -「 Friendship without borders 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250726 -「 Canvas of life 」 
   ![Canvas of life](https://bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250725 -「 Sticking together 」 
-  ![Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
