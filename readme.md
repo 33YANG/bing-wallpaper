@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250812 -「 Postcard from the peaks 」 
+  ![Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250811 -「 Roar for a cause 」 
   ![Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250810 -「 Honoring Indigenous voices 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250805 -「 Whooo's home? 」 
   ![Whooo's home?](https://bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250804 -「 Hello yellow! 」 
-  ![Hello yellow!](https://bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
