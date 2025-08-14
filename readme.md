@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250814 -「 Earth's open secret 」 
+  ![Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250813 -「 Wild, wise, and wonderful 」 
   ![Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250812 -「 Postcard from the peaks 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Code of the coastline](https://bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250807 -「 Off the grid 」 
   ![Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250806 -「 Tide and seek 」 
-  ![Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
