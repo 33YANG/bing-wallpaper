@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250815 -「 Taking it from the top 」 
+  ![Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250814 -「 Earth's open secret 」 
   ![Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250813 -「 Wild, wise, and wonderful 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All for falls and falls for all](https://bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250808 -「 Code of the coastline 」 
   ![Code of the coastline](https://bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250807 -「 Off the grid 」 
-  ![Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
