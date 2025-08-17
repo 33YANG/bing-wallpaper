@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250817 -「 Bee the change 」 
+  ![Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250816 -「 Winging it underwater 」 
   ![Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250815 -「 Taking it from the top 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250810 -「 Honoring Indigenous voices 」 
   ![Honoring Indigenous voices](https://bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250809 -「 All for falls and falls for all 」 
-  ![All for falls and falls for all](https://bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
