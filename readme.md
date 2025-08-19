@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250819 -「 Stream a little dream 」 
+  ![Stream a little dream](https://bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250818 -「 One tall way to spot the sea 」 
   ![One tall way to spot the sea](https://bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250817 -「 Bee the change 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250812 -「 Postcard from the peaks 」 
   ![Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250811 -「 Roar for a cause 」 
-  ![Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
