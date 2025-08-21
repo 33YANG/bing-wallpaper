@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250821 -「 Built to last 」 
+  ![Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250820 -「 Powered by the sun 」 
   ![Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250819 -「 Stream a little dream 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250814 -「 Earth's open secret 」 
   ![Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250813 -「 Wild, wise, and wonderful 」 
-  ![Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
