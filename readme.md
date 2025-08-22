@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250822 -「 Perched and poised 」 
+  ![Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250821 -「 Built to last 」 
   ![Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250820 -「 Powered by the sun 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250815 -「 Taking it from the top 」 
   ![Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250814 -「 Earth's open secret 」 
-  ![Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
