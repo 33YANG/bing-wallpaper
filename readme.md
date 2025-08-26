@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250826 -「 From volcanic roots to river routes 」 
+  ![From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250825 -「 'Fallow' us 」 
   !['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250824 -「 Gothic majesty 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250819 -「 Stream a little dream 」 
   ![Stream a little dream](https://bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250818 -「 One tall way to spot the sea 」 
-  ![One tall way to spot the sea](https://bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
