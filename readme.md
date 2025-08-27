@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250827 -「 A 'trulli' remarkable town 」 
+  ![A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250826 -「 From volcanic roots to river routes 」 
   ![From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250825 -「 'Fallow' us 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250820 -「 Powered by the sun 」 
   ![Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250819 -「 Stream a little dream 」 
-  ![Stream a little dream](https://bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
