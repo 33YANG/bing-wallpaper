@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250829 -「 This egret has no regrets 」 
+  ![This egret has no regrets](https://bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250828 -「 A lake above the ocean 」 
   ![A lake above the ocean](https://bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250827 -「 A 'trulli' remarkable town 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's green quilt](https://bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250822 -「 Perched and poised 」 
   ![Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250821 -「 Built to last 」 
-  ![Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
