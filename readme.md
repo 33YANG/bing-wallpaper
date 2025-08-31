@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250831 -「 Finned and fabulous 」 
+  ![Finned and fabulous](https://bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250830 -「 The heart of the grid 」 
   ![The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250829 -「 This egret has no regrets 」 
@@ -31,5 +33,3 @@ Main functions:
   !['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250824 -「 Gothic majesty 」 
   ![Gothic majesty](https://bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250823 -「 Nature's green quilt 」 
-  ![Nature's green quilt](https://bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
