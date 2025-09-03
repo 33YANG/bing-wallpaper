@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250903 -「 Ghosts of Deadvlei 」 
+  ![Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250902 -「 Stitched into history 」 
   ![Stitched into history](https://bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250901 -「 Painted clouds, still cliffs 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A lake above the ocean](https://bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250827 -「 A 'trulli' remarkable town 」 
   ![A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250826 -「 From volcanic roots to river routes 」 
-  ![From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
