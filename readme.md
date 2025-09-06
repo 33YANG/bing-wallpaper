@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250906 -「 A pier-fect evening 」 
+  ![A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250905 -「 Bear with us—it's National Wildlife Day 」 
   ![Bear with us—it's National Wildlife Day](https://bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250904 -「 Protected stillness 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Finned and fabulous](https://bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250830 -「 The heart of the grid 」 
   ![The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250829 -「 This egret has no regrets 」 
-  ![This egret has no regrets](https://bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
