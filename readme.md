@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250907 -「 A hum-dinger of a day 」 
+  ![A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250906 -「 A pier-fect evening 」 
   ![A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250905 -「 Bear with us—it's National Wildlife Day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250831 -「 Finned and fabulous 」 
   ![Finned and fabulous](https://bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250830 -「 The heart of the grid 」 
-  ![The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
