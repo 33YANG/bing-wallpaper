@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250908 -「 Pastel dreams and still waters 」 
+  ![Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250907 -「 A hum-dinger of a day 」 
   ![A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250906 -「 A pier-fect evening 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stitched into history](https://bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250901 -「 Painted clouds, still cliffs 」 
   ![Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250831 -「 Finned and fabulous 」 
-  ![Finned and fabulous](https://bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
