@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250911 -「 'Hay' there! 」 
+  !['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250910 -「 Twig by twig, she prepares 」 
   ![Twig by twig, she prepares](https://bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250909 -「 Booked for the day 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bear with us—it's National Wildlife Day](https://bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250904 -「 Protected stillness 」 
   ![Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250903 -「 Ghosts of Deadvlei 」 
-  ![Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
