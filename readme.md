@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250915 -「 Moss and mist 」 
+  ![Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250914 -「 Rugged and wild 」 
   ![Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250913 -「 Swim wild, swim free 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Booked for the day](https://bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250908 -「 Pastel dreams and still waters 」 
   ![Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250907 -「 A hum-dinger of a day 」 
-  ![A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
