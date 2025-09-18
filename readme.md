@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250918 -「 A crown in the making 」 
+  ![A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250917 -「 A stratospheric success 」 
   ![A stratospheric success](https://bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250916 -「 Vibrancy in every brick 」 
@@ -31,5 +33,3 @@ Main functions:
   ![In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250911 -「 'Hay' there! 」 
   !['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250910 -「 Twig by twig, she prepares 」 
-  ![Twig by twig, she prepares](https://bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
