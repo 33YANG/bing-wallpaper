@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250919 -「 Ireland's western edge 」 
+  ![Ireland's western edge](https://bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250918 -「 A crown in the making 」 
   ![A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250917 -「 A stratospheric success 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250912 -「 In unity and remembrance 」 
   ![In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250911 -「 'Hay' there! 」 
-  !['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
