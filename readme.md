@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250920 -「 A thousand reasons to visit 」 
+  ![A thousand reasons to visit](https://bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250919 -「 Ireland's western edge 」 
   ![Ireland's western edge](https://bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250918 -「 A crown in the making 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250913 -「 Swim wild, swim free 」 
   ![Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250912 -「 In unity and remembrance 」 
-  ![In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
