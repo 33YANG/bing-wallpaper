@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250921 -「 A tale of brews and views 」 
+  ![A tale of brews and views](https://bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250920 -「 A thousand reasons to visit 」 
   ![A thousand reasons to visit](https://bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250919 -「 Ireland's western edge 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250914 -「 Rugged and wild 」 
   ![Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250913 -「 Swim wild, swim free 」 
-  ![Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
