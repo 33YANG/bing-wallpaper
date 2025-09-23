@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250923 -「 Midway to winter 」 
+  ![Midway to winter](https://bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250922 -「 Otterly cool 」 
   ![Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250921 -「 A tale of brews and views 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A stratospheric success](https://bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250916 -「 Vibrancy in every brick 」 
   ![Vibrancy in every brick](https://bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250915 -「 Moss and mist 」 
-  ![Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
