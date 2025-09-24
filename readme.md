@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250924 -「 Beak-side story 」 
+  ![Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250923 -「 Midway to winter 」 
   ![Midway to winter](https://bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250922 -「 Otterly cool 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250917 -「 A stratospheric success 」 
   ![A stratospheric success](https://bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250916 -「 Vibrancy in every brick 」 
-  ![Vibrancy in every brick](https://bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
