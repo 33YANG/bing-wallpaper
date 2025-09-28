@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250928 -「 Weeding and wishing 」 
+  ![Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250927 -「 The fast and the furriest 」 
   ![The fast and the furriest](https://bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250926 -「 Carved stones of courage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250921 -「 A tale of brews and views 」 
   ![A tale of brews and views](https://bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250920 -「 A thousand reasons to visit 」 
-  ![A thousand reasons to visit](https://bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
