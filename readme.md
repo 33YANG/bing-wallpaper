@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20250930 -「 Rainbow rides and quiet vibes 」 
+  ![Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250929 -「 A taste of Pienza 」 
   ![A taste of Pienza](https://bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250928 -「 Weeding and wishing 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250923 -「 Midway to winter 」 
   ![Midway to winter](https://bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250922 -「 Otterly cool 」 
-  ![Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
