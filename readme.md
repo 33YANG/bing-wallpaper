@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251002 -「 Echoes from the Clark Range 」 
+  ![Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251001 -「 Clinging to what matters 」 
   ![Clinging to what matters](https://bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250930 -「 Rainbow rides and quiet vibes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Carved stones of courage](https://bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250925 -「 The lonely giant 」 
   ![The lonely giant](https://bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250924 -「 Beak-side story 」 
-  ![Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
