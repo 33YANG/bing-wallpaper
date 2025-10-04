@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251004 -「 Mist-bound reveries 」 
+  ![Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251003 -「 Wild by law 」 
   ![Wild by law](https://bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251002 -「 Echoes from the Clark Range 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20250927 -「 The fast and the furriest 」 
   ![The fast and the furriest](https://bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20250926 -「 Carved stones of courage 」 
-  ![Carved stones of courage](https://bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
