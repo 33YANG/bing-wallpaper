@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251009 -「 Camouflage in motion 」 
+  ![Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251008 -「 Golden fall glow 」 
   ![Golden fall glow](https://bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251007 -「 To the moon and back 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wild by law](https://bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251002 -「 Echoes from the Clark Range 」 
   ![Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251001 -「 Clinging to what matters 」 
-  ![Clinging to what matters](https://bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
