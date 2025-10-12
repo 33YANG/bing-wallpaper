@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251012 -「 Nest stop, Mexico! 」 
+  ![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251011 -「 A reef of reflection 」 
   ![A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251010 -「 Universe in bloom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251005 -「 Mission: Possible 」 
   ![Mission: Possible](https://bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251004 -「 Mist-bound reveries 」 
-  ![Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
