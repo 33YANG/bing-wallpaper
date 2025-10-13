@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251013 -「 Falling for Saranac 」 
+  ![Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251012 -「 Nest stop, Mexico! 」 
   ![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251011 -「 A reef of reflection 」 
@@ -31,5 +33,3 @@ Main functions:
   ![To the moon and back](https://bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251006 -「 Celebrating our teachers 」 
   ![Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251005 -「 Mission: Possible 」 
-  ![Mission: Possible](https://bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
