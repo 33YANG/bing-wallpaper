@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251014 -「 Flames of the past 」 
+  ![Flames of the past](https://bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251013 -「 Falling for Saranac 」 
   ![Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251012 -「 Nest stop, Mexico! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Golden fall glow](https://bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251007 -「 To the moon and back 」 
   ![To the moon and back](https://bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251006 -「 Celebrating our teachers 」 
-  ![Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
