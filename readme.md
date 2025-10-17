@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251017 -「 The phantom cat 」 
+  ![The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251016 -「 The spore the merrier 」 
   ![The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251015 -「 Dreams painted in blue and white 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251010 -「 Universe in bloom 」 
   ![Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251009 -「 Camouflage in motion 」 
-  ![Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
