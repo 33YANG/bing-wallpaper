@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251018 -「 Falling for Michigan 」 
+  ![Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251017 -「 The phantom cat 」 
   ![The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251016 -「 The spore the merrier 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251011 -「 A reef of reflection 」 
   ![A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251010 -「 Universe in bloom 」 
-  ![Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
