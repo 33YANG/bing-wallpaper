@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251019 -「 The hill that remembers 」 
+  ![The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251018 -「 Falling for Michigan 」 
   ![Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251017 -「 The phantom cat 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251012 -「 Nest stop, Mexico! 」 
   ![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251011 -「 A reef of reflection 」 
-  ![A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
