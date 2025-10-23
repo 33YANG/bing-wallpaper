@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251023 -「 Set in stone 」 
+  ![Set in stone](https://bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251022 -「 Glowing traditions 」 
   ![Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251021 -「 Life in the slow lane 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251016 -「 The spore the merrier 」 
   ![The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251015 -「 Dreams painted in blue and white 」 
-  ![Dreams painted in blue and white](https://bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
