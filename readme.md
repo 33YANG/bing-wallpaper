@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251025 -「 From 'Grey Ghost' to ghost stories 」 
+  ![From 'Grey Ghost' to ghost stories](https://bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251024 -「 Snow much love 」 
   ![Snow much love](https://bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251023 -「 Set in stone 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251018 -「 Falling for Michigan 」 
   ![Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251017 -「 The phantom cat 」 
-  ![The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
