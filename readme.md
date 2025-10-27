@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251027 -「 Oh my gourd, it's today! 」 
+  ![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251026 -「 Finland's living peatland 」 
   ![Finland's living peatland](https://bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251025 -「 From 'Grey Ghost' to ghost stories 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251020 -「 Sweet on science 」 
   ![Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251019 -「 The hill that remembers 」 
-  ![The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
