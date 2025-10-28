@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251028 -「 Bigger, bolder, beakier 」 
+  ![Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251027 -「 Oh my gourd, it's today! 」 
   ![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251026 -「 Finland's living peatland 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251021 -「 Life in the slow lane 」 
   ![Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251020 -「 Sweet on science 」 
-  ![Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
