@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251030 -「 Rooted in time 」 
+  ![Rooted in time](https://bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251029 -「 A gateway to stone wonders 」 
   ![A gateway to stone wonders](https://bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251028 -「 Bigger, bolder, beakier 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Snow much love](https://bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251023 -「 Set in stone 」 
   ![Set in stone](https://bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251022 -「 Glowing traditions 」 
-  ![Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
