@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251102 -「 Herds of heritage 」 
+  ![Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251101 -「 Under the Halloween spell 」 
   ![Under the Halloween spell](https://bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251031 -「 Hooves, hues, and heritage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251026 -「 Finland's living peatland 」 
   ![Finland's living peatland](https://bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251025 -「 From 'Grey Ghost' to ghost stories 」 
-  ![From 'Grey Ghost' to ghost stories](https://bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
