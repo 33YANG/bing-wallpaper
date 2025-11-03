@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251103 -「 Where bamboo breathes and maples blaze 」 
+  ![Where bamboo breathes and maples blaze](https://bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251102 -「 Herds of heritage 」 
   ![Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251101 -「 Under the Halloween spell 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251027 -「 Oh my gourd, it's today! 」 
   ![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251026 -「 Finland's living peatland 」 
-  ![Finland's living peatland](https://bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
