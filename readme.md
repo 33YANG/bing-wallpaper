@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251105 -「 Mind the gap—this one opens 」 
+  ![Mind the gap—this one opens](https://bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251104 -「 Just jellin' 」 
   ![Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251103 -「 Where bamboo breathes and maples blaze 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rooted in time](https://bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251029 -「 A gateway to stone wonders 」 
   ![A gateway to stone wonders](https://bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251028 -「 Bigger, bolder, beakier 」 
-  ![Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
