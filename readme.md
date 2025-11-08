@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251108 -「 Week of the white bear 」 
+  ![Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251107 -「 Sky full of wishes 」 
   ![Sky full of wishes](https://bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251106 -「 Orange you glad it's fall? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251101 -「 Under the Halloween spell 」 
   ![Under the Halloween spell](https://bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251031 -「 Hooves, hues, and heritage 」 
-  ![Hooves, hues, and heritage](https://bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
