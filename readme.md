@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251110 -「 Once upon a star 」 
+  ![Once upon a star](https://bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251109 -「 Rock stars of Bandon 」 
   ![Rock stars of Bandon](https://bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251108 -「 Week of the white bear 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251103 -「 Where bamboo breathes and maples blaze 」 
   ![Where bamboo breathes and maples blaze](https://bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251102 -「 Herds of heritage 」 
-  ![Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
