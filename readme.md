@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251111 -「 Life hidden beneath the prairie 」 
+  ![Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251110 -「 Once upon a star 」 
   ![Once upon a star](https://bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251109 -「 Rock stars of Bandon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Mind the gap—this one opens](https://bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251104 -「 Just jellin' 」 
   ![Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251103 -「 Where bamboo breathes and maples blaze 」 
-  ![Where bamboo breathes and maples blaze](https://bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
