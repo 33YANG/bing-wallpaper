@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251112 -「 Honoring their service 」 
+  ![Honoring their service](https://bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251111 -「 Life hidden beneath the prairie 」 
   ![Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251110 -「 Once upon a star 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251105 -「 Mind the gap—this one opens 」 
   ![Mind the gap—this one opens](https://bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251104 -「 Just jellin' 」 
-  ![Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
