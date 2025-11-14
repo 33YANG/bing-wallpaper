@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251114 -「 Quivering under starlight 」 
+  ![Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251113 -「 All roads lead to Rome 」 
   ![All roads lead to Rome](https://bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251112 -「 Honoring their service 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251107 -「 Sky full of wishes 」 
   ![Sky full of wishes](https://bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251106 -「 Orange you glad it's fall? 」 
-  ![Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
