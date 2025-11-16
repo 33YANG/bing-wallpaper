@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251116 -「 Bend it like Nikko 」 
+  ![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251115 -「 A slow reminder for a fast world 」 
   ![A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251114 -「 Quivering under starlight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Once upon a star](https://bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251109 -「 Rock stars of Bandon 」 
   ![Rock stars of Bandon](https://bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251108 -「 Week of the white bear 」 
-  ![Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
