@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251119 -「 Fall's feathered headliner 」 
+  ![Fall's feathered headliner](https://bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251118 -「 The trails' call 」 
   ![The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251117 -「 Passages with a past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All roads lead to Rome](https://bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251112 -「 Honoring their service 」 
   ![Honoring their service](https://bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251111 -「 Life hidden beneath the prairie 」 
-  ![Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
