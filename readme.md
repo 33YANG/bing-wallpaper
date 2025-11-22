@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251122 -「 Sealed with a hello 」 
+  ![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251121 -「 Sketched into history 」 
   ![Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251120 -「 Stone, symbol, and a nation's story 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251115 -「 A slow reminder for a fast world 」 
   ![A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251114 -「 Quivering under starlight 」 
-  ![Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
