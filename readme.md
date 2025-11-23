@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251123 -「 The guardian of the waters 」 
+  ![The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251122 -「 Sealed with a hello 」 
   ![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251121 -「 Sketched into history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251116 -「 Bend it like Nikko 」 
   ![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251115 -「 A slow reminder for a fast world 」 
-  ![A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
