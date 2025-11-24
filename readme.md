@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251124 -「 Nature's secret code 」 
+  ![Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251123 -「 The guardian of the waters 」 
   ![The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251122 -「 Sealed with a hello 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251117 -「 Passages with a past 」 
   ![Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251116 -「 Bend it like Nikko 」 
-  ![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
