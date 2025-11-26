@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251126 -「 Love, luck, and loose change 」 
+  ![Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251125 -「 Secrets in stone 」 
   ![Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251124 -「 Nature's secret code 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stone, symbol, and a nation's story](https://bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251119 -「 Fall's feathered headliner 」 
   ![Fall's feathered headliner](https://bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251118 -「 The trails' call 」 
-  ![The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
