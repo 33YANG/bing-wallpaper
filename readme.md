@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251128 -「 The echoes of Plymouth 」 
+  ![The echoes of Plymouth](https://bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251127 -「 'Leaf' it to history 」 
   !['Leaf' it to history](https://bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251126 -「 Love, luck, and loose change 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251121 -「 Sketched into history 」 
   ![Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251120 -「 Stone, symbol, and a nation's story 」 
-  ![Stone, symbol, and a nation's story](https://bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
