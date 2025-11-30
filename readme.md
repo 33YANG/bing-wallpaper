@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251130 -「 Oh deer, it's cold! 」 
+  ![Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251129 -「 Wear your heritage 」 
   ![Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251128 -「 The echoes of Plymouth 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251123 -「 The guardian of the waters 」 
   ![The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251122 -「 Sealed with a hello 」 
-  ![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
