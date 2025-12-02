@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251202 -「 Where ice holds its breath 」 
+  ![Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251201 -「 Twinkle all the way 」 
   ![Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251130 -「 Oh deer, it's cold! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251125 -「 Secrets in stone 」 
   ![Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251124 -「 Nature's secret code 」 
-  ![Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
