@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251205 -「 Sprint for survival 」 
+  ![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251204 -「 Dawn of the cranes 」 
   ![Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251203 -「 A view that speaks volumes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251128 -「 The echoes of Plymouth 」 
   ![The echoes of Plymouth](https://bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251127 -「 'Leaf' it to history 」 
-  !['Leaf' it to history](https://bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
