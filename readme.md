@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251207 -「 Florida's living wetlands 」 
+  ![Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251206 -「 The city that mapped the stars 」 
   ![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251205 -「 Sprint for survival 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251130 -「 Oh deer, it's cold! 」 
   ![Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251129 -「 Wear your heritage 」 
-  ![Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
