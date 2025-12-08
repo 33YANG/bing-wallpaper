@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251208 -「 Remembering Pearl Harbor 」 
+  ![Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251207 -「 Florida's living wetlands 」 
   ![Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251206 -「 The city that mapped the stars 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251201 -「 Twinkle all the way 」 
   ![Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251130 -「 Oh deer, it's cold! 」 
-  ![Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
