@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251211 -「 Where cultures converge 」 
+  ![Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251210 -「 Say 'cheese'… or grass 」 
   ![Say 'cheese'… or grass](https://bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251209 -「 All is calm, all is bright 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251204 -「 Dawn of the cranes 」 
   ![Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251203 -「 A view that speaks volumes 」 
-  ![A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
