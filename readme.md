@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251212 -「 Where the sky meets Earth 」 
+  ![Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251211 -「 Where cultures converge 」 
   ![Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251210 -「 Say 'cheese'… or grass 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251205 -「 Sprint for survival 」 
   ![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251204 -「 Dawn of the cranes 」 
-  ![Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
