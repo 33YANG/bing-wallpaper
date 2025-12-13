@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251213 -「 The plant that paints the holidays red 」 
+  ![The plant that paints the holidays red](https://bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251212 -「 Where the sky meets Earth 」 
   ![Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251211 -「 Where cultures converge 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251206 -「 The city that mapped the stars 」 
   ![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251205 -「 Sprint for survival 」 
-  ![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
