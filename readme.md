@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251214 -「 Frozen reflections 」 
+  ![Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251213 -「 The plant that paints the holidays red 」 
   ![The plant that paints the holidays red](https://bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251212 -「 Where the sky meets Earth 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251207 -「 Florida's living wetlands 」 
   ![Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251206 -「 The city that mapped the stars 」 
-  ![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
