@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251215 -「 The great holiday bird-off 」 
+  ![The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251214 -「 Frozen reflections 」 
   ![Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251213 -「 The plant that paints the holidays red 」 
@@ -31,5 +33,3 @@ Main functions:
   ![All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251208 -「 Remembering Pearl Harbor 」 
   ![Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251207 -「 Florida's living wetlands 」 
-  ![Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
