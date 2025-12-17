@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251217 -「 Tiny hats, big spirits 」 
+  ![Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251216 -「 Still waters, bright lights 」 
   ![Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251215 -「 The great holiday bird-off 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251210 -「 Say 'cheese'… or grass 」 
   ![Say 'cheese'… or grass](https://bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251209 -「 All is calm, all is bright 」 
-  ![All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
