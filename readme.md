@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251218 -「 Fur, frost, and feast 」 
+  ![Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251217 -「 Tiny hats, big spirits 」 
   ![Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251216 -「 Still waters, bright lights 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251211 -「 Where cultures converge 」 
   ![Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251210 -「 Say 'cheese'… or grass 」 
-  ![Say 'cheese'… or grass](https://bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
