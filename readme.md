@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251222 -「 Birth of the new sun 」 
+  ![Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251221 -「 Twinkle, twinkle, paper stars 」 
   ![Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251220 -「 High mountains, deep history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251215 -「 The great holiday bird-off 」 
   ![The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251214 -「 Frozen reflections 」 
-  ![Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
