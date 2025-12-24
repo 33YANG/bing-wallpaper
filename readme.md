@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251224 -「 Where holiday magic runs on hooves 」 
+  ![Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251223 -「 From Hoffmann's pages to global stages 」 
   ![From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251222 -「 Birth of the new sun 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251217 -「 Tiny hats, big spirits 」 
   ![Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251216 -「 Still waters, bright lights 」 
-  ![Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
