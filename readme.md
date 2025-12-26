@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251226 -「 Miniature worlds, infinite wonder 」 
+  ![Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251225 -「 Traditions that travel 」 
   ![Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251224 -「 Where holiday magic runs on hooves 」 
@@ -31,5 +33,3 @@ Main functions:
   ![High mountains, deep history](https://bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251219 -「 Layers of time in Utah 」 
   ![Layers of time in Utah](https://bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251218 -「 Fur, frost, and feast 」 
-  ![Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
