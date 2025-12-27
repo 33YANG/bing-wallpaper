@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251227 -「 Unboxed traditions 」 
+  ![Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251226 -「 Miniature worlds, infinite wonder 」 
   ![Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251225 -「 Traditions that travel 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251220 -「 High mountains, deep history 」 
   ![High mountains, deep history](https://bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251219 -「 Layers of time in Utah 」 
-  ![Layers of time in Utah](https://bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
