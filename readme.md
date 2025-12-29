@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251229 -「 What remains wild 」 
+  ![What remains wild](https://bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251228 -「 Shards of winter 」 
   ![Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251227 -「 Unboxed traditions 」 
@@ -31,5 +33,3 @@ Main functions:
   ![From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251222 -「 Birth of the new sun 」 
   ![Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251221 -「 Twinkle, twinkle, paper stars 」 
-  ![Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
