@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20251231 -「 Whoop, there they fly 」 
+  ![Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251230 -「 The church that outlived a city 」 
   ![The church that outlived a city](https://bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251229 -「 What remains wild 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251224 -「 Where holiday magic runs on hooves 」 
   ![Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251223 -「 From Hoffmann's pages to global stages 」 
-  ![From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
