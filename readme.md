@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260103 -「 The soul of Venice 」 
+  ![The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260102 -「 Stretch into the New Year 」 
   ![Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260101 -「 Where Berlin bridges the New Year 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251227 -「 Unboxed traditions 」 
   ![Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251226 -「 Miniature worlds, infinite wonder 」 
-  ![Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
