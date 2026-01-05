@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260105 -「 A royal view 」 
+  ![A royal view](https://bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260104 -「 The steps before the saga 」 
   ![The steps before the saga](https://bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260103 -「 The soul of Venice 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The church that outlived a city](https://bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20251229 -「 What remains wild 」 
   ![What remains wild](https://bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251228 -「 Shards of winter 」 
-  ![Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
