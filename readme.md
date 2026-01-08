@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260108 -「 Rock legends 」 
+  ![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260107 -「 Chillin' in Nuuk 」 
   ![Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260106 -「 Herd on high alert 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260101 -「 Where Berlin bridges the New Year 」 
   ![Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20251231 -「 Whoop, there they fly 」 
-  ![Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
