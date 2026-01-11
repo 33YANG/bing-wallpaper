@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260111 -「 Pure Swiss magic 」 
+  ![Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260110 -「 Where time grows tall 」 
   ![Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260109 -「 Rust meets rush 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A royal view](https://bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260104 -「 The steps before the saga 」 
   ![The steps before the saga](https://bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260103 -「 The soul of Venice 」 
-  ![The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
