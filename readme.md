@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260114 -「 Apple rhymes and old times 」 
+  ![Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260113 -「 Otter-ly Estonia 」 
   ![Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260112 -「 From resistance to radiance 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260107 -「 Chillin' in Nuuk 」 
   ![Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260106 -「 Herd on high alert 」 
-  ![Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
