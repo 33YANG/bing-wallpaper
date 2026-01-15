@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260115 -「 Ascending history at Palamidi 」 
+  ![Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260114 -「 Apple rhymes and old times 」 
   ![Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260113 -「 Otter-ly Estonia 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260108 -「 Rock legends 」 
   ![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260107 -「 Chillin' in Nuuk 」 
-  ![Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
