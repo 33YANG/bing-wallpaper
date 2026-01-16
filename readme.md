@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260116 -「 Tiny village, big views 」 
+  ![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260115 -「 Ascending history at Palamidi 」 
   ![Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260114 -「 Apple rhymes and old times 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260109 -「 Rust meets rush 」 
   ![Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260108 -「 Rock legends 」 
-  ![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
