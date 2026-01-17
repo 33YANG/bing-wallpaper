@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260117 -「 Eye see you 」 
+  ![Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260116 -「 Tiny village, big views 」 
   ![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260115 -「 Ascending history at Palamidi 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260110 -「 Where time grows tall 」 
   ![Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260109 -「 Rust meets rush 」 
-  ![Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
