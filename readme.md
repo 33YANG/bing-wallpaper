@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260122 -「 A flash of red in the winter white 」 
+  ![A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260121 -「 Life on the edge of the ice 」 
   ![Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260120 -「 Standing where hope rose 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260115 -「 Ascending history at Palamidi 」 
   ![Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260114 -「 Apple rhymes and old times 」 
-  ![Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
