@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260124 -「 Feasting through frost 」 
+  ![Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260123 -「 A Bohemian spa story 」 
   ![A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260122 -「 A flash of red in the winter white 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260117 -「 Eye see you 」 
   ![Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260116 -「 Tiny village, big views 」 
-  ![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
