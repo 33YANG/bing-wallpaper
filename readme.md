@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260127 -「 Bavaria’s gem 」 
+  ![Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260126 -「 Tradition burns bright 」 
   ![Tradition burns bright](https://bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260125 -「 A Swiss escape 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260120 -「 Standing where hope rose 」 
   ![Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260119 -「 A desert in disguise 」 
-  ![A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
