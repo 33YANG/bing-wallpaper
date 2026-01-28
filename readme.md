@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260128 -「 Feather forecast: pelicans ahead 」 
+  ![Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260127 -「 Bavaria’s gem 」 
   ![Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260126 -「 Tradition burns bright 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260121 -「 Life on the edge of the ice 」 
   ![Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260120 -「 Standing where hope rose 」 
-  ![Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
