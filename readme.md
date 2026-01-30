@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260130 -「 A tall story of Milwaukee 」 
+  ![A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260129 -「 Flow with it 」 
   ![Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260128 -「 Feather forecast: pelicans ahead 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260123 -「 A Bohemian spa story 」 
   ![A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260122 -「 A flash of red in the winter white 」 
-  ![A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
