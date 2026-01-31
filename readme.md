@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260131 -「 Where the sea makes way 」 
+  ![Where the sea makes way](https://bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260130 -「 A tall story of Milwaukee 」 
   ![A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260129 -「 Flow with it 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A Swiss escape](https://bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260124 -「 Feasting through frost 」 
   ![Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260123 -「 A Bohemian spa story 」 
-  ![A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
