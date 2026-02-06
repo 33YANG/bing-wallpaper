@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260206 -「 Stuck in a grid 」 
+  ![Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260205 -「 The face of change 」 
   ![The face of change](https://bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260204 -「 Tahoe serving views 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the sea makes way](https://bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260130 -「 A tall story of Milwaukee 」 
   ![A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260129 -「 Flow with it 」 
-  ![Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
