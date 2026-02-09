@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260209 -「 From quiet nights to adventurous days 」 
+  ![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260208 -「 Salt, sky, and the stillness between 」 
   ![Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260207 -「 Ra Gusela—peak of the Olympic season 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260202 -「 Celebrate. Reflect. Rise. 」 
   ![Celebrate. Reflect. Rise.](https://bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260201 -「 Love at first stripe 」 
-  ![Love at first stripe](https://bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
