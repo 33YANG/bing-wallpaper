@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260210 -「 Patterns in motion 」 
+  ![Patterns in motion](https://bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260209 -「 From quiet nights to adventurous days 」 
   ![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260208 -「 Salt, sky, and the stillness between 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tahoe serving views](https://bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260203 -「 A shadow's promise 」 
   ![A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260202 -「 Celebrate. Reflect. Rise. 」 
-  ![Celebrate. Reflect. Rise.](https://bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
