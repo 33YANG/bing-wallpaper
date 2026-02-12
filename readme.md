@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260212 -「 The valley of contrasts 」 
+  ![The valley of contrasts](https://bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260211 -「 Where the Sirens sing 」 
   ![Where the Sirens sing](https://bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260210 -「 Patterns in motion 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260205 -「 The face of change 」 
   ![The face of change](https://bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260204 -「 Tahoe serving views 」 
-  ![Tahoe serving views](https://bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
