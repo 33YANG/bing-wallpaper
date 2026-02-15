@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260215 -「 Love in bloom 」 
+  ![Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260214 -「 Built to bring closer 」 
   ![Built to bring closer](https://bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260213 -「 Evolution in focus 」 
@@ -31,5 +33,3 @@ Main functions:
   ![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260208 -「 Salt, sky, and the stillness between 」 
   ![Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260207 -「 Ra Gusela—peak of the Olympic season 」 
-  ![Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
