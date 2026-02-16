@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260216 -「 Songs beneath the waves 」 
+  ![Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260215 -「 Love in bloom 」 
   ![Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260214 -「 Built to bring closer 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Patterns in motion](https://bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260209 -「 From quiet nights to adventurous days 」 
   ![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260208 -「 Salt, sky, and the stillness between 」 
-  ![Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
