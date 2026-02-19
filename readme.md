@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260219 -「 Born to stay wild 」 
+  ![Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260218 -「 Fifteen days of light 」 
   ![Fifteen days of light](https://bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260217 -「 Legacies in view 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Evolution in focus](https://bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260212 -「 The valley of contrasts 」 
   ![The valley of contrasts](https://bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260211 -「 Where the Sirens sing 」 
-  ![Where the Sirens sing](https://bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
