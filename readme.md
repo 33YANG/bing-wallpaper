@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260222 -「 Whispers of winter 」 
+  ![Whispers of winter](https://bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260221 -「 Where light falls 」 
   ![Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260220 -「 Where the land stares back 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260215 -「 Love in bloom 」 
   ![Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260214 -「 Built to bring closer 」 
-  ![Built to bring closer](https://bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
