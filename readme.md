@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260223 -「 The mother of hills 」 
+  ![The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260222 -「 Whispers of winter 」 
   ![Whispers of winter](https://bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260221 -「 Where light falls 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Legacies in view](https://bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260216 -「 Songs beneath the waves 」 
   ![Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260215 -「 Love in bloom 」 
-  ![Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
