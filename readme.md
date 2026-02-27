@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260227 -「 One grand view 」 
+  ![One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260226 -「 Ice, lit from within 」 
   ![Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260225 -「 The pulse beneath the pond 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260220 -「 Where the land stares back 」 
   ![Where the land stares back](https://bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260219 -「 Born to stay wild 」 
-  ![Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
