@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260303 -「 Floating legacies 」 
+  ![Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260302 -「 A victory that endures 」 
   ![A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260301 -「 Overflowing with community 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260224 -「 Snowfield monarch 」 
   ![Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260223 -「 The mother of hills 」 
-  ![The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
