@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260305 -「 Crocuses in the spotlight 」 
+  ![Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260304 -「 Guardians of the wild 」 
   ![Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260303 -「 Floating legacies 」 
@@ -31,5 +33,3 @@ Main functions:
   ![One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260226 -「 Ice, lit from within 」 
   ![Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260225 -「 The pulse beneath the pond 」 
-  ![The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
