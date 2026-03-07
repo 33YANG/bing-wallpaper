@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260307 -「 Waves cast in concrete 」 
+  ![Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260306 -「 Ancient rocks, modern lights 」 
   ![Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260305 -「 Crocuses in the spotlight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260228 -「 Life on thinning ice 」 
   ![Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260227 -「 One grand view 」 
-  ![One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
