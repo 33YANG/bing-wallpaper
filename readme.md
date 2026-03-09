@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260309 -「 The art of saving daylight 」 
+  ![The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260308 -「 A legendary sunrise 」 
   ![A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260307 -「 Waves cast in concrete 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260302 -「 A victory that endures 」 
   ![A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260301 -「 Overflowing with community 」 
-  ![Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
