@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260312 -「 A peachy keen spring 」 
+  ![A peachy keen spring](https://bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260311 -「 Fire under frost 」 
   ![Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260310 -「 A perfectly timed nap 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260305 -「 Crocuses in the spotlight 」 
   ![Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260304 -「 Guardians of the wild 」 
-  ![Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
