@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260314 -「 A quiet masterpiece in stone 」 
+  ![A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260313 -「 Wings in rehearsal 」 
   ![Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260312 -「 A peachy keen spring 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260307 -「 Waves cast in concrete 」 
   ![Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260306 -「 Ancient rocks, modern lights 」 
-  ![Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
