@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260316 -「 Passing through, making waves 」 
+  ![Passing through, making waves](https://bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260315 -「 An ancient angle on Pi 」 
   ![An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260314 -「 A quiet masterpiece in stone 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260309 -「 The art of saving daylight 」 
   ![The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260308 -「 A legendary sunrise 」 
-  ![A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
