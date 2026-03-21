@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260321 -「 The quiet bloom of change 」 
+  ![The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260320 -「 Spike your curiosity 」 
   ![Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260319 -「 Urban blooms 」 
@@ -31,5 +33,3 @@ Main functions:
   ![An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260314 -「 A quiet masterpiece in stone 」 
   ![A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260313 -「 Wings in rehearsal 」 
-  ![Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
