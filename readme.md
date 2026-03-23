@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260323 -「 When water draws the line 」 
+  ![When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260322 -「 Where roots run wild 」 
   ![Where roots run wild](https://bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260321 -「 The quiet bloom of change 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260316 -「 Passing through, making waves 」 
   ![Passing through, making waves](https://bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260315 -「 An ancient angle on Pi 」 
-  ![An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
