@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260325 -「 The shape of spring 」 
+  ![The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260324 -「 Guided by the weather 」 
   ![Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260323 -「 When water draws the line 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Urban blooms](https://bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260318 -「 Ireland's spiritual crossroads 」 
   ![Ireland's spiritual crossroads](https://bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260317 -「 Into the Pandaverse 」 
-  ![Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
