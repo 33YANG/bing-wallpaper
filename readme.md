@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260330 -「 Serenity by the sea 」 
+  ![Serenity by the sea](https://bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260329 -「 The untamed spirit 」 
   ![The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260328 -「 Still burning bright 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260323 -「 When water draws the line 」 
   ![When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260322 -「 Where roots run wild 」 
-  ![Where roots run wild](https://bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
