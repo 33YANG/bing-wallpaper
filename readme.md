@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260403 -「 Patterns of spring 」 
+  ![Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260402 -「 Hopping into April 」 
   ![Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260401 -「 Underground paradise 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Still burning bright](https://bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260327 -「 A step above the wild 」 
   ![A step above the wild](https://bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260326 -「 The secret life of manatees 」 
-  ![The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
