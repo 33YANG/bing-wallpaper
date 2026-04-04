@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260404 -「 Bridging the gap, one arm at a time 」 
+  ![Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260403 -「 Patterns of spring 」 
   ![Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260402 -「 Hopping into April 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260328 -「 Still burning bright 」 
   ![Still burning bright](https://bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260327 -「 A step above the wild 」 
-  ![A step above the wild](https://bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
