@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260406 -「 Hello, Easter Sunday 」 
+  ![Hello, Easter Sunday](https://bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260405 -「 The lek side story 」 
   ![The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260404 -「 Bridging the gap, one arm at a time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260330 -「 Serenity by the sea 」 
   ![Serenity by the sea](https://bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260329 -「 The untamed spirit 」 
-  ![The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
