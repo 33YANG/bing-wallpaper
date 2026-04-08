@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260408 -「 One stick at a time 」 
+  ![One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260407 -「 Where power resides 」 
   ![Where power resides](https://bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260406 -「 Hello, Easter Sunday 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260401 -「 Underground paradise 」 
   ![Underground paradise](https://bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260331 -「 Elegance in motion 」 
-  ![Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
