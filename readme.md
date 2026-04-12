@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260412 -「 Volcanic veneer 」 
+  ![Volcanic veneer](https://bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260411 -「 Plotting paws 」 
   ![Plotting paws](https://bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260410 -「 Veil of light 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hello, Easter Sunday](https://bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260405 -「 The lek side story 」 
   ![The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260404 -「 Bridging the gap, one arm at a time 」 
-  ![Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
