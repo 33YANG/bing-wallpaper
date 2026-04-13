@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260413 -「 The first step off Earth 」 
+  ![The first step off Earth](https://bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260412 -「 Volcanic veneer 」 
   ![Volcanic veneer](https://bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260411 -「 Plotting paws 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where power resides](https://bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260406 -「 Hello, Easter Sunday 」 
   ![Hello, Easter Sunday](https://bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260405 -「 The lek side story 」 
-  ![The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
