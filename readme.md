@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260414 -「 After the lights go down 」 
+  ![After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260413 -「 The first step off Earth 」 
   ![The first step off Earth](https://bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260412 -「 Volcanic veneer 」 
@@ -31,5 +33,3 @@ Main functions:
   ![One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260407 -「 Where power resides 」 
   ![Where power resides](https://bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260406 -「 Hello, Easter Sunday 」 
-  ![Hello, Easter Sunday](https://bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
