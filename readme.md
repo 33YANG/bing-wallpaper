@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260417 -「 Petal parade 」 
+  ![Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260416 -「 Stepping inside the living canvas 」 
   ![Stepping inside the living canvas](https://bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260415 -「 Reefside roommates 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Plotting paws](https://bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260410 -「 Veil of light 」 
   ![Veil of light](https://bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260409 -「 The Emerald City 」 
-  ![The Emerald City](https://bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
