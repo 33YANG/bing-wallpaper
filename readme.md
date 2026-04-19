@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260419 -「 The silence of unfinished giants 」 
+  ![The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260418 -「 Bat signal: ON 」 
   ![Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260417 -「 Petal parade 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The first step off Earth](https://bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260412 -「 Volcanic veneer 」 
   ![Volcanic veneer](https://bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260411 -「 Plotting paws 」 
-  ![Plotting paws](https://bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
