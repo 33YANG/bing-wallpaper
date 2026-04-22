@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260422 -「 Spring's prickly patrol 」 
+  ![Spring's prickly patrol](https://bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260421 -「 The adventure doesn't end at sundown 」 
   ![The adventure doesn't end at sundown](https://bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260420 -「 Stories start here 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Stepping inside the living canvas](https://bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260415 -「 Reefside roommates 」 
   ![Reefside roommates](https://bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260414 -「 After the lights go down 」 
-  ![After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
