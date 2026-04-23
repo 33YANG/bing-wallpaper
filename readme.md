@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260423 -「 The power of protest 」 
+  ![The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260422 -「 Spring's prickly patrol 」 
   ![Spring's prickly patrol](https://bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260421 -「 The adventure doesn't end at sundown 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260416 -「 Stepping inside the living canvas 」 
   ![Stepping inside the living canvas](https://bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260415 -「 Reefside roommates 」 
-  ![Reefside roommates](https://bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
