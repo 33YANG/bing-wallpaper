@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260425 -「 A tribute to trees 」 
+  ![A tribute to trees](https://bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260424 -「 A cottage full of stories 」 
   ![A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260423 -「 The power of protest 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260418 -「 Bat signal: ON 」 
   ![Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260417 -「 Petal parade 」 
-  ![Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
