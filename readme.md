@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260427 -「 Bloom boom 」 
+  ![Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260426 -「 Breaking the penguin rules 」 
   ![Breaking the penguin rules](https://bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260425 -「 A tribute to trees 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The adventure doesn't end at sundown](https://bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260420 -「 Stories start here 」 
   ![Stories start here](https://bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260419 -「 The silence of unfinished giants 」 
-  ![The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
