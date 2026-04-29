@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260429 -「 Spectacles in the wild 」 
+  ![Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260428 -「 Glass with class 」 
   ![Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260427 -「 Bloom boom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260422 -「 Spring's prickly patrol 」 
   ![Spring's prickly patrol](https://bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260421 -「 The adventure doesn't end at sundown 」 
-  ![The adventure doesn't end at sundown](https://bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
