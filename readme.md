@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260430 -「 History anchored in stone 」 
+  ![History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260429 -「 Spectacles in the wild 」 
   ![Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260428 -「 Glass with class 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260423 -「 The power of protest 」 
   ![The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260422 -「 Spring's prickly patrol 」 
-  ![Spring's prickly patrol](https://bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
