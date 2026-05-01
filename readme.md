@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260501 -「 Tulips run the show 」 
+  ![Tulips run the show](https://bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260430 -「 History anchored in stone 」 
   ![History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260429 -「 Spectacles in the wild 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A tribute to trees](https://bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260424 -「 A cottage full of stories 」 
   ![A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260423 -「 The power of protest 」 
-  ![The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
