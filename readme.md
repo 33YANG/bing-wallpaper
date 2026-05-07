@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260507 -「 Plains under pressure 」 
+  ![Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260506 -「 Where history took root 」 
   ![Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260505 -「 Sci‑Fi, Earth‑made 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tulips run the show](https://bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260430 -「 History anchored in stone 」 
   ![History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260429 -「 Spectacles in the wild 」 
-  ![Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
