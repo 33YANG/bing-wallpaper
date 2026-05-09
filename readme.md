@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260509 -「 More than a hee-haw 」 
+  ![More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260508 -「 Desert, drawn wide 」 
   ![Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260507 -「 Plains under pressure 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The magic of Jasper](https://bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260502 -「 A pond of stories 」 
   ![A pond of stories](https://bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260501 -「 Tulips run the show 」 
-  ![Tulips run the show](https://bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
