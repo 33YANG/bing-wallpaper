@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260512 -「 Underwater architecture 」 
+  ![Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260511 -「 A bond that endures 」 
   ![A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260510 -「 The architect of Krka 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260505 -「 Sci‑Fi, Earth‑made 」 
   ![Sci‑Fi, Earth‑made](https://bing.com/th?id=OHR.KsarOuledSoltane_EN-US0477407273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260504 -「 Savanna afterglow 」 
-  ![Savanna afterglow](https://bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
