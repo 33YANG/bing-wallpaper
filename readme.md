@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260514 -「 Rock on, Milky Way! 」 
+  ![Rock on, Milky Way!](https://bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260513 -「 Flap, dive, survive 」 
   ![Flap, dive, survive](https://bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260512 -「 Underwater architecture 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260507 -「 Plains under pressure 」 
   ![Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260506 -「 Where history took root 」 
-  ![Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
