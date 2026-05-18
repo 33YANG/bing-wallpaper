@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260518 -「 Quiet peak, loud view 」 
+  ![Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260517 -「 Rock bottom? Not here 」 
   ![Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260516 -「 Whale you save me? 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260511 -「 A bond that endures 」 
   ![A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260510 -「 The architect of Krka 」 
-  ![The architect of Krka](https://bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
