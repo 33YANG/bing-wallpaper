@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260520 -「 The edge of Mallorca 」 
+  ![The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260519 -「 Hope in the hall 」 
   ![Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260518 -「 Quiet peak, loud view 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Rock on, Milky Way!](https://bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260513 -「 Flap, dive, survive 」 
   ![Flap, dive, survive](https://bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260512 -「 Underwater architecture 」 
-  ![Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
