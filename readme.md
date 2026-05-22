@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260522 -「 Brewing a legacy 」 
+  ![Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260521 -「 Where the buzz begins 」 
   ![Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260520 -「 The edge of Mallorca 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Whale you save me?](https://bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260515 -「 A journey through time 」 
   ![A journey through time](https://bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260514 -「 Rock on, Milky Way! 」 
-  ![Rock on, Milky Way!](https://bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
