@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260525 -「 Preserving Europe's wild places 」 
+  ![Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260524 -「 Shell yeah, turtles! 」 
   ![Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260523 -「 The shape of life at sea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260518 -「 Quiet peak, loud view 」 
   ![Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260517 -「 Rock bottom? Not here 」 
-  ![Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
