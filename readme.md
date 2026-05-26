@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260526 -「 Where silence bears names 」 
+  ![Where silence bears names](https://bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260525 -「 Preserving Europe's wild places 」 
   ![Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260524 -「 Shell yeah, turtles! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260519 -「 Hope in the hall 」 
   ![Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260518 -「 Quiet peak, loud view 」 
-  ![Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
