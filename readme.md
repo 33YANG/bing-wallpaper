@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260528 -「 No 'otter' like them 」 
+  ![No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260527 -「 A season written in lupine 」 
   ![A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260526 -「 Where silence bears names 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260521 -「 Where the buzz begins 」 
   ![Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260520 -「 The edge of Mallorca 」 
-  ![The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
