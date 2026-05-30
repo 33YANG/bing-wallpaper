@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260530 -「 A 'peak' into history 」 
+  ![A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260529 -「 Design meets discipline 」 
   ![Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260528 -「 No 'otter' like them 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260523 -「 The shape of life at sea 」 
   ![The shape of life at sea](https://bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260522 -「 Brewing a legacy 」 
-  ![Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
