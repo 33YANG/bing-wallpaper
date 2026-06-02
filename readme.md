@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260602 -「 Pride in plain sight 」 
+  ![Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260601 -「 Follow the flow 」 
   ![Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260531 -「 Reading between the lines 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260526 -「 Where silence bears names 」 
   ![Where silence bears names](https://bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260525 -「 Preserving Europe's wild places 」 
-  ![Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
