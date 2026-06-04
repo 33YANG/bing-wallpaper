@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260604 -「 Where the road stops, the ride begins 」 
+  ![Where the road stops, the ride begins](https://bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260603 -「 Between the blues 」 
   ![Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260602 -「 Pride in plain sight 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260528 -「 No 'otter' like them 」 
   ![No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260527 -「 A season written in lupine 」 
-  ![A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
