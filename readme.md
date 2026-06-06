@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260606 -「 The quiet power of an unclaimed world 」 
+  ![The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260605 -「 Fancy feathers 」 
   ![Fancy feathers](https://bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260604 -「 Where the road stops, the ride begins 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260530 -「 A 'peak' into history 」 
   ![A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260529 -「 Design meets discipline 」 
-  ![Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
