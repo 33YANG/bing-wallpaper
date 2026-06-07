@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260607 -「 Wander often, wonder more 」 
+  ![Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260606 -「 The quiet power of an unclaimed world 」 
   ![The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260605 -「 Fancy feathers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260531 -「 Reading between the lines 」 
   ![Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260530 -「 A 'peak' into history 」 
-  ![A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
