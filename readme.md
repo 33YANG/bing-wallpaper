@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260610 -「 Taste the sunset 」 
+  ![Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260609 -「 Drift with the current 」 
   ![Drift with the current](https://bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260608 -「 Plant your kingdom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the road stops, the ride begins](https://bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260603 -「 Between the blues 」 
   ![Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260602 -「 Pride in plain sight 」 
-  ![Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
