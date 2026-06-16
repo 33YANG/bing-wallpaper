@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260616 -「 Aged to scenic perfection 」 
+  ![Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260615 -「 History flies high 」 
   ![History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260614 -「 Layers of change 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260609 -「 Drift with the current 」 
   ![Drift with the current](https://bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260608 -「 Plant your kingdom 」 
-  ![Plant your kingdom](https://bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
