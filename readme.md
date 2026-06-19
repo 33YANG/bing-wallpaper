@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260619 -「 A rock-solid marvel 」 
+  ![A rock-solid marvel](https://bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260618 -「 Twist your way up 」 
   ![Twist your way up](https://bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260617 -「 Nature's reef keepers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260612 -「 Quiet strength 」 
   ![Quiet strength](https://bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260611 -「 A splash of blue 」 
-  ![A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
