@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260620 -「 A story rising in bronze 」 
+  ![A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260619 -「 A rock-solid marvel 」 
   ![A rock-solid marvel](https://bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260618 -「 Twist your way up 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Layers of change](https://bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260613 -「 A flash in flight 」 
   ![A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260612 -「 Quiet strength 」 
-  ![Quiet strength](https://bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
