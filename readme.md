@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260621 -「 An ocean's frozen cathedral 」 
+  ![An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260620 -「 A story rising in bronze 」 
   ![A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260619 -「 A rock-solid marvel 」 
@@ -31,5 +33,3 @@ Main functions:
   ![History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260614 -「 Layers of change 」 
   ![Layers of change](https://bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260613 -「 A flash in flight 」 
-  ![A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
