@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260625 -「 Pollen meets wings 」 
+  ![Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260624 -「 Signature on the horizon 」 
   ![Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260623 -「 A lush kingdom 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A rock-solid marvel](https://bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260618 -「 Twist your way up 」 
   ![Twist your way up](https://bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260617 -「 Nature's reef keepers 」 
-  ![Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
