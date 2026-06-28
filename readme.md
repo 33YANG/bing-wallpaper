@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260628 -「 The trees that lost ground 」 
+  ![The trees that lost ground](https://bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260627 -「 Current affairs 」 
   ![Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260626 -「 Square up to history 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Feathered fathers](https://bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260621 -「 An ocean's frozen cathedral 」 
   ![An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260620 -「 A story rising in bronze 」 
-  ![A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
