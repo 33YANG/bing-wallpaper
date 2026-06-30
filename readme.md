@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260630 -「 Born on fire, held by water 」 
+  ![Born on fire, held by water](https://bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260629 -「 Looking sharp 」 
   ![Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260628 -「 The trees that lost ground 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260623 -「 A lush kingdom 」 
   ![A lush kingdom](https://bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260622 -「 Feathered fathers 」 
-  ![Feathered fathers](https://bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
