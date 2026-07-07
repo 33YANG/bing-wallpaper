@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260707 -「 A city written in centuries 」 
+  ![A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260706 -「 Sea of purple 」 
   ![Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260705 -「 The story continues 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260630 -「 Born on fire, held by water 」 
   ![Born on fire, held by water](https://bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260629 -「 Looking sharp 」 
-  ![Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
