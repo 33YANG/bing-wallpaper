@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260709 -「 Echoes of a volcanic past 」 
+  ![Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260708 -「 Color, craft, and canopy life 」 
   ![Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260707 -「 A city written in centuries 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Inside Esna's sacred universe](https://bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260702 -「 Canada, carved by the Atlantic 」 
   ![Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260701 -「 Where shadows stretch tall 」 
-  ![Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
