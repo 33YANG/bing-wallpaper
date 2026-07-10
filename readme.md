@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260710 -「 Tradition in every step 」 
+  ![Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260709 -「 Echoes of a volcanic past 」 
   ![Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260708 -「 Color, craft, and canopy life 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260703 -「 Inside Esna's sacred universe 」 
   ![Inside Esna's sacred universe](https://bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260702 -「 Canada, carved by the Atlantic 」 
-  ![Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
