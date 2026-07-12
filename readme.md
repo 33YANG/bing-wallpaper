@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260712 -「 Where Brittany meets the tide 」 
+  ![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260711 -「 The land of moving shorelines 」 
   ![The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260710 -「 Tradition in every step 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260705 -「 The story continues 」 
   ![The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260704 -「 The poetry of vanishing light 」 
-  ![The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
