@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260713 -「 A wilder side of Maine 」 
+  ![A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260712 -「 Where Brittany meets the tide 」 
   ![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260711 -「 The land of moving shorelines 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260706 -「 Sea of purple 」 
   ![Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260705 -「 The story continues 」 
-  ![The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
