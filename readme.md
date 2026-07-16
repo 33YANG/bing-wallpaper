@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260716 -「 The reward after the climb 」 
+  ![The reward after the climb](https://bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260715 -「 Fin-tastic truths 」 
   ![Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260714 -「 Born to rock 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260709 -「 Echoes of a volcanic past 」 
   ![Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260708 -「 Color, craft, and canopy life 」 
-  ![Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
