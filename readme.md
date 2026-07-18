@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260718 -「 A Greek escape 」 
+  ![A Greek escape](https://bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260717 -「 A waterfront chameleon 」 
   ![A waterfront chameleon](https://bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260716 -「 The reward after the climb 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260711 -「 The land of moving shorelines 」 
   ![The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260710 -「 Tradition in every step 」 
-  ![Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
