@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260720 -「 Wings at rest 」 
+  ![Wings at rest](https://bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260719 -「 Going full circle 」 
   ![Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260718 -「 A Greek escape 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260713 -「 A wilder side of Maine 」 
   ![A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260712 -「 Where Brittany meets the tide 」 
-  ![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
