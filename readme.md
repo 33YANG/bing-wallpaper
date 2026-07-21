@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260721 -「 The lunar perspective 」 
+  ![The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260720 -「 Wings at rest 」 
   ![Wings at rest](https://bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260719 -「 Going full circle 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260714 -「 Born to rock 」 
   ![Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260713 -「 A wilder side of Maine 」 
-  ![A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
