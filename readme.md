@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260723 -「 Small footprint, big impact 」 
+  ![Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260722 -「 Hidden in plain arch 」 
   ![Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260721 -「 The lunar perspective 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A waterfront chameleon](https://bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260716 -「 The reward after the climb 」 
   ![The reward after the climb](https://bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260715 -「 Fin-tastic truths 」 
-  ![Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
