@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260729 -「 A balance in motion 」 
+  ![A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260728 -「 Chicago, look up! 」 
   ![Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260727 -「 Between land and sea, life begins 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260722 -「 Hidden in plain arch 」 
   ![Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260721 -「 The lunar perspective 」 
-  ![The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
