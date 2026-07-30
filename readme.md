@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260730 -「 A comeback with claws 」 
+  ![A comeback with claws](https://bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260729 -「 A balance in motion 」 
   ![A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260728 -「 Chicago, look up! 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260723 -「 Small footprint, big impact 」 
   ![Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260722 -「 Hidden in plain arch 」 
-  ![Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
