@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260801 -「 Trailing through time 」 
+  ![Trailing through time](https://bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260731 -「 A landscape of living heritage 」 
   ![A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260730 -「 A comeback with claws 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Into Galicia's hidden arches](https://bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260725 -「 Family, in full color 」 
   ![Family, in full color](https://bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260724 -「 A symphony of petals 」 
-  ![A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
