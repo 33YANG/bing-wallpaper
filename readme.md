@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260802 -「 The power of Kīlauea 」 
+  ![The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260801 -「 Trailing through time 」 
   ![Trailing through time](https://bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260731 -「 A landscape of living heritage 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Between land and sea, life begins](https://bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260726 -「 Into Galicia's hidden arches 」 
   ![Into Galicia's hidden arches](https://bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260725 -「 Family, in full color 」 
-  ![Family, in full color](https://bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
