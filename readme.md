@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260804 -「 Bright boats, timeless traditions 」 
+  ![Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260803 -「 Daughter of the Baltic 」 
   ![Daughter of the Baltic](https://bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260802 -「 The power of Kīlauea 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260728 -「 Chicago, look up! 」 
   ![Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260727 -「 Between land and sea, life begins 」 
-  ![Between land and sea, life begins](https://bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
