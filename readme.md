@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260805 -「 Hoot hoot hooray! 」 
+  ![Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260804 -「 Bright boats, timeless traditions 」 
   ![Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260803 -「 Daughter of the Baltic 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A comeback with claws](https://bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260729 -「 A balance in motion 」 
   ![A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260728 -「 Chicago, look up! 」 
-  ![Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
