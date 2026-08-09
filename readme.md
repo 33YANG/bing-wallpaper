@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260809 -「 Crossing into infinity 」 
+  ![Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260808 -「 Guiding ships through history 」 
   ![Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260807 -「 Where the river tests the brave 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Daughter of the Baltic](https://bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260802 -「 The power of Kīlauea 」 
   ![The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260801 -「 Trailing through time 」 
-  ![Trailing through time](https://bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
