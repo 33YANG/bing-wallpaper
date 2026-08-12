@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260812 -「 Copenhagen in full color 」 
+  ![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260811 -「 Where two deserts collide 」 
   ![Where two deserts collide](https://bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260810 -「 Architecture of identity 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260805 -「 Hoot hoot hooray! 」 
   ![Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260804 -「 Bright boats, timeless traditions 」 
-  ![Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
