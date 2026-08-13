@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260813 -「 Giants worth protecting 」 
+  ![Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260812 -「 Copenhagen in full color 」 
   ![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260811 -「 Where two deserts collide 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260806 -「 Gates of a hidden kingdom 」 
   ![Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260805 -「 Hoot hoot hooray! 」 
-  ![Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
