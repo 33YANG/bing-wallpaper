@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260814 -「 Make a wish 」 
+  ![Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260813 -「 Giants worth protecting 」 
   ![Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260812 -「 Copenhagen in full color 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260807 -「 Where the river tests the brave 」 
   ![Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260806 -「 Gates of a hidden kingdom 」 
-  ![Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
