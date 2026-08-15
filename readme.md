@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260815 -「 Built for paws, not people 」 
+  ![Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260814 -「 Make a wish 」 
   ![Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260813 -「 Giants worth protecting 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260808 -「 Guiding ships through history 」 
   ![Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260807 -「 Where the river tests the brave 」 
-  ![Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
