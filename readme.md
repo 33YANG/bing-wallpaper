@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260817 -「 Where swans started a legend 」 
+  ![Where swans started a legend](https://bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260816 -「 The great balancing act 」 
   ![The great balancing act](https://bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260815 -「 Built for paws, not people 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where two deserts collide](https://bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260810 -「 Architecture of identity 」 
   ![Architecture of identity](https://bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260809 -「 Crossing into infinity 」 
-  ![Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
