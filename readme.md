@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260818 -「 A prime 'reef' estate 」 
+  ![A prime 'reef' estate](https://bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260817 -「 Where swans started a legend 」 
   ![Where swans started a legend](https://bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260816 -「 The great balancing act 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260811 -「 Where two deserts collide 」 
   ![Where two deserts collide](https://bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260810 -「 Architecture of identity 」 
-  ![Architecture of identity](https://bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
