@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260819 -「 Geometry of a star city 」 
+  ![Geometry of a star city](https://bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260818 -「 A prime 'reef' estate 」 
   ![A prime 'reef' estate](https://bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260817 -「 Where swans started a legend 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260812 -「 Copenhagen in full color 」 
   ![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260811 -「 Where two deserts collide 」 
-  ![Where two deserts collide](https://bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
