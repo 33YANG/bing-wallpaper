@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260823 -「 Sky tinted wings 」 
+  ![Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260822 -「 The climb is calling 」 
   ![The climb is calling](https://bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260821 -「 Voices of the pod 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where swans started a legend](https://bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260816 -「 The great balancing act 」 
   ![The great balancing act](https://bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260815 -「 Built for paws, not people 」 
-  ![Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
