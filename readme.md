@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260826 -「 Protecting America's treasures 」 
+  ![Protecting America's treasures](https://bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260825 -「 Crossing into history 」 
   ![Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260824 -「 Meet Katmai's fishing giants 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Testing the future of flight](https://bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260819 -「 Geometry of a star city 」 
   ![Geometry of a star city](https://bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260818 -「 A prime 'reef' estate 」 
-  ![A prime 'reef' estate](https://bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
