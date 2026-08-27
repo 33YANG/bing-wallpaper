@@ -17,6 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260828 -「 Water, wildlife, and wonder 」 
+  ![Water, wildlife, and wonder](https://bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20260827 -「 A sky alive with color 」 
+  ![A sky alive with color](https://bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260826 -「 Protecting America's treasures 」 
   ![Protecting America's treasures](https://bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260825 -「 Crossing into history 」 
@@ -29,7 +33,3 @@ Main functions:
   ![The climb is calling](https://bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260821 -「 Voices of the pod 」 
   ![Voices of the pod](https://bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260820 -「 Testing the future of flight 」 
-  ![Testing the future of flight](https://bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260819 -「 Geometry of a star city 」 
-  ![Geometry of a star city](https://bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
