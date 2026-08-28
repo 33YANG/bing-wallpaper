@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260829 -「 Where tides shape a legend 」 
+  ![Where tides shape a legend](https://bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260828 -「 Water, wildlife, and wonder 」 
   ![Water, wildlife, and wonder](https://bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260827 -「 A sky alive with color 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260822 -「 The climb is calling 」 
   ![The climb is calling](https://bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260821 -「 Voices of the pod 」 
-  ![Voices of the pod](https://bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
