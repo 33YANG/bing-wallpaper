@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260831 -「 The fish that outgrew its name 」 
+  ![The fish that outgrew its name](https://bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260830 -「 Reading between the waves 」 
   ![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260829 -「 Where tides shape a legend 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260824 -「 Meet Katmai's fishing giants 」 
   ![Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260823 -「 Sky tinted wings 」 
-  ![Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
