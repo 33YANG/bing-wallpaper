@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260902 -「 A world beneath your feet 」 
+  ![A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260901 -「 A master class in pattern 」 
   ![A master class in pattern](https://bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260831 -「 The fish that outgrew its name 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A sky alive with color](https://bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260826 -「 Protecting America's treasures 」 
   ![Protecting America's treasures](https://bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260825 -「 Crossing into history 」 
-  ![Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
