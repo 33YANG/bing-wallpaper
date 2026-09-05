@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260905 -「 Red and white on the horizon 」 
+  ![Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260904 -「 An act of wilderness 」 
   ![An act of wilderness](https://bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260903 -「 Painted along the shore 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260829 -「 Where tides shape a legend 」 
   ![Where tides shape a legend](https://bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260828 -「 Water, wildlife, and wonder 」 
-  ![Water, wildlife, and wonder](https://bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
