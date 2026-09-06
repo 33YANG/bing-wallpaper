@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260906 -「 Small birds, big impact 」 
+  ![Small birds, big impact](https://bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260905 -「 Red and white on the horizon 」 
   ![Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260904 -「 An act of wilderness 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The fish that outgrew its name](https://bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260830 -「 Reading between the waves 」 
   ![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260829 -「 Where tides shape a legend 」 
-  ![Where tides shape a legend](https://bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
