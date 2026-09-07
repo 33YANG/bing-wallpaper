@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260907 -「 A reservoir of reflections 」 
+  ![A reservoir of reflections](https://bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260906 -「 Small birds, big impact 」 
   ![Small birds, big impact](https://bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260905 -「 Red and white on the horizon 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A master class in pattern](https://bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260831 -「 The fish that outgrew its name 」 
   ![The fish that outgrew its name](https://bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260830 -「 Reading between the waves 」 
-  ![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
