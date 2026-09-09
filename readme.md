@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260909 -「 Fields of gold 」 
+  ![Fields of gold](https://bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260908 -「 Labor's legacy 」 
   ![Labor's legacy](https://bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260907 -「 A reservoir of reflections 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260902 -「 A world beneath your feet 」 
   ![A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260901 -「 A master class in pattern 」 
-  ![A master class in pattern](https://bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
