@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260912 -「 A legacy of heroism 」 
+  ![A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260911 -「 A patchwork from above 」 
   ![A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260910 -「 Life on India's west coast 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Small birds, big impact](https://bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260905 -「 Red and white on the horizon 」 
   ![Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260904 -「 An act of wilderness 」 
-  ![An act of wilderness](https://bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
