@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260913 -「 Masters of the surf and shore 」 
+  ![Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260912 -「 A legacy of heroism 」 
   ![A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260911 -「 A patchwork from above 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A reservoir of reflections](https://bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260906 -「 Small birds, big impact 」 
   ![Small birds, big impact](https://bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260905 -「 Red and white on the horizon 」 
-  ![Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
