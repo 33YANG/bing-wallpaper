@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260915 -「 Where toughness takes root 」 
+  ![Where toughness takes root](https://bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260914 -「 A reef above its station 」 
   ![A reef above its station](https://bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260913 -「 Masters of the surf and shore 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Fields of gold](https://bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260908 -「 Labor's legacy 」 
   ![Labor's legacy](https://bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260907 -「 A reservoir of reflections 」 
-  ![A reservoir of reflections](https://bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
