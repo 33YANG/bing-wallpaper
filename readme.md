@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260919 -「 Through the heart of the pass 」 
+  ![Through the heart of the pass](https://bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260918 -「 A toast to the harvest 」 
   ![A toast to the harvest](https://bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260917 -「 The Arctic's new explorers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260912 -「 A legacy of heroism 」 
   ![A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260911 -「 A patchwork from above 」 
-  ![A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
