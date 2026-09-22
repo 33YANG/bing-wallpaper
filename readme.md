@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260922 -「 Life between fur and sea 」 
+  ![Life between fur and sea](https://bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260921 -「 The tower that won Paris over 」 
   ![The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260920 -「 The Alpine sound of Oktoberfest 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A crossroad of cultures](https://bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260915 -「 Where toughness takes root 」 
   ![Where toughness takes root](https://bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260914 -「 A reef above its station 」 
-  ![A reef above its station](https://bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
