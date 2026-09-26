@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260926 -「 When the moon joins the party 」 
+  ![When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260925 -「 Ash meets splash 」 
   ![Ash meets splash](https://bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260924 -「 Beyond the last page 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260919 -「 Through the heart of the pass 」 
   ![Through the heart of the pass](https://bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260918 -「 A toast to the harvest 」 
-  ![A toast to the harvest](https://bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
