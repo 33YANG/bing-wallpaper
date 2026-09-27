@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20260927 -「 The stories written across the land 」 
+  ![The stories written across the land](https://bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260926 -「 When the moon joins the party 」 
   ![When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260925 -「 Ash meets splash 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260920 -「 The Alpine sound of Oktoberfest 」 
   ![The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260919 -「 Through the heart of the pass 」 
-  ![Through the heart of the pass](https://bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
