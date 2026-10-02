@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261002 -「 Reading time in granite 」 
+  ![Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261001 -「 A face you don't forget 」 
   ![A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260930 -「 Born of glaciers 」 
@@ -31,5 +33,3 @@ Main functions:
   ![When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20260925 -「 Ash meets splash 」 
   ![Ash meets splash](https://bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260924 -「 Beyond the last page 」 
-  ![Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
