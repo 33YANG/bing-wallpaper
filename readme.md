@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261008 -「 Puzzled? Follow the trail 」 
+  ![Puzzled? Follow the trail](https://bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261007 -「 Earth's story in stripes 」 
   ![Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261006 -「 Taking the plunge, one lesson at a time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261001 -「 A face you don't forget 」 
   ![A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20260930 -「 Born of glaciers 」 
-  ![Born of glaciers](https://bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
