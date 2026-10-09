@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261009 -「 Now you 'sea' me... 」 
+  ![Now you 'sea' me...](https://bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261008 -「 Puzzled? Follow the trail 」 
   ![Puzzled? Follow the trail](https://bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261007 -「 Earth's story in stripes 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A river worth protecting](https://bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261002 -「 Reading time in granite 」 
   ![Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261001 -「 A face you don't forget 」 
-  ![A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
