@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261011 -「 Life along the flyway 」 
+  ![Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261010 -「 Corsica's rocky outposts 」 
   ![Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261009 -「 Now you 'sea' me... 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The universe is calling](https://bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261004 -「 Catch, eat, repeat 」 
   ![Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261003 -「 A river worth protecting 」 
-  ![A river worth protecting](https://bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
