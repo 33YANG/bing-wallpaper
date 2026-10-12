@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261012 -「 Where autumn turns the wheel 」 
+  ![Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261011 -「 Life along the flyway 」 
   ![Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261010 -「 Corsica's rocky outposts 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Taking the plunge, one lesson at a time](https://bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261005 -「 The universe is calling 」 
   ![The universe is calling](https://bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261004 -「 Catch, eat, repeat 」 
-  ![Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
