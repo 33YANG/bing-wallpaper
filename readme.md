@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261017 -「 'Peak' into Colorado 」 
+  !['Peak' into Colorado](https://bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261016 -「 Bridges, rooftops, and twilight 」 
   ![Bridges, rooftops, and twilight](https://bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261015 -「 Spirals through time 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261010 -「 Corsica's rocky outposts 」 
   ![Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261009 -「 Now you 'sea' me... 」 
-  ![Now you 'sea' me...](https://bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
