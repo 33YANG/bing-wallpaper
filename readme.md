@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261027 -「 Hanging in there 」 
+  ![Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261026 -「 Nature's autumn soundtrack 」 
   ![Nature's autumn soundtrack](https://bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261025 -「 Bookishly extravagant 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261020 -「 The road that runs on water 」 
   ![The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261019 -「 75 and thriving 」 
-  ![75 and thriving](https://bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
