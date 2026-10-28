@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261028 -「 Nature's golden mirror 」 
+  ![Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261027 -「 Hanging in there 」 
   ![Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261026 -「 Nature's autumn soundtrack 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261021 -「 Life in the slow lane 」 
   ![Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261020 -「 The road that runs on water 」 
-  ![The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
