@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261029 -「 Where history stands watch 」 
+  ![Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261028 -「 Nature's golden mirror 」 
   ![Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261027 -「 Hanging in there 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261022 -「 Winging it over the river 」 
   ![Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261021 -「 Life in the slow lane 」 
-  ![Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
