@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261030 -「 Where mist meets millennia 」 
+  ![Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261029 -「 Where history stands watch 」 
   ![Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261028 -「 Nature's golden mirror 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Partners in the wild](https://bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261023 -「 Still waters, vivid colors 」 
   ![Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261022 -「 Winging it over the river 」 
-  ![Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
