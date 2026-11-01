@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261101 -「 Ghosts of empires past 」 
+  ![Ghosts of empires past](https://bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261031 -「 Time to fly high 」 
   ![Time to fly high](https://bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261030 -「 Where mist meets millennia 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's autumn soundtrack](https://bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261025 -「 Bookishly extravagant 」 
   ![Bookishly extravagant](https://bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261024 -「 Partners in the wild 」 
-  ![Partners in the wild](https://bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
