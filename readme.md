@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261103 -「 A future written in ice 」 
+  ![A future written in ice](https://bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261102 -「 Crafting continuity 」 
   ![Crafting continuity](https://bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261101 -「 Ghosts of empires past 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261027 -「 Hanging in there 」 
   ![Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261026 -「 Nature's autumn soundtrack 」 
-  ![Nature's autumn soundtrack](https://bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
