@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261106 -「 One step closer to the summit 」 
+  ![One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261105 -「 Paddling a painted forest 」 
   ![Paddling a painted forest](https://bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261104 -「 Peace among the peaks 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Time to fly high](https://bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261030 -「 Where mist meets millennia 」 
   ![Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261029 -「 Where history stands watch 」 
-  ![Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
