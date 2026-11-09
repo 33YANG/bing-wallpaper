@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261109 -「 A celebration that shines 」 
+  ![A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261108 -「 The giant that came back 」 
   ![The giant that came back](https://bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261107 -「 A green tunnel through Maui 」 
@@ -31,5 +33,3 @@ Main functions:
   ![A future written in ice](https://bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261102 -「 Crafting continuity 」 
   ![Crafting continuity](https://bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261101 -「 Ghosts of empires past 」 
-  ![Ghosts of empires past](https://bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
