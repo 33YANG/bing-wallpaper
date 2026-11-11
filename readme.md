@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261111 -「 Licensed to chill 」 
+  ![Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261110 -「 Where art finds its rhythm 」 
   ![Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261109 -「 A celebration that shines 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Paddling a painted forest](https://bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261104 -「 Peace among the peaks 」 
   ![Peace among the peaks](https://bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261103 -「 A future written in ice 」 
-  ![A future written in ice](https://bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
