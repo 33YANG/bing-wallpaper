@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261114 -「 Hidden depths 」 
+  ![Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261113 -「 Architecture without an architect 」 
   ![Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261112 -「 A salute in red, white, and blue 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The giant that came back](https://bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261107 -「 A green tunnel through Maui 」 
   ![A green tunnel through Maui](https://bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261106 -「 One step closer to the summit 」 
-  ![One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
