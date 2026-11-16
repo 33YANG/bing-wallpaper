@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261116 -「 Frosty foliage 」 
+  ![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261115 -「 The only way is up 」 
   ![The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261114 -「 Hidden depths 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261109 -「 A celebration that shines 」 
   ![A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261108 -「 The giant that came back 」 
-  ![The giant that came back](https://bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
