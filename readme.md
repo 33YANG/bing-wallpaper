@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261117 -「 Built to last 」 
+  ![Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261116 -「 Frosty foliage 」 
   ![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261115 -「 The only way is up 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261110 -「 Where art finds its rhythm 」 
   ![Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261109 -「 A celebration that shines 」 
-  ![A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
