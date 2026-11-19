@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261119 -「 Hunting from dusk till dawn 」 
+  ![Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261118 -「 Step into the great outdoors 」 
   ![Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261117 -「 Built to last 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261112 -「 A salute in red, white, and blue 」 
   ![A salute in red, white, and blue](https://bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261111 -「 Licensed to chill 」 
-  ![Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
