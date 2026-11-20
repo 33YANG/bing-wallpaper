@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261120 -「 Where ideas take shape 」 
+  ![Where ideas take shape](https://bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261119 -「 Hunting from dusk till dawn 」 
   ![Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261118 -「 Step into the great outdoors 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261113 -「 Architecture without an architect 」 
   ![Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261112 -「 A salute in red, white, and blue 」 
-  ![A salute in red, white, and blue](https://bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
