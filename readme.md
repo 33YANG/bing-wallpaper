@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261121 -「 Feasting in the fjords 」 
+  ![Feasting in the fjords](https://bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261120 -「 Where ideas take shape 」 
   ![Where ideas take shape](https://bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261119 -「 Hunting from dusk till dawn 」 
@@ -31,5 +33,3 @@ Main functions:
   ![The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261114 -「 Hidden depths 」 
   ![Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261113 -「 Architecture without an architect 」 
-  ![Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
