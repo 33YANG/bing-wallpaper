@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261123 -「 Shelter among the waves 」 
+  ![Shelter among the waves](https://bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261122 -「 Terracotta dreams 」 
   ![Terracotta dreams](https://bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261121 -「 Feasting in the fjords 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261116 -「 Frosty foliage 」 
   ![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261115 -「 The only way is up 」 
-  ![The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
