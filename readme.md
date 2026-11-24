@@ -17,6 +17,10 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261125 -「 Autumnal camouflage 」 
+  ![Autumnal camouflage](https://bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 20261124 -「 Geometry in nature 」 
+  ![Geometry in nature](https://bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261123 -「 Shelter among the waves 」 
   ![Shelter among the waves](https://bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261122 -「 Terracotta dreams 」 
@@ -29,7 +33,3 @@ Main functions:
   ![Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261118 -「 Step into the great outdoors 」 
   ![Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261117 -「 Built to last 」 
-  ![Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261116 -「 Frosty foliage 」 
-  ![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
