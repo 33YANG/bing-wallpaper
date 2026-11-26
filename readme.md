@@ -17,6 +17,8 @@ Main functions:
 
 ## Last Week's Bing Wallpaper Preview
 
+- 20261126 -「 A southwestern snowfall 」 
+  ![A southwestern snowfall](https://bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261125 -「 Autumnal camouflage 」 
   ![Autumnal camouflage](https://bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261124 -「 Geometry in nature 」 
@@ -31,5 +33,3 @@ Main functions:
   ![Where ideas take shape](https://bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 - 20261119 -「 Hunting from dusk till dawn 」 
   ![Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-- 20261118 -「 Step into the great outdoors 」 
-  ![Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
